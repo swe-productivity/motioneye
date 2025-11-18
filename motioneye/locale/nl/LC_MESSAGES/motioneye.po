@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-10-30 22:46+0000\n"
-"PO-Revision-Date: 2025-11-01 12:29+0000\n"
+"PO-Revision-Date: 2025-11-01 17:07+0000\n"
 "Last-Translator: Marijn <168113859+Marijn0@users.noreply.github.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/nl/>\n"
 "Language: nl\n"
@@ -32,15 +32,15 @@ msgstr "Bestandsnamen mogen alleen alfanumerieke tekens bevatten, haakjes (), sc
 
 #: motioneye/config.py:869
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
-msgstr ""
+msgstr "Mapnamen mogen alleen alfanumerieke tekens bevatten, spaties, haakjes (), schuine strepen /, punten ., underscores _ en koppeltekens -"
 
 #: motioneye/config.py:874
 msgid "Email addresses are only allowed to contain alphanumerical characters, underscore _, plus +, dot ., at @, caret ^, tilde ~, angle brackets <>, hyphen -, and may be separated by comma, and space"
-msgstr ""
+msgstr "E-mailadressen mogen alleen alfanumerieke tekens bevatten, underscores _, plustekens +, punten ., apenstaartjes @, dakjes ^, tildes ~, punthaken <>, koppeltekens - en mogen worden gescheiden door komma’s en spaties"
 
 #: motioneye/config.py:879
 msgid "URLs are not allowed to contain caret ^, semicolon ;, or apostrophe '"
-msgstr ""
+msgstr "URL's mogen geen dakje ^, puntkomma ; of apostrof ' bevatten"
 
 #: motioneye/server.py:232
 msgid "interrompa signalo ricevita, fermanta …"
