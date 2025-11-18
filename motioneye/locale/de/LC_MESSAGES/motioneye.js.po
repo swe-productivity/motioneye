@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-30 22:46+0000\n"
-"PO-Revision-Date: 2025-11-18 02:51+0000\n"
+"PO-Revision-Date: 2025-11-18 12:07+0000\n"
 "Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/de/>\n"
 "Language: de\n"
@@ -202,7 +202,7 @@ msgstr "Das Senden der E-Mail ist fehlgeschlagen:"
 
 #: motioneye/static/js/main.js:3122
 msgid "Notification email succeeded!"
-msgstr "E-Mail Benachrichtigung erfolgreich!"
+msgstr "E-Mail-Benachrichtigung erfolgreich!"
 
 #: motioneye/static/js/main.js:3138
 msgid "Certiĝu, ke ĉiuj agordaj opcioj estas validaj!"
