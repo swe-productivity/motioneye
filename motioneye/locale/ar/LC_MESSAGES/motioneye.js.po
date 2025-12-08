@@ -4,40 +4,37 @@
 # Automatically generated, 2020.
 #
 # mahmoud nabil <mahmoudnabil2000026@gmail.com>, 2025.
+# Nasser Bin Laboun <nasser1990com@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2025-07-12 02:01+0000\n"
-"Last-Translator: mahmoud nabil <mahmoudnabil2000026@gmail.com>\n"
+"PO-Revision-Date: 2025-12-09 00:09+0000\n"
+"Last-Translator: Nasser Bin Laboun <nasser1990com@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: motioneye/static/js/main.js:610
-#, fuzzy
 msgid "specialaj signoj ne rajtas en pasvorto"
 msgstr "الأحرف الخاصة غير مسموح بها في كلمة المرور"
 
 #: motioneye/static/js/main.js:617 motioneye/static/js/main.js:628
 #: motioneye/static/js/main.js:687 motioneye/static/js/ui.js:362
 #: motioneye/static/js/ui.js:419 motioneye/static/js/ui.js:687
-#, fuzzy
 msgid "Ĉi tiu kampo estas deviga"
 msgstr "هذا الحقل مطلوب"
 
 #: motioneye/static/js/main.js:621
-#, fuzzy
 msgid "specialaj signoj ne rajtas en la nomo de kamerao"
 msgstr "الأحرف الخاصة غير مسموح بها في اسم الكاميرا"
 
 #: motioneye/static/js/main.js:633
-#, fuzzy
 msgid "valoro devas esti multoblo de 8"
 msgstr "يجب أن تكون القيمة مضاعفًا لـ 8"
 
@@ -52,47 +49,38 @@ msgid "dosieroj ne povas esti kreitaj rekte en la radiko de via sistemo"
 msgstr "لا يمكن إنشاء الملفات مباشرة في جذر النظام الخاص بك"
 
 #: motioneye/static/js/main.js:650
-#, fuzzy
 msgid "enigu validan retpoŝtadreson"
 msgstr "أدخل عنوان بريد إلكتروني صالح"
 
 #: motioneye/static/js/main.js:657
-#, fuzzy
 msgid "enigu liston de koma apartaj validaj retpoŝtadresoj"
 msgstr "أدخل قائمة بعناوين بريد إلكتروني صالحة مفصولة بفواصل"
 
 #: motioneye/static/js/main.js:664
-#, fuzzy
 msgid "specialaj signoj ne rajtas en dosiernomo"
 msgstr "الأحرف الخاصة غير مسموح بها في اسم الملف"
 
 #: motioneye/static/js/main.js:691
-#, fuzzy
 msgid "enigu validan valoron"
 msgstr "أدخل قيمة صالحة"
 
 #: motioneye/static/js/main.js:845
-#, fuzzy
 msgid "Ĉi rekursie forigos ĉiujn dosierojn ĉeestantajn en la nuba dosierujo \""
 msgstr "سيؤدي هذا بشكل متكرر إلى حذف جميع الملفات الموجودة في المجلد السحابي \""
 
 #: motioneye/static/js/main.js:846
-#, fuzzy
 msgid "\", ne nur tiuj alŝutitaj de motionEye!"
 msgstr "\"، وليس فقط تلك التي تم تحميلها بواسطة motionEye!"
 
 #: motioneye/static/js/main.js:927
-#, fuzzy
 msgid "Ĉi rekursie forigos ĉiujn malnovajn amaskomunikilajn dosierojn en la dosierujo \""
 msgstr "سيؤدي هذا بشكل متكرر إلى حذف جميع ملفات الوسائط القديمة الموجودة في المجلد \""
 
 #: motioneye/static/js/main.js:928
-#, fuzzy
 msgid "\", ne nur tiuj kreitaj de motionEye!"
 msgstr "\"، وليس فقط تلك التي تم إنشاؤها بواسطة motionEye!"
 
 #: motioneye/static/js/main.js:994
-#, fuzzy
 msgid "Ne eblas redakti la maskon sen valida kameraa bildo!"
 msgstr "لا يمكن تحرير القناع بدون صورة كاميرا صالحة!"
 
@@ -117,56 +105,46 @@ msgid "Via retumilo ne efektivigas ĉi tiun funkcion!"
 msgstr "متصفحك لا ينفذ هذه الميزة!"
 
 #: motioneye/static/js/main.js:2655
-#, fuzzy
 msgid "Apliki"
 msgstr "تطبيق"
 
 #: motioneye/static/js/main.js:2682 motioneye/static/js/main.js:3043
 #: motioneye/static/js/main.js:3098 motioneye/static/js/main.js:3173
-#, fuzzy
 msgid "Certigu, ke ĉiuj agordaj opcioj validas!"
 msgstr "تأكد من أن جميع خيارات التكوين صالحة!"
 
 #: motioneye/static/js/main.js:2784
-#, fuzzy
 msgid "Ĉi tio rekomencos la sistemon. Daŭrigi?"
 msgstr "سيؤدي ذلك إلى إعادة تشغيل النظام. تواصل؟"
 
 #: motioneye/static/js/main.js:2794
-#, fuzzy
 msgid "Vere fermiti sistemon?"
 msgstr "حقا اغلاق النظام؟"
 
 #: motioneye/static/js/main.js:2806
-#, fuzzy
 msgid "Malŝaltita"
 msgstr "متوقف"
 
 #: motioneye/static/js/main.js:2821
-#, fuzzy
 msgid "Ĉu vere restartigi ?"
 msgstr "هل تريد إعادة التشغيل حقًا؟"
 
 #: motioneye/static/js/main.js:2835
-#, fuzzy
 msgid "La sistemo rekomencis!"
 msgstr "تمت إعادة تشغيل النظام!"
 
 #: motioneye/static/js/main.js:2855 motioneye/static/js/main.js:2888
 #: motioneye/static/js/main.js:3871
-#, fuzzy
 msgid "Bonvolu apliki unue la modifitajn agordojn!"
 msgstr "يرجى تطبيق الإعدادات المعدلة أولاً!"
 
 #: motioneye/static/js/main.js:2860
-#, fuzzy
 msgid "Neniu fotilo por forigi!"
 msgstr "لا توجد كاميرا لإزالتها!"
 
 #: motioneye/static/js/main.js:2866
-#, fuzzy
 msgid "Ĉu forigi kameraon "
-msgstr "يمكن إزالة الكاميرا"
+msgstr "يمكن إزالة الكاميرا "
 
 #: motioneye/static/js/main.js:2894
 #, fuzzy
