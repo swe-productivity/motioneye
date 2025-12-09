@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2025-12-09 01:40+0000\n"
+"PO-Revision-Date: 2025-12-09 15:00+0000\n"
 "Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/hi/>\n"
 "Language: hi\n"
@@ -54,7 +54,7 @@ msgstr "फ़ाइलों को सीधे अपने सिस्ट�
 #: motioneye/static/js/main.js:650
 #, fuzzy
 msgid "enigu validan retpoŝtadreson"
-msgstr "एक मान्य ईमेल पता दर्ज करें"
+msgstr "एक वैध ईमेल पते में शामिल हों"
 
 #: motioneye/static/js/main.js:657
 #, fuzzy
@@ -244,8 +244,9 @@ msgid "Sciiga retpoŝto fiaskis:"
 msgstr "ईमेल विफल रहा:"
 
 #: motioneye/static/js/main.js:3122
+#, fuzzy
 msgid "Notification email succeeded!"
-msgstr ""
+msgstr "ईमेल देख रहा है!"
 
 #: motioneye/static/js/main.js:3138
 #, fuzzy
@@ -290,12 +291,12 @@ msgstr "क्या आप वास्तव में % की सभी फ�
 #: motioneye/static/js/main.js:3252
 #, fuzzy
 msgid "Ĉu vere forigi ĉiujn ne grupigitajn bildojn?"
-msgstr "वास्तव में सभी अनियंत्रित चित्र हटाएं?"
+msgstr "क्या आप वास्तव में सभी छवियों से छुटकारा पा सकते हैं?"
 
 #: motioneye/static/js/main.js:3255
 #, fuzzy
 msgid "Ĉu vere forigi ĉiujn ne grupigitajn filmojn?"
-msgstr "वास्तव में सभी अनियंत्रित फिल्में हटाएं?"
+msgstr "क्या आप वास्तव में सभी फिल्मों से छुटकारा पा सकते हैं?"
 
 #: motioneye/static/js/main.js:3369
 #, fuzzy
@@ -336,17 +337,17 @@ msgstr "आपको फिल्म मिली।।"
 #: motioneye/static/js/main.js:3671
 #, fuzzy
 msgid "Reto eraro okazis."
-msgstr "नेटवर्क त्रुटि हुई।"
+msgstr "एक गलती हुई।।"
 
 #: motioneye/static/js/main.js:3674
 #, fuzzy
 msgid "Malkodado-eraro aŭ neprogresinta funkcio."
-msgstr "डिकोडिंग त्रुटि या गैर-अस्वीकृत फ़ंक्शन।"
+msgstr "डिकोडिंग त्रुटि या आक्रामक कार्य।।"
 
 #: motioneye/static/js/main.js:3677
 #, fuzzy
 msgid "Formato ne subtenata aŭ neatingebla/netaŭga por ludado."
-msgstr "प्लेबैक के लिए प्रारूप समर्थित या दुर्गम / अनुपयुक्त नहीं है।"
+msgstr "खेल के लिए फोरमेट समर्थित या अयोग्य नहीं है।।"
 
 #: motioneye/static/js/main.js:3680
 #, fuzzy
@@ -371,12 +372,12 @@ msgstr "खेलने के लिए"
 #: motioneye/static/js/main.js:3696
 #, fuzzy
 msgid "ludi * 5 kaj enĉenigi"
-msgstr "खेल * 5 और श्रृंखला"
+msgstr "5 खेलें और प्रवेश करें"
 
 #: motioneye/static/js/main.js:3701
 #, fuzzy
 msgid "sekva bildo"
-msgstr "अगली छवि"
+msgstr "निम्नलिखित छवि"
 
 #: motioneye/static/js/main.js:3824
 #, fuzzy
@@ -396,7 +397,7 @@ msgstr "निकालें"
 #: motioneye/static/js/main.js:3877
 #, fuzzy
 msgid "Kamerao tipo"
-msgstr "कैमरा प्रकार"
+msgstr "चैंबर प्रकार"
 
 #: motioneye/static/js/main.js:3879
 #, fuzzy
