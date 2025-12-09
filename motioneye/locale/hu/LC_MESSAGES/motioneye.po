@@ -5,20 +5,21 @@
 # netuddki6 <lehelbek2013@gmail.com>, 2024.
 # Csaba Fero <csaba.fero@gmail.com>, 2024.
 # PaulReeps <paul@paulreeps.de>, 2025.
+# LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2025-05-25 02:01+0000\n"
-"Last-Translator: PaulReeps <paul@paulreeps.de>\n"
+"PO-Revision-Date: 2025-12-09 01:40+0000\n"
+"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 "Generated-By: Babel 2.12.1\n"
 
 #: motioneye/config.py:860
@@ -1203,8 +1204,9 @@ msgid "Purigi maskon"
 msgstr ""
 
 #: motioneye/templates/main.html:1016
+#, fuzzy
 msgid "Alklaku ĉi tiun butonon por malplenigi la nunan maskon."
-msgstr ""
+msgstr "Kattintson erre a gombra, hogy megtisztítsa a jelenlegi maszkot."
 
 #: motioneye/templates/main.html:1022
 msgid "Montri Kadro-Ŝanĝojn"
