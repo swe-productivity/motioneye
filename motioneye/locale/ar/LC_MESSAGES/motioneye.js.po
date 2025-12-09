@@ -6,13 +6,14 @@
 # mahmoud nabil <mahmoudnabil2000026@gmail.com>, 2025.
 # Nasser Bin Laboun <nasser1990com@gmail.com>, 2025.
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-05 22:22+0000\n"
 "PO-Revision-Date: 2025-12-09 01:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -42,12 +43,12 @@ msgstr "يجب أن تكون القيمة مضاعفًا لـ 8"
 #: motioneye/static/js/main.js:640
 #, fuzzy
 msgid "specialaj signoj ne rajtas en radika voja nomo"
-msgstr "الأحرف الخاصة غير مسموح بها في اسم مسار الجذر"
+msgstr "لا يُسمح بعلامات خاصة باسم الطريق الجذري"
 
 #: motioneye/static/js/main.js:643
 #, fuzzy
 msgid "dosieroj ne povas esti kreitaj rekte en la radiko de via sistemo"
-msgstr "لا يمكن إنشاء الملفات مباشرة في جذر النظام الخاص بك"
+msgstr "لا يمكن إنشاء الملفات مباشرة في جذور نظامك"
 
 #: motioneye/static/js/main.js:650
 msgid "enigu validan retpoŝtadreson"
@@ -88,22 +89,22 @@ msgstr "لا يمكن تحرير القناع بدون صورة كاميرا ص�
 #: motioneye/static/js/main.js:2239
 #, fuzzy
 msgid "Propra"
-msgstr "الخاصة"
+msgstr "ملك"
 
 #: motioneye/static/js/main.js:2277
 #, fuzzy
 msgid "Propra dosierindiko"
-msgstr "اسم ملف مخصص"
+msgstr "شرح الملف الشخصي"
 
 #: motioneye/static/js/main.js:2279
 #, fuzzy
 msgid "Retan kunlokon"
-msgstr "الاتصال عبر الإنترنت"
+msgstr "الاجتماع المباشر"
 
 #: motioneye/static/js/main.js:2639
 #, fuzzy
 msgid "Via retumilo ne efektivigas ĉi tiun funkcion!"
-msgstr "متصفحك لا ينفذ هذه الميزة!"
+msgstr "منظفك لا ينفذ هذه المهمة!"
 
 #: motioneye/static/js/main.js:2655
 msgid "Apliki"
@@ -150,77 +151,77 @@ msgstr "يمكن إزالة الكاميرا "
 #: motioneye/static/js/main.js:2894
 #, fuzzy
 msgid "motionEye estas ĝisdatigita (aktuala versio: "
-msgstr "يتم تحديث motionEye (الإصدار الحالي:"
+msgstr "اقتراح العين هي نسخة مستكملة: "
 
 #: motioneye/static/js/main.js:2897
 #, fuzzy
 msgid "Nova versio havebla: "
-msgstr "يتوفر إصدار جديد:"
+msgstr "نسخة جديدة متاحة: "
 
 #: motioneye/static/js/main.js:2897
 #, fuzzy
 msgid ". Ĝisdatigi?"
-msgstr ". تحديث؟"
+msgstr ". تحديث؟?"
 
 #: motioneye/static/js/main.js:2905
 #, fuzzy
 msgid "motionEye estis sukcese ĝisdatigita!"
-msgstr "تم تحديث motionEye بنجاح!"
+msgstr "اقتراح تم تحديث العين بنجاح!"
 
 #: motioneye/static/js/main.js:2915
 #, fuzzy
 msgid "Ĝisdatigo malsukcesis!"
-msgstr "فشل التحديث!"
+msgstr "المستجدات فشلت!"
 
 #: motioneye/static/js/main.js:2926
 #, fuzzy
 msgid "La ĝisdatiga procezo malsukcesis!"
-msgstr "فشلت عملية الترقية!"
+msgstr "عملية التحديث فشلت!"
 
 #: motioneye/static/js/main.js:2945
 #, fuzzy
 msgid "Rezerva dosiero"
-msgstr "ملف النسخ الاحتياطي"
+msgstr "ملف احتياطي"
 
 #: motioneye/static/js/main.js:2947
 #, fuzzy
 msgid "La rezervan dosieron, kiun vi antaŭe elŝutis."
-msgstr "ملف النسخ الاحتياطي الذي قمت بتنزيله مسبقًا."
+msgstr "الكتاب الذي قمت بتحميله سابقاً."
 
 #: motioneye/static/js/main.js:2976
 #, fuzzy
 msgid "Restaŭrigi Agordon"
-msgstr "استعادة التكوين"
+msgstr "يستعاض عن الأمر بقانون"
 
 #: motioneye/static/js/main.js:2988
 #, fuzzy
 msgid "Restaŭriganta agordon ..."
-msgstr "جاري استعادة التكوين ..."
+msgstr "إعادة تشكيل..."
 
 #: motioneye/static/js/main.js:2995
 #, fuzzy
 msgid "La agordo restaŭrigis!"
-msgstr "تمت استعادة التكوين!"
+msgstr "تم إعادة التشكيل!"
 
 #: motioneye/static/js/main.js:3005 motioneye/static/js/main.js:3024
 #, fuzzy
 msgid "Malsukcesis restaŭri la agordon!"
-msgstr "فشل في استعادة التكوين!"
+msgstr "ثم فشلت في إعادة التشكيل!"
 
 #: motioneye/static/js/main.js:3079
 #, fuzzy
 msgid "Aliri la alŝutan servon malsukcesis: "
-msgstr "فشل الوصول إلى خدمة التحميل:"
+msgstr "وفشلت إمكانية الحصول على خدمة التحميل: "
 
 #: motioneye/static/js/main.js:3082
 #, fuzzy
 msgid "Aliri la alŝutan servon sukcesis!"
-msgstr "كان الوصول إلى خدمة التحميل ناجحًا!"
+msgstr "إسأل دائرة التحميل!"
 
 #: motioneye/static/js/main.js:3119
 #, fuzzy
 msgid "Sciiga retpoŝto fiaskis:"
-msgstr "فشل البريد الإلكتروني الأخبار:"
+msgstr "فشل بريد إلكتروني:"
 
 #: motioneye/static/js/main.js:3122
 msgid "Notification email succeeded!"
@@ -234,37 +235,37 @@ msgstr "تأكد من أن جميع خيارات التكوين صالحة!"
 #: motioneye/static/js/main.js:3154
 #, fuzzy
 msgid "Sciiga Telegramo fiaskis:"
-msgstr "فشل برقية الإعلام:"
+msgstr "تلغراف صنف فشل:"
 
 #: motioneye/static/js/main.js:3157
 #, fuzzy
 msgid "Sciiga Telegramo sukcesis!"
-msgstr "كان برقية الإعلام ناجحا!"
+msgstr "لقد نجحت شركة تيليغرام!"
 
 #: motioneye/static/js/main.js:3193
 #, fuzzy
 msgid "Aliro al retdividado fiaskis: "
-msgstr "فشل الوصول إلى الشبكة"
+msgstr "فشل الوصول إلى تقاسم الشبكات: "
 
 #: motioneye/static/js/main.js:3196
 #, fuzzy
 msgid "Aliro al retdividado sukcesis!"
-msgstr "كان الوصول إلى التخلف ناجحا!"
+msgstr "نجاح الوصول إلى تقاسم الشبكة!"
 
 #: motioneye/static/js/main.js:3220
 #, fuzzy
 msgid "Ĉu vere forigi ĉi tiun dosieron?"
-msgstr "هل تريد حقًا حذف هذا الملف؟"
+msgstr "هل حقاً تحذف هذا الملف؟?"
 
 #: motioneye/static/js/main.js:3244
 #, fuzzy
 msgid "Ĉu vere forigi ĉiujn bildojn de \"%(group)s\"?"
-msgstr "هل تريد حقًا حذف جميع الصور من \"%(group)s\"؟"
+msgstr "هل تتخلصين حقاً من جميع صور (X33X)؟?"
 
 #: motioneye/static/js/main.js:3247
 #, fuzzy
 msgid "Ĉu vere forigi ĉiujn filmojn de \"%(group)s\"?"
-msgstr "هل تريد حقًا حذف جميع الأفلام من \"%(group)s\"؟"
+msgstr "هل تتخلص حقاً من كل أفلام (X33X)؟?"
 
 #: motioneye/static/js/main.js:3252
 #, fuzzy
@@ -279,38 +280,38 @@ msgstr "هل تريد حقًا حذف جميع الأفلام غير المجم�
 #: motioneye/static/js/main.js:3369
 #, fuzzy
 msgid "aldonadi kameraon..."
-msgstr "إضافة كاميرا ..."
+msgstr "إضافة كاميرا..."
 
 #: motioneye/static/js/main.js:3594 motioneye/static/js/main.js:3893
 #, fuzzy
 msgid "Uzantnomo"
-msgstr "اسم المستخدم"
+msgstr "المستعمل"
 
 #: motioneye/static/js/main.js:3599 motioneye/static/js/main.js:3898
 #, fuzzy
 msgid "Pasvorto"
-msgstr "كلمة المرور"
+msgstr "كلمة السر"
 
 #: motioneye/static/js/main.js:3605
 #, fuzzy
 msgid "Memoru min"
-msgstr "تذكرني"
+msgstr "تذكرني أن أتذكرني"
 
 #: motioneye/static/js/main.js:3623 motioneye/static/js/main.js:3629
 #, fuzzy
 msgid "Ensaluti"
-msgstr "تسجيل الدخول"
+msgstr "سجل"
 
 #: motioneye/static/js/main.js:3626 motioneye/static/js/ui.js:1023
 #: motioneye/static/js/ui.js:1030
 #, fuzzy
 msgid "Nuligi"
-msgstr "الإلغاء"
+msgstr "الممرضات"
 
 #: motioneye/static/js/main.js:3668
 #, fuzzy
 msgid "Vi abortis la filmeton."
-msgstr "لقد أجهضت الفيديو."
+msgstr "حصلت على الفيلم."
 
 #: motioneye/static/js/main.js:3671
 #, fuzzy
@@ -330,12 +331,12 @@ msgstr "التنسيق غير مدعوم أو يتعذر الوصول إليه /
 #: motioneye/static/js/main.js:3680
 #, fuzzy
 msgid "Nekonata eraro okazis."
-msgstr "حدث خطأ غير معروف."
+msgstr "لقد حدث خطأ غير معروف."
 
 #: motioneye/static/js/main.js:3683
 #, fuzzy
 msgid "Eraro : "
-msgstr "خطأ:"
+msgstr "Error: "
 
 #: motioneye/static/js/main.js:3688
 #, fuzzy
@@ -345,7 +346,7 @@ msgstr "الصورة السابقة"
 #: motioneye/static/js/main.js:3693
 #, fuzzy
 msgid "ludi"
-msgstr "للعب"
+msgstr "اللعب"
 
 #: motioneye/static/js/main.js:3696
 #, fuzzy
@@ -380,7 +381,7 @@ msgstr "نوع الكاميرا"
 #: motioneye/static/js/main.js:3879
 #, fuzzy
 msgid "Loka V4L2-kamerao"
-msgstr "كاميرا V4L2 محلية"
+msgstr "كاميرا محلية من طراز V4L2"
 
 #: motioneye/static/js/main.js:3880
 #, fuzzy
@@ -395,12 +396,12 @@ msgstr "كاميرا ويب"
 #: motioneye/static/js/main.js:3882
 #, fuzzy
 msgid "Fora motionEye kamerao"
-msgstr "كاميرا خارجية"
+msgstr "اقتراح قوي كاميرا العين"
 
 #: motioneye/static/js/main.js:3883
 #, fuzzy
 msgid "Simpla MJPEG-kamerao"
-msgstr "كاميرا MJPEG بسيطة"
+msgstr "كاميرا بسيطة"
 
 #: motioneye/static/js/main.js:3885
 #, fuzzy
@@ -415,37 +416,37 @@ msgstr "URL"
 #: motioneye/static/js/main.js:3889
 #, fuzzy
 msgid "http://ekzemplo.com:8765/cams/..."
-msgstr "http: //example.com: 8765 / كاميرات / ..."
+msgstr "http:/example.com:8765/cams/..."
 
 #: motioneye/static/js/main.js:3890
 #, fuzzy
 msgid "la kameraa URL (ekz. http://ekzemplo.com:8080/cam/)"
-msgstr "عنوان URL للكاميرا (مثل http://example.com:8080/cam/)"
+msgstr "the camera URL (e.g. http:/example.com:80/cam/)"
 
 #: motioneye/static/js/main.js:3894
 #, fuzzy
 msgid "uzantnomo..."
-msgstr "اسم المستخدم ..."
+msgstr "اسم المستخدم."
 
 #: motioneye/static/js/main.js:3895
 #, fuzzy
 msgid "la uzantnomo por la URL, se bezonata (ekz. administranto)"
-msgstr "اسم المستخدم لعنوان URL ، إذا لزم الأمر (مثل المشرف)"
+msgstr "the username for the URL, if needed (e.g. administrator)"
 
 #: motioneye/static/js/main.js:3899
 #, fuzzy
 msgid "pasvorto..."
-msgstr "كلمة المرور ..."
+msgstr "كلمة سر."
 
 #: motioneye/static/js/main.js:3900
 #, fuzzy
 msgid "la pasvorto por la URL, se bezonata"
-msgstr "كلمة المرور لعنوان URL ، إذا لزم الأمر"
+msgstr "the password for the URL if needed"
 
 #: motioneye/static/js/main.js:3903
 #, fuzzy
 msgid "Kamerao"
-msgstr "الكاميرا"
+msgstr "الدائرة"
 
 #: motioneye/static/js/main.js:3905
 #, fuzzy
@@ -455,17 +456,17 @@ msgstr "الكاميرا التي تريد إضافتها"
 #: motioneye/static/js/main.js:3941
 #, fuzzy
 msgid "Fora motionEye kamerao estas kameraoj instalitaj malantaŭ alia servilo de MotionEye. Aldonante ilin ĉi tie permesos vin rigardi kaj administri ilin de malproksime."
-msgstr "كاميرا MotionEye عن بعد هي كاميرا مثبتة خلف خادم MotionEye آخر. ستسمح لك إضافتها هنا بمشاهدتها وإدارتها من مسافة بعيدة."
+msgstr "اقتراح قوي كاميرا العين هي الكاميرات التي تم تركيبها خلف خادم مونيغوي آخر إضافتهم هنا سيسمح لك بمراقبتهم وإدارتهم بعيداً."
 
 #: motioneye/static/js/main.js:3956
 #, fuzzy
 msgid "Retaj kameraoj (aŭ IP-kameraoj) estas aparatoj, kiuj denaske fluas RTSP/RTMP aŭ MJPEG-filmetojn aŭ simplajn JPEG-bildojn. Konsultu la manlibron de via aparato por ekscii la ĝustan URL RTSP, RTMP, MJPEG aŭ JPEG."
-msgstr "كاميرات الشبكة (أو كاميرات IP) هي الأجهزة التي تقوم بدفق مقاطع فيديو RTSP / RTMP أو MJPEG أو صور JPEG البسيطة. راجع دليل جهازك لمعرفة عنوان URL RTSP أو RTMP أو MJPEG أو JPEG الصحيح."
+msgstr "والكاميرات على شبكة الإنترنت (أو كاميرات IP) هي أجهزة تحمل في أشرطة فيديو RTSP/RTMP أو MJPEG أو صور مبسطة من طراز JPEG. Consult your tool’s manual to realize the correct URL RTSP, RTMP, MJPEG or JPEG."
 
 #: motioneye/static/js/main.js:3961
 #, fuzzy
 msgid "Lokaj MMAL-kameraoj estas aparatoj konektitaj rekte al via motionEye-sistemo. Ĉi tiuj estas kutime kart-specifaj kameraoj."
-msgstr "كاميرات MMAL المحلية هي أجهزة متصلة مباشرة بنظام motionEye الخاص بك. عادة ما تكون هذه الكاميرات خاصة بالبطاقة."
+msgstr "الكاميرات المحلية للحركة هي أجهزة مرتبطة مباشرة بنظام عين الحركة هذه عادة كاميرا خاصة بالسيارات."
 
 #: motioneye/static/js/main.js:3976
 #, fuzzy
@@ -490,7 +491,7 @@ msgstr "مجموعة"
 #: motioneye/static/js/main.js:4208
 #, fuzzy
 msgid "Inkluzivi foton prenitan ĉiun"
-msgstr "تضمين صورة تم التقاطها لكل منها"
+msgstr "تشمل صورة التقطت كل منها"
 
 #: motioneye/static/js/main.js:4211
 #, fuzzy
@@ -505,7 +506,7 @@ msgstr "5 ثواني"
 #: motioneye/static/js/main.js:4213
 #, fuzzy
 msgid "10 sekundoj"
-msgstr "10 ثواني"
+msgstr "10 ثوان"
 
 #: motioneye/static/js/main.js:4214
 #, fuzzy
@@ -540,12 +541,12 @@ msgstr "ساعة"
 #: motioneye/static/js/main.js:4222
 #, fuzzy
 msgid "Elektu la intervalon de tempo inter du elektitaj bildoj."
-msgstr "حدد الفترة الزمنية بين صورتين محددتين."
+msgstr "اختر مدى الوقت بين صورتين مختارتين."
 
 #: motioneye/static/js/main.js:4225
 #, fuzzy
 msgid "Filmo framfrekvenco"
-msgstr "معدل إطار الفيلم"
+msgstr "تردد إطار الأفلام"
 
 #: motioneye/static/js/main.js:4227
 #, fuzzy
@@ -570,17 +571,17 @@ msgstr "فيلم قيد التقدم ..."
 #: motioneye/static/js/main.js:4513
 #, fuzzy
 msgid "Zipitaj"
-msgstr "انغلق"
+msgstr "Ziped"
 
 #: motioneye/static/js/main.js:4522
 #, fuzzy
 msgid "Akselita video"
-msgstr "فيديو معجل"
+msgstr "فيديو محرر"
 
 #: motioneye/static/js/main.js:4533
 #, fuzzy
 msgid "Forigi ĉiujn"
-msgstr "قم بإزالتها جميعًا"
+msgstr "ابعد الجميع"
 
 #: motioneye/static/js/main.js:4675
 #, fuzzy
