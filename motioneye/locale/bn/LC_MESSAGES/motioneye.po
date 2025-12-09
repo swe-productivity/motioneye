@@ -6,13 +6,14 @@
 # piet <piet@users.noreply.hosted.weblate.org>, 2024.
 # Zhang Wei <Zhang@users.noreply.hosted.weblate.org>, 2024.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 16:07+0000\n"
 "PO-Revision-Date: 2025-12-09 23:08+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Bengali <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/bn/>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -23,25 +24,29 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: motioneye/config.py:860
+#, fuzzy
 msgid "Device names are only allowed to contain alphanumerical characters, hyphen -, underscore _, plus +, and space"
-msgstr ""
+msgstr "ডিভাইসের নামের মধ্যে শুধুমাত্র অক্ষর, সংখ্যা, হাইফেন (-), আন্ডারস্কোর (_), প্লাস (+) এবং স্পেস থাকতে পারে"
 
 #: motioneye/config.py:864
-#, python-format
+#, fuzzy, python-format
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr ""
+msgstr "ফাইল নামের মধ্যে শুধুমাত্র আলফানিউমেরিক অক্ষর, বন্ধনী (), ফরওয়ার্ড স্ল্যাশ /, ডট ., আন্ডারস্কোর _, হাইফেন -, স্পেস এবং মোশন কনভার্শন স্পেসিফায়ারগুলির একটি উপসেট %C %Y %m %d %H %M %S %q %v ব্যবহার করা যায়"
 
 #: motioneye/config.py:869
+#, fuzzy
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
-msgstr ""
+msgstr "ডিরেক্টরি নামের মধ্যে শুধুমাত্র আলফানিউমেরিক অক্ষর, স্পেস, বন্ধনী (), ফরওয়ার্ড স্ল্যাশ /, ডট ., আন্ডারস্কোর _ এবং হাইফেন - ব্যবহার করা যাবে"
 
 #: motioneye/config.py:874
+#, fuzzy
 msgid "Email addresses are only allowed to contain alphanumerical characters, underscore _, plus +, dot ., at @, caret ^, tilde ~, angle brackets <>, hyphen -, and may be separated by comma, and space"
-msgstr ""
+msgstr "ইমেইল ঠিকানায় শুধুমাত্র অক্ষর, সংখ্যা, আন্ডারস্কোর (_), প্লাস (+), ডট (.), এট (@), ক্যারেট (^), টিল্ড (~), কোণীয় বন্ধনী (<>), হাইফেন (-) থাকতে পারে এবং সেগুলো কমা ও স্পেস দিয়ে পৃথক করা যেতে পারে"
 
 #: motioneye/config.py:879
+#, fuzzy
 msgid "URLs are not allowed to contain caret ^, semicolon ;, or apostrophe '"
-msgstr ""
+msgstr "ইউআরএলে ক্যারেট ^, সেমিকোলন ; বা অ্যাপোস্ট্রফি ' ব্যবহার করা যাবে না"
 
 #: motioneye/server.py:232
 #, fuzzy
@@ -64,9 +69,8 @@ msgid "bonvolu instali jinja2"
 msgstr "jinja2 ইনস্টল করুন"
 
 #: motioneye/server.py:297
-#, fuzzy
 msgid "bonvolu instali pillow aŭ PIL"
-msgstr "বালিশ বা পিআইএল ইনস্টল করুন"
+msgstr "\"pillow\" বা \"PIL\" ইনস্টল করুন"
 
 #: motioneye/server.py:304
 #, fuzzy
@@ -810,9 +814,9 @@ msgid "ekz. http://example.com/notify/"
 msgstr "যেমন। http://example.com/notify/"
 
 #: motioneye/templates/main.html:570
-#, python-format
+#, fuzzy, python-format
 msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-msgstr ""
+msgstr "মোটশন সনাক্ত হলে পাঠানোর URL; নিম্নলিখিত বিশেষ শর্টকাটগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর, %v = ইভেন্ট নম্বর, %f = ফাইলের পথ"
 
 #: motioneye/templates/main.html:573 motioneye/templates/main.html:1141
 #: motioneye/templates/main.html:1186
@@ -846,9 +850,9 @@ msgid "ordono…"
 msgstr "অর্ডার…"
 
 #: motioneye/templates/main.html:595
-#, python-format
+#, fuzzy, python-format
 msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-msgstr ""
+msgstr "মাল্টিমিডিয়া ফাইল তৈরি করার পর কার্যকর করার কমান্ড। অনেকগুলো কমান্ড সেমিকোলন (;) দিয়ে পৃথক করা যেতে পারে; কমান্ডের ভিতরে সেমিকোলন ব্যবহার করবেন না; নিম্নলিখিত বিশেষ টোকেনগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর, %v = ইভেন্ট নম্বর, %f = ফাইলের পথ"
 
 #: motioneye/templates/main.html:605
 #, fuzzy
@@ -1054,12 +1058,12 @@ msgstr "নাম চিত্র ফাইল"
 #: motioneye/templates/main.html:748 motioneye/templates/main.html:817
 #, fuzzy
 msgid "dosiernomo ŝablono…"
-msgstr "ফাইল নাম টেমপ্লেট ..."
+msgstr "ফাইল নাম টেমপ্লেট…"
 
 #: motioneye/templates/main.html:749
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr ""
+msgstr "ইমেজ ফাইল (JPEG) এর নামকরণের টেমপ্লেট নির্ধারণ করে; নিম্নলিখিত বিশেষ টোকেনগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর, %v = ইভেন্ট নম্বর, / = সাবডিরেক্টরি।"
 
 #: motioneye/templates/main.html:752
 #, fuzzy
@@ -1219,9 +1223,9 @@ msgid "Filma Dosiernomo"
 msgstr "চলচ্চিত্রের ফাইলের নাম"
 
 #: motioneye/templates/main.html:818
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr ""
+msgstr "ভিডিও ফাইলগুলির নামকরণের টেমপ্লেট নির্ধারণ করে; নিম্নলিখিত বিশেষ টোকেনগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর, %v = ইভেন্ট নম্বর, / = সাবডিরেক্টরি।"
 
 #: motioneye/templates/main.html:821
 #, fuzzy
@@ -1457,7 +1461,7 @@ msgstr "সম্পাদনাযোগ্য"
 #: motioneye/templates/main.html:997
 #, fuzzy
 msgid "La Inteligenta opcio aŭtomate detektas regionojn per regula movado kaj dinamike kreas internan maskon, dum la Redaktebla opcio permesas permane konstrui ĝin mem."
-msgstr "স্মার্ট বিকল্পটি স্বয়ংক্রিয়ভাবে নিয়মিত গতির সাথে অঞ্চলগুলি সনাক্ত করে এবং গতিশীলভাবে একটি অভ্যন্তরীণ মুখোশ তৈরি করে, যখন সম্পাদনাযোগ্য মাস্ক আপনাকে নিজে নিজে এটি তৈরি করতে দেয়৷"
+msgstr "ইন্টেলিজেন্ট অপশন স্বয়ংক্রিয়ভাবে নিয়মিত চলাচলের মাধ্যমে অঞ্চল সনাক্ত করে এবং গতিশীলভাবে একটি অভ্যন্তরীণ মাস্ক তৈরি করে, অন্যদিকে এডিটেবল অপশন আপনাকে নিজে ম্যানুয়ালি এটি তৈরি করার সুযোগ দেয়।"
 
 #: motioneye/templates/main.html:1000
 #, fuzzy
@@ -1662,7 +1666,7 @@ msgstr "উদাহরণ: 93847672: AACdSn843hsjJsh32bSmdN3sHsh2bsh0xRs_32dbcr
 #: motioneye/templates/main.html:1111
 #, fuzzy
 msgid "Kreante la telegram-bot-babilejon, vi ricevos API-ĵetonon, kiun vi devas enigi ĉi tie. Alklaku la API-butonon sube por paŝo-post-paŝa gvidilo pri kiel akiri vian API-ĵetonon. Ankaŭ nepre babili kun via lastatempe kreita «bot» post kiam via ŝlosilo estas generita, por certigi, ke vi ricevas mesaĝojn."
-msgstr "টেলিগ্রাম-বট চ্যাট তৈরি করে, আপনি একটি API টোকেন পাবেন যা আপনাকে এখানে প্রবেশ করতে হবে। কিভাবে আপনার API টোকেন পেতে হয় তার ধাপে ধাপে গাইডের জন্য নিচের API বোতামে ক্লিক করুন। এছাড়াও আপনার কী তৈরি হওয়ার পরে আপনার নতুন তৈরি করা \"বট\" এর সাথে চ্যাট করতে ভুলবেন না, নিশ্চিত করুন যে আপনি বার্তা পেয়েছেন।"
+msgstr "টেলিগ্রাম বট চ্যাট তৈরি করার সময় আপনি একটি API টোকেন পাবেন, যা আপনাকে এখানে প্রবেশ করাতে হবে। আপনার API টোকেন কীভাবে পাবেন তার ধাপে ধাপে নির্দেশনার জন্য নিচের API বোতামে ক্লিক করুন। এছাড়াও, আপনার কী তৈরি হওয়ার পর অবশ্যই আপনার নতুন তৈরি বটের সাথে চ্যাট করুন, যাতে আপনি বার্তাগুলো পাচ্ছেন তা নিশ্চিত হতে পারেন।"
 
 #: motioneye/templates/main.html:1114
 #, fuzzy
@@ -1715,9 +1719,9 @@ msgid "ekz. http://ekzemplo.com/sciigi/"
 msgstr "যেমন। http://ekzemplo.com/sciigi/"
 
 #: motioneye/templates/main.html:1138
-#, python-format
+#, fuzzy, python-format
 msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr ""
+msgstr "মোশন সনাক্ত হলে অনুরোধ করা হবে এমন URL; নিম্নলিখিত বিশেষ শর্টকাটগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর, %v = র্যান্ডম নম্বর"
 
 #: motioneye/templates/main.html:1150 motioneye/templates/main.html:1195
 #, fuzzy
@@ -1745,9 +1749,9 @@ msgid "komando…"
 msgstr "কমান্ড…"
 
 #: motioneye/templates/main.html:1163
-#, python-format
+#, fuzzy, python-format
 msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr ""
+msgstr "গতিবিধি সনাক্ত হলে কার্যকর করার কমান্ড; অনেকগুলো কমান্ড কলোন (:) দিয়ে পৃথক করা যেতে পারে; কমান্ডে সেমিকোলন ব্যবহার করবেন না; নিম্নলিখিত বিশেষ টোকেনগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর, %v = র্যান্ডম নম্বর"
 
 #: motioneye/templates/main.html:1203
 #, fuzzy
@@ -1755,9 +1759,9 @@ msgid "Ebligu ĉi tion, se vi volas lanĉi komandon ĉiufoje kiam movada evento 
 msgstr "আপনি প্রতিবার কোনও মুভি ইভেন্ট শেষ হওয়ার পরে কোনও কমান্ড চালু করতে চাইলে এটি সক্ষম করুন।"
 
 #: motioneye/templates/main.html:1208
-#, python-format
+#, fuzzy, python-format
 msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-msgstr ""
+msgstr "মোটশন ইভেন্ট শেষ হলে চালানোর কমান্ড; অনেকগুলো কমান্ড সেমিকোলন (;) দিয়ে পৃথক করা যেতে পারে; কমান্ডে কমা ব্যবহার করবেন না; নিম্নলিখিত বিশেষ টোকেনগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর।"
 
 #: motioneye/templates/main.html:1218
 #, fuzzy
@@ -1897,7 +1901,7 @@ msgstr "বছর"
 #: motioneye/utils/dtconv.py:129
 #, fuzzy
 msgid "horo"
-msgstr "ঘন্টা"
+msgstr "ঘণ্টা"
 
 #: motioneye/utils/dtconv.py:132
 #, fuzzy
@@ -1917,7 +1921,7 @@ msgstr "মিনিট"
 #: motioneye/utils/dtconv.py:143
 #, fuzzy
 msgid "sekundo"
-msgstr "একটি দ্বিতীয়"
+msgstr "দ্বিতীয়"
 
 #: motioneye/utils/dtconv.py:153
 #, fuzzy
