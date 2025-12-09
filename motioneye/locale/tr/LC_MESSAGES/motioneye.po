@@ -6,42 +6,49 @@
 # Onur TORAMAN <onur@toraman.net>, 2024.
 # aguvener <90110302+aguvener@users.noreply.github.com>, 2025.
 # Burak <admin@homelab.gen.tr>, 2025.
+# LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2025-07-26 10:03+0000\n"
-"Last-Translator: Burak <admin@homelab.gen.tr>\n"
+"POT-Creation-Date: 2025-12-09 23:14+0000\n"
+"PO-Revision-Date: 2025-12-09 23:07+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 "Generated-By: Babel 2.14.0\n"
 
 #: motioneye/config.py:860
+#, fuzzy
 msgid "Device names are only allowed to contain alphanumerical characters, hyphen -, underscore _, plus +, and space"
-msgstr ""
+msgstr "Cihazlar sadece alfanumeric karakterler, hipnoz, alt işaret, artı + ve uzaysal karakterler için mevcuttur"
 
 #: motioneye/config.py:864
-#, python-format
+#, fuzzy, python-format
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr ""
+msgstr "Dosyalar sadece alfanumerical karakterlere eşdeğerdir, ebeveynlik (), forwards/, dot., alt çizer, hipn-, uzaysal olarak ve alt hareket özellikleri belirtilmişler: %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
+#, fuzzy
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
-msgstr ""
+msgstr "Rehber isimleri sadece alfanumerical karakterlere eşdeğerdir, uzaysal olarak, ebeveynlikleri (), forwards/, dot., undermark, and hipnozn –"
 
 #: motioneye/config.py:874
+#, fuzzy
 msgid "Email addresses are only allowed to contain alphanumerical characters, underscore _, plus +, dot ., at @, caret ^, tilde ~, angle brackets <>, hyphen -, and may be separated by comma, and space"
-msgstr ""
+msgstr "E-posta protokolü sadece alfanumeric karakterlere kılavuzdur, işaret altında, artı +, dot., @, caret^, tilde ~, İngilizce nouns < >, hyphen - ve komün tarafından iyi olabilir ve uzaysal olarak"
 
 #: motioneye/config.py:879
+#, fuzzy
 msgid "URLs are not allowed to contain caret ^, semicolon ;, or apostrophe '"
-msgstr ""
+msgstr "URL'ler \"Complier\", yarı sömürge; veya apostrophe ‘ ‘ ‘"
 
 #: motioneye/server.py:232
 msgid "interrompa signalo ricevita, fermanta …"
@@ -1560,3 +1567,39 @@ msgstr "bir saniye"
 #: motioneye/utils/dtconv.py:153
 msgid "minus"
 msgstr "eksi"
+
+#, fuzzy, python-format
+#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
+#~ msgstr "Hareket algılandığında aktarılacak URL; aşağıdaki özel kısayollar kabul edilir: %%Y = yıl, %%m = ay, %%d = gün, %%H = saat, %%M = dakika, %%S = saniye, %%q = çerçeve numarası, %%v = olay numarası,%%f = dosya yolu"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
+#~ msgstr "Multimedya dosyası oluşturulduktan sonra yürütülecek komut. Birkaç komut bir dönem adıyla ayrılabilir; komutlarda nokta adı kullanmayın; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl, %%m = ay, %%d = gün, %%H = saat, %%M = dakika, %%S = saniye, %%q = çerçeve numarası, %%v = olay numarası, %%f = dosya yolu"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "Özel sağ metni tanımlar; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl,%%m = ay,%%d = gün,%%H = saat,%%M = dakika,%%S = saniye,%%q = çerçeve numarası, %%v = olay numarası,%%T =HH:MM:SS, \\n = yeni satır"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "Özel sağ metni tanımlar; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl,%%m = ay,%%d = gün,%%H = saat,%%M = dakika,%%S = saniye,%%q = çerçeve numarası, %%v = olay numarası,%%T =HH:MM:SS, \\n = yeni satır"
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "Görüntü dosyaları (JPEG) için ad şablonunu tanımlar; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl,%%m = ay,%%d = gün,%%H = saat,%%M = dakika,%%S = saniye,%%q = çerçeve numarası, %%v = olay numarası, / = alt dizin."
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "Film dosyalarının ad şablonunu tanımlar; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl,%%m = ay,%%d = gün,%%H = saat,%%M = dakika,%%S = saniye,%%q = çerçeve numarası, %%v = olay numarası, / = alt dizin."
+
+#, fuzzy, python-format
+#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "Hareket algılandığında istenecek URL; aşağıdaki özel kısayollar kabul edilir: %%Y = yıl, %%m = ay, %%d = gün, %%H = saat, %%M = dakika, %%S = saniye, %%q = çerçeve numarası , %%v = rastgele sayı"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "Hareket algılandığında çalıştırılacak komut; birden fazla komut iki nokta üst üste işaretiyle ayrılabilir; komutlarda noktalı virgül kullanmayın; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl, %%m = ay, %%d = gün, %%H = saat, %%M = dakika, %%S = saniye, %%q = çerçeve numarası , %%v = rastgele sayı"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
+#~ msgstr "Bir hareket olayı sona erdiğinde başlatılacak komut; birden fazla komut iki nokta üst üste işaretiyle ayrılabilir; komutlarla nokta kompozisyonları kullanmayın; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl, %%m = ay, %%d = tarih, %%H = saat, %%M = dakika, %%S = saniye, %%q = çerçeve numarası."

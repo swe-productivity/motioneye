@@ -8,42 +8,50 @@
 # piet <piet@users.noreply.hosted.weblate.org>, 2024.
 # Zhang Wei <Zhang@users.noreply.hosted.weblate.org>, 2024.
 # João Antonio da Cruz Junior <joaoacj@gmail.com>, 2025.
+# LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2025-08-22 06:01+0000\n"
-"Last-Translator: João Antonio da Cruz Junior <joaoacj@gmail.com>\n"
+"POT-Creation-Date: 2025-12-09 23:14+0000\n"
+"PO-Revision-Date: 2025-12-09 23:09+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.15-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: motioneye/config.py:860
+#, fuzzy
 msgid "Device names are only allowed to contain alphanumerical characters, hyphen -, underscore _, plus +, and space"
-msgstr ""
+msgstr "Os dispositivos só estão disponíveis para caracteres alfanuméricos, hífen, underscore, mais + e espacial"
 
 #: motioneye/config.py:864
-#, python-format
+#, fuzzy, python-format
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr ""
+msgstr "Os arquivos são equivalentes apenas a caracteres alfanuméricos, parênteses (), forwards/, dot., underscore , hyphen-, espacialmente e um subconjunto de atributos de movimento especificadores: %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
+#, fuzzy
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
-msgstr ""
+msgstr "Os nomes dos diretórios são equivalentes apenas a caracteres alfanuméricos, espacialmente, parenthesis (), forwards/, dot., underscore e hífen—"
 
 #: motioneye/config.py:874
+#, fuzzy
 msgid "Email addresses are only allowed to contain alphanumerical characters, underscore _, plus +, dot ., at @, caret ^, tilde ~, angle brackets <>, hyphen -, and may be separated by comma, and space"
-msgstr ""
+msgstr "Protocolo de e-mail é apenas um guia para caracteres alfanuméricos, underscore, plus +, dot., em @, caret^, tilde ~, Inglês < > , hífen –, e pode ser uma multa por vírgula e espacialmente"
 
 #: motioneye/config.py:879
+#, fuzzy
 msgid "URLs are not allowed to contain caret ^, semicolon ;, or apostrophe '"
-msgstr ""
+msgstr "URLs não são conhecidas como \"Complier\" , semicolon;, ou apostrophe '"
 
 #: motioneye/server.py:232
 msgid "interrompa signalo ricevita, fermanta …"
@@ -326,7 +334,7 @@ msgstr "Brilho automático"
 #: motioneye/templates/main.html:295
 #, fuzzy
 msgid "ebligas aŭtomatan brilon de programaro (rekomendita nur por kameraoj sen aŭtomata brilo)"
-msgstr "Ativa o software de ofuscamento automático (recomendado apenas para câmeras sem ofuscamento automático)"
+msgstr "permite o brilho automático do software (comendado apenas para câmeras sem brilho automático)"
 
 #: motioneye/templates/main.html:301
 msgid "Video-rezolucio"
@@ -343,7 +351,7 @@ msgstr "Largura"
 #: motioneye/templates/main.html:311
 #, fuzzy
 msgid "enigu kutiman rezolucian larĝon"
-msgstr "insira uma largura de resolução personalizada"
+msgstr "junte-se a uma largura de resolução habitual"
 
 #: motioneye/templates/main.html:314
 msgid "Alteco"
@@ -376,7 +384,7 @@ msgstr "Máscara de privacidade"
 #: motioneye/templates/main.html:341
 #, fuzzy
 msgid "ebligas maskeradon de bildoj por eviti registradon de iuj bildaj areoj por protekti privatecon"
-msgstr "permite mascarar imagens para evitar o registro de determinadas áreas da imagem para proteger a privacidade"
+msgstr "permite masquerade de imagens para evitar gravar quaisquer áreas pictóricas para proteger a privacidade"
 
 #: motioneye/templates/main.html:346 motioneye/templates/main.html:1007
 msgid "Redakti maskon"
@@ -389,12 +397,12 @@ msgstr "Mantenha uma máscara"
 #: motioneye/templates/main.html:350
 #, fuzzy
 msgid "alklaku ĉi tiun butonon por ebligi/malebligi la maskan redaktilon"
-msgstr "clique neste botão para ativar / desativar o editor de máscaras"
+msgstr "clique neste botão para ativar/recuperar o editor de máscara"
 
 #: motioneye/templates/main.html:361
 #, fuzzy
 msgid "Ekstraj Elektoj"
-msgstr "Opções Extra"
+msgstr "Escolhas extra"
 
 #: motioneye/templates/main.html:363
 msgid "vi povas aldoni iujn ajn pliajn opciojn ĉi tie por la «motion» demono (uzu la «nomo valoro» formaton, unu opcion por linio)"
@@ -403,7 +411,7 @@ msgstr "Você pode adicionar quaisquer opções adicionais aqui para o demônio 
 #: motioneye/templates/main.html:372
 #, fuzzy
 msgid "elektu kie kaj kiel viaj amaskomunikiloj estas konservitaj"
-msgstr "escolha onde e como sua mídia é armazenada"
+msgstr "escolha onde e como seus meios de comunicação são mantidos"
 
 #: motioneye/templates/main.html:373
 #, fuzzy
@@ -417,7 +425,7 @@ msgstr "Dispositivo de armazenamento"
 #: motioneye/templates/main.html:383
 #, fuzzy
 msgid "indikas la stokan aparaton, kie la bildo kaj video-dosieroj estos konservitaj"
-msgstr "indica o dispositivo de armazenamento onde os arquivos de imagem e vídeo serão armazenados"
+msgstr "indica o dispositivo de armazenamento, onde os arquivos de imagem e vídeo serão mantidos"
 
 #: motioneye/templates/main.html:386
 msgid "Retservilo"
@@ -426,7 +434,7 @@ msgstr "Servidor web"
 #: motioneye/templates/main.html:388
 #, fuzzy
 msgid "la adreso de la retservilo (IP-adreso aŭ nomo)"
-msgstr "o endereço do servidor web (endereço IP ou nome)"
+msgstr "o endereço do servidor de Internet (endereço IP ou nome)"
 
 #: motioneye/templates/main.html:391
 msgid "SMB Protokolo-Versio"
@@ -435,17 +443,17 @@ msgstr "Versão do protocolo SMB"
 #: motioneye/templates/main.html:401
 #, fuzzy
 msgid "elektu la SMB-version, kiun vi povas uzi (testu la malsamajn eblojn kaj vidu, kiu funkcias plej bone kun via NAS)"
-msgstr "selecione a versão SMB que você pode usar (teste as diferentes opções e veja qual funciona melhor com seu NAS)"
+msgstr "escolha a versão SMB que você pode usar (teste as diferentes opções e veja qual funciona melhor com seu NAS)"
 
 #: motioneye/templates/main.html:404
 #, fuzzy
 msgid "Kunhava nomo"
-msgstr "Nome compartilhado"
+msgstr "Um nome compartilhado"
 
 #: motioneye/templates/main.html:406
 #, fuzzy
 msgid "la nomo de la interŝanĝa reto"
-msgstr "o nome da rede de troca"
+msgstr "o nome da rede de intercâmbio"
 
 #: motioneye/templates/main.html:409 motioneye/templates/main.html:516
 msgid "Uzantnomo"
@@ -454,7 +462,7 @@ msgstr "Nome de usuário"
 #: motioneye/templates/main.html:411
 #, fuzzy
 msgid "la uzantnomo kiu estu provizita kiam vi aliras la reton dosierujon (lasu malplena se neniu uzantnomo estas bezonata)"
-msgstr "o nome de usuário a ser fornecido quando você acessar o diretório de rede (deixe em branco se nenhum nome de usuário for necessário)"
+msgstr "o nome de usuário que será fornecido quando você acessar o diretório de rede (vanha se nenhum nome de usuário for necessário)"
 
 #: motioneye/templates/main.html:414
 msgid "Pasvorton"
@@ -463,17 +471,17 @@ msgstr "Senha"
 #: motioneye/templates/main.html:416
 #, fuzzy
 msgid "la pasvorto bezonata de la reto dosierujo (lasi malplena se neniu pasvorto estas bezonata)"
-msgstr "a senha exigida pelo diretório de rede (deixe em branco se nenhuma senha for necessária)"
+msgstr "a senha necessária pelo diretório de rede (esvazie se nenhuma senha for necessária)"
 
 #: motioneye/templates/main.html:419
 #, fuzzy
 msgid "Radika dosierujo"
-msgstr "Diretório raiz"
+msgstr "Diretório de raízes"
 
 #: motioneye/templates/main.html:421
 #, fuzzy
 msgid "la radika vojo (sur la elektita stokada aparato), kie la dosieroj estos konservitaj"
-msgstr "o caminho raiz (no dispositivo de armazenamento selecionado) onde os arquivos serão armazenados"
+msgstr "a estrada raiz (no dispositivo de armazenamento selecionado), onde os arquivos serão mantidos"
 
 #: motioneye/templates/main.html:425
 #, fuzzy
@@ -483,7 +491,7 @@ msgstr "Teste o diretório de rede"
 #: motioneye/templates/main.html:426
 #, fuzzy
 msgid "alklaku ĉi tiun butonon por testi la retan kunlokon post kiam vi plenigis la postulatajn detalojn"
-msgstr "clique neste botão para testar a conexão de rede depois de preencher os detalhes necessários"
+msgstr "clique neste botão para testar o local on-line depois de preencher os detalhes necessários"
 
 #: motioneye/templates/main.html:432
 msgid "Uzado de Disko"
@@ -492,12 +500,12 @@ msgstr "Utilização de disco"
 #: motioneye/templates/main.html:436
 #, fuzzy
 msgid "la uzata/tuta grandeco de la disko, kie loĝas la radika dosierujo"
-msgstr "o tamanho usado/total do disco onde reside o diretório raiz"
+msgstr "o tamanho usado/todo do disco, onde o diretório raiz"
 
 #: motioneye/templates/main.html:442
 #, fuzzy
 msgid "Alŝutu Mediajn Dosierojn"
-msgstr "Carregar arquivos de mídia"
+msgstr "Parar arquivos de mídia"
 
 #: motioneye/templates/main.html:444
 #, fuzzy
@@ -1039,7 +1047,7 @@ msgstr "Intervalo de interceptação"
 #: motioneye/utils/dtconv.py:146 motioneye/utils/dtconv.py:149
 #, fuzzy
 msgid "sekundoj"
-msgstr "segundos"
+msgstr "segundo"
 
 #: motioneye/templates/main.html:776
 #, fuzzy
@@ -1384,7 +1392,7 @@ msgstr "Máscara limpa"
 #: motioneye/templates/main.html:1016
 #, fuzzy
 msgid "Alklaku ĉi tiun butonon por malplenigi la nunan maskon."
-msgstr "Clique neste botão para esvaziar a máscara atual."
+msgstr "Clique neste botão para limpar a máscara atual."
 
 #: motioneye/templates/main.html:1022
 #, fuzzy
@@ -1429,7 +1437,7 @@ msgstr "Ative esta opção se desejar receber um email sempre que um incidente d
 #: motioneye/templates/main.html:1056
 #, fuzzy
 msgid "Retpoŝtadresoj"
-msgstr "Endereços de email"
+msgstr "Endereço de e-mail"
 
 #: motioneye/templates/main.html:1057
 msgid "retpoŝtadresoj…"
@@ -1808,7 +1816,7 @@ msgstr "minuto"
 #: motioneye/utils/dtconv.py:139
 #, fuzzy
 msgid "minutoj"
-msgstr "minutos"
+msgstr "minuto"
 
 #: motioneye/utils/dtconv.py:143
 msgid "sekundo"
@@ -1818,3 +1826,39 @@ msgstr "segundo"
 #, fuzzy
 msgid "minus"
 msgstr "menos"
+
+#, fuzzy, python-format
+#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
+#~ msgstr "URL para transferência quando o movimento é detectado; as seguintes rotas de poupança específicas são aceitas:%Y = ano,%m = mês,% = dia,%H = hora,%M = minuto,%S = segundo,%q = número do quadro,%v = número do evento,%f = estrada do arquivo"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
+#~ msgstr "Comando a ser cumprido após a criação de um arquivo multimídia. Vários comandos podem ser separados por nome de ponto; não use o nome do ponto em comandos; os seguintes tokens especiais são aceitos: %Y = ano, %m = mês, %H = hora, %M = minuto, %S = segundo, %q = número de quadro, %v = número do evento, %f = estrada do arquivo"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "Define o texto certo personalizado; os seguintes tokens especiais são aceitos: %% Y = ano, %% m = mês, %% d = dia, %% H = hora, %% M = minuto, %% S = segundo, %% S = segundo, %% q = número do quadro, %% v = número do evento, %% T = HH: MM: SS, \\n = nova linha"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "Define o texto certo personalizado; os seguintes tokens especiais são aceitos: %% Y = ano, %% m = mês, %% d = dia, %% H = hora, %% M = minuto, %% S = segundo, %% S = segundo, %% q = número do quadro, %% v = número do evento, %% T = HH: MM: SS, \\n = nova linha"
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "Define o modelo de nome para arquivos de imagem (JPEG); os seguintes tokens específicos são aceitos:%Y = ano,%m = mês,%d = dia,%H = hora,%M = minuto,%S = segundo,%q = número de quadro,%v = número de evento, / = recipiente de subdosier."
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "Defini o modelo de nome para os arquivos do filme; os seguintes tokens especiais são aceitos:%Y = ano,%m = mês,% = dia,%H = hora,%M = minuto,%S = segundo,%q = número de quadro,%v = número de evento, / = subdosierlion."
+
+#, fuzzy, python-format
+#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "URL a ser solicitada quando o movimento é detectado; as seguintes rotas de poupança específicas são aceitas: %Y = ano, %m = mês, %d = dia, %H = hora, %M = minuto, %S = segundo, %q = número do quadro, %v = oitavo número"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "Comando a ser lançado quando o movimento é detectado; inúmeros comandos podem ser separados por uma colonidade; não use clerks de ponto por comandos; os seguintes tokens particulares são aceitos: %Y = ano, %m = mês, %H = hora, %H = hora, %M = minuto, %S = segundo, %q = número de quadro, %v = oitavo número, % = oitavo número"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
+#~ msgstr "Comando a ser lançado quando um evento de movimento termina; vários comandos podem ser separados por uma colônia; não use composições de ponto por comandos; os seguintes tokens especiais são aceitos: %Y = ano, %m = mês, %H = hora, %M = minuto, %S = segundo, %q = número Quadro."

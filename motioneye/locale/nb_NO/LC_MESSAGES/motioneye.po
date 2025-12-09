@@ -5,42 +5,48 @@
 # Allan Nordhøy <epost@anotheragency.no>, 2024.
 # piet <piet@users.noreply.hosted.weblate.org>, 2024.
 # Zhang Wei <Zhang@users.noreply.hosted.weblate.org>, 2024.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2024-10-20 10:16+0000\n"
-"Last-Translator: Zhang Wei <Zhang@users.noreply.hosted.weblate.org>\n"
+"POT-Creation-Date: 2025-12-09 23:14+0000\n"
+"PO-Revision-Date: 2025-12-09 23:07+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/nb_NO/>\n"
 "Language: nb_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-rc\n"
+"X-Generator: Weblate 5.15-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: motioneye/config.py:860
+#, fuzzy
 msgid "Device names are only allowed to contain alphanumerical characters, hyphen -, underscore _, plus +, and space"
-msgstr ""
+msgstr "Enhetsnavn kan kun inneholde alfanumeriske tegn, bindestrek -, understrekingstegn _, pluss + og mellomrom"
 
 #: motioneye/config.py:864
-#, python-format
+#, fuzzy, python-format
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr ""
+msgstr "Filnavn kan bare inneholde alfanumeriske tegn, parenteser (), skråstrek /, punktum ., understrekingstegn _, bindestrek -, mellomrom og en delmengde av spesifikasjoner for bevegelseskonvertering: %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
+#, fuzzy
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
-msgstr ""
+msgstr "Katalognavn kan kun inneholde alfanumeriske tegn, mellomrom, parenteser (), skråstrek /, punktum ., understreker _ og bindestrek -"
 
 #: motioneye/config.py:874
+#, fuzzy
 msgid "Email addresses are only allowed to contain alphanumerical characters, underscore _, plus +, dot ., at @, caret ^, tilde ~, angle brackets <>, hyphen -, and may be separated by comma, and space"
-msgstr ""
+msgstr "E-postadresser kan kun inneholde alfanumeriske tegn, understreker _, pluss +, punktum ., at @, caret ^, tilde ~, vinkelparenteser <>, bindestrek -, og kan skilles med komma og mellomrom"
 
 #: motioneye/config.py:879
+#, fuzzy
 msgid "URLs are not allowed to contain caret ^, semicolon ;, or apostrophe '"
-msgstr ""
+msgstr "URL-adresser kan ikke inneholde caret ^, semikolon ; eller apostrof '"
 
 #: motioneye/server.py:232
 msgid "interrompa signalo ricevita, fermanta …"
@@ -1559,3 +1565,39 @@ msgstr "sekund"
 #: motioneye/utils/dtconv.py:153
 msgid "minus"
 msgstr "minus"
+
+#, fuzzy, python-format
+#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
+#~ msgstr "en addresse som skal bli kalt derson bevegelse oppdages; følgende spesielle symboler er akseptert: %%Y = år, %%m = måned, %%d = dag, %%H = time, %%M = minutt, %%S = sekund, %%q = ramme nummer, %%v = hendelsesnummer, %%f = filsti"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
+#~ msgstr "kommando som skal kalles etter opprettelsen av en mediefil; flere kommandoer kan skilles med et semikolon; ikke bruk semikolon innad i kommandoer; følgende spesielle symboler er akseptert: %%Y = år, %%m = måned, %%d = dag, %%H = time, %%M = minutt, %%S = sekund, %%q = ramme nummer, %%v = hendelsesnummer, %%f = filsti"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "definerer en tilpasset høyre tekst; følgende spesielle symboler er akseptert: %%Y = år, %%m = måned, %%d = dag, %%H = time, %%M = minutt, %%S = sekund, %%q = ramme nummer, %%v = hendelsesnummer, %%T = HH: mm: SS, \\n = ny linje"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "definerer en tilpasset høyre tekst; følgende spesielle symboler er akseptert: %%Y = år, %%m = måned, %%d = dag, %%H = time, %%M = minutt, %%S = sekund, %%q = ramme nummer, %%v = hendelsesnummer, %%T = HH: mm: SS, \\n = ny linje"
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "definerer navnemalen for bildefiler (JPEG); følgende spesielle symboler er akseptert: %%Y = år, %%m = måned, %%d = dag, %%H = time, %%M = minutt, %%S = sekund, %%q = ramme nummer, %%v = hendelsesnummer, /= underkatalog."
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "definerer navnemalen for filmfilene; følgende spesielle symboler er akseptert: %%Y = år, %%m = måned, %%d = dag, %%H = time, %%M = minutt, %%S = sekund, %%q = ramme nummer, %%v = hendelsesnummer, / = underkatalog."
+
+#, fuzzy, python-format
+#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "addresse som skal forespørres når bevegelse oppdages; følgende spesielle symboler er akseptert: %%Y = år, %%m = måned, %%d = dag, %%H = time, %%M = minutt, %%S = sekund, %%q = ramme nummer, %%v = hendelsesnummer%%"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "kommando som skal kjøres når bevegelse oppdages; flere kommandoer kan skilles med en semikolon; ikke bruk semikolon i kommandone; følgende spesielle symboler er akseptert: %%Y = år, %%m = måned, %%d = dag, %%H = time, %%M = minutt, %%S = sekund, %%q = ramme nummer, %%v = hendelsesnummer"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
+#~ msgstr "kommando som skal kjøres når en bevegelseshendelse avsluttes; flere kommandoer kan skilles med en semikolon; ikke bruk semikolon innad i kommandoer; følgende spesielle symboler er akseptert: %%Y = år, %%m = måned, %%d = dag, %%H = time, %%M = minutt, %%S = sekund, %%q = ramme nummer."

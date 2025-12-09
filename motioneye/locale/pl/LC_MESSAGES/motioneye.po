@@ -4,42 +4,49 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # nepozs <szopen@os.pl>, 2023.
 # Maksymilian Kłusek <123858.xyz@gmail.com>, 2025.
+# LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2025-10-25 06:02+0000\n"
-"Last-Translator: Maksymilian Kłusek <123858.xyz@gmail.com>\n"
+"POT-Creation-Date: 2025-12-09 23:14+0000\n"
+"PO-Revision-Date: 2025-12-09 23:09+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.14.1-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: motioneye/config.py:860
+#, fuzzy
 msgid "Device names are only allowed to contain alphanumerical characters, hyphen -, underscore _, plus +, and space"
-msgstr ""
+msgstr "Urządzenia są dostępne tylko dla znaków alfanumerycznych, dzielnika, podpunktu, plus + i przestrzennego"
 
 #: motioneye/config.py:864
-#, python-format
+#, fuzzy, python-format
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr ""
+msgstr "(Przepisy są ekwiwalentami, znakami alfanumerycznymi, atrybutami ruchowymi: %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
+#, fuzzy
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
-msgstr ""
+msgstr "Nazwy katalogowe są tylko równoważne znakom alfanumerycznym, przestrzennie, rodzicielstości (), forwards/, krop"
 
 #: motioneye/config.py:874
+#, fuzzy
 msgid "Email addresses are only allowed to contain alphanumerical characters, underscore _, plus +, dot ., at @, caret ^, tilde ~, angle brackets <>, hyphen -, and may be separated by comma, and space"
-msgstr ""
+msgstr "Protokół emailowy jest tylko przewodnikiem dla znaków alfanumerycznych, podwyższonych, plus +, krop., na @, caret^, tilde ~, tilde ~. English nouns <>, hyphen – i może być grzywną przez commę i przestrzennie"
 
 #: motioneye/config.py:879
+#, fuzzy
 msgid "URLs are not allowed to contain caret ^, semicolon ;, or apostrophe '"
-msgstr ""
+msgstr "URL nie są znane jako „Complier”, semikolumna, ani atrybuty. '"
 
 #: motioneye/server.py:232
 msgid "interrompa signalo ricevita, fermanta …"
@@ -82,8 +89,9 @@ msgid "taskoj komenciĝis"
 msgstr "uruchomione zadania"
 
 #: motioneye/server.py:446
+#, fuzzy
 msgid "mjpg klienta rubo-kolektanto komenciĝis"
-msgstr ""
+msgstr "mjpg – kolekcjoner odpadów klientów"
 
 #: motioneye/server.py:464
 msgid "servilo komenciĝis"
@@ -154,8 +162,9 @@ msgid "agordas la nombron da linioj uzataj por aranĝi la fotilojn"
 msgstr "konfiguruje liczbę wierszy użytych do ułożenia ramek kamery"
 
 #: motioneye/templates/main.html:148
+#, fuzzy
 msgid "kadro-variatoro"
-msgstr ""
+msgstr "zmienne ramowe"
 
 #: motioneye/templates/main.html:150
 msgid "reduktas framfrekvencon por ŝpari retan larĝan bandon kaj trafikon (ne funkcias kun simplaj MJPEG-fotiloj)"
@@ -1566,3 +1575,39 @@ msgstr "sekundę"
 #: motioneye/utils/dtconv.py:153
 msgid "minus"
 msgstr "minus"
+
+#, fuzzy, python-format
+#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
+#~ msgstr "adres URL, o który należy poprosić po wykryciu ruchu; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia, %%f = ścieżka do pliku"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
+#~ msgstr "Polecenie do wykonania po utworzeniu pliku multimedialnego; wiele poleceń można oddzielić średnikiem; nie używaj średników wewnątrz poleceń; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia, %%f = ścieżka do pliku"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "Ustawia niestandardowy właściwy tekst; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia, %%T = GG: MM: SS, \\n = nowa linia"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "Ustawia niestandardowy właściwy tekst; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia, %%T = GG: MM: SS, \\n = nowa linia"
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "Ustawia wzór nazwy dla plików graficznych (JPEG); akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia, / = podfolder."
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "ustawia wzór nazewnictwa dla plików filmowych; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia, / = podfolder."
+
+#, fuzzy, python-format
+#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "adres URL, o który należy poprosić po wykryciu ruchu; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "Polecenie do wykonania po wykryciu ruchu; wiele poleceń można oddzielić średnikiem; nie używaj średników wewnątrz poleceń; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
+#~ msgstr "Polecenie do wykonania po zakończeniu zdarzenia ruchu; wiele poleceń można oddzielić średnikiem; nie używaj średników wewnątrz poleceń; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = data, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki."

@@ -4,13 +4,16 @@
 # Automatically generated, 2020.
 #
 # vrcher <matt.yalta72@gmail.com>, 2025.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
+# LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2025-11-11 23:51+0000\n"
-"Last-Translator: vrcher <matt.yalta72@gmail.com>\n"
+"POT-Creation-Date: 2025-12-09 23:14+0000\n"
+"PO-Revision-Date: 2025-12-09 23:09+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -154,8 +157,9 @@ msgid "agordas la nombron da linioj uzataj por aranĝi la fotilojn"
 msgstr "устанавливает количество строк для размещения камер"
 
 #: motioneye/templates/main.html:148
+#, fuzzy
 msgid "kadro-variatoro"
-msgstr "Частота кадров"
+msgstr "Регулятор частоты кадров"
 
 #: motioneye/templates/main.html:150
 msgid "reduktas framfrekvencon por ŝpari retan larĝan bandon kaj trafikon (ne funkcias kun simplaj MJPEG-fotiloj)"
@@ -922,8 +926,9 @@ msgstr "Интервал перехвата"
 #: motioneye/templates/main.html:775 motioneye/templates/main.html:888
 #: motioneye/templates/main.html:963 motioneye/templates/main.html:1092
 #: motioneye/utils/dtconv.py:146 motioneye/utils/dtconv.py:149
+#, fuzzy
 msgid "sekundoj"
-msgstr "секунд"
+msgstr "секунды"
 
 #: motioneye/templates/main.html:776
 msgid "agordas la intervalon (en sekundoj) por la kaptiloj"
@@ -1558,3 +1563,39 @@ msgstr "секунд"
 #: motioneye/utils/dtconv.py:153
 msgid "minus"
 msgstr "минус"
+
+#, fuzzy, python-format
+#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
+#~ msgstr "URL для передачи при обнаружении движения; допустимы следующие специальные сокращения: %%Y = год, %%m = месяц, %%d = день, %%H = час, %%M = минута, %%S = секунда, %%q = номер кадра, %%v = номер события, %%f = путь к файлу"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
+#~ msgstr "Команда, которая будет выполнена после создания мультимедийного файла. Несколько команд могут быть разделены точкой с запятой; не используйте точку с запятой в командах; принимаются следующие спецтокены: %%Y = год, %%m = месяц, %%d = день, %%H = час, %%M = минута, %%S = секунда, %%q = номер кадра, %%v = номер события, %%f = путь к файлу"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "устанавливает пользовательский текст справа; принимаются следующие спецтокены: %%Y = год, %%m = месяц, %%d = день, %%H = час, %%M = минута, %%S = секунда, %%q = номер кадра, %%v = номер события, %%T = ЧЧ: ММ: СС, \\n = новая строка"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "устанавливает пользовательский текст справа; принимаются следующие спецтокены: %%Y = год, %%m = месяц, %%d = день, %%H = час, %%M = минута, %%S = секунда, %%q = номер кадра, %%v = номер события, %%T = ЧЧ: ММ: СС, \\n = новая строка"
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "устанавливает шаблон имени для файлов JPEG; принимаются следующие специальные токены: %%Y = год, %%m = месяц, %%d = день, %%H = час, %%M = минута, %%S = секунда, %%q = номер кадра, %%v = номер события, / = подкаталог."
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "устанавливает шаблон имени для файлов JPEG; принимаются следующие специальные токены: %%Y = год, %%m = месяц, %%d = день, %%H = час, %%M = минута, %%S = секунда, %%q = номер кадра, %%v = номер события, / = подкаталог."
+
+#, fuzzy, python-format
+#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "URL-адрес, который необходимо задать при обнаружении движения; принимаются следующие конкретные сберегательные маршруты:%Y = год,%m = месяц,%d = день,%H = час,%M = минута,%S = секунда,%q = число кадра,%v = восьмое число"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "Командование, которое должно быть запущено при обнаружении движения; многочисленные команды могут быть разделены колонией; не использовать точечные клерки по командам; принимаются следующие конкретные токены:%Y = год,%m = месяц,%H = час,%H = час,% M = минута,%S = секунда,% q = число кадра,%v = восьмое число,% = восьмое число"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
+#~ msgstr "Командование, которое будет запущено при завершении события движения; несколько команд могут быть разделены колонией; не используйте составы точек по командам; принимаются следующие специальные токены:%Y = год,%m = месяц,%H = час,%M = минута,%S = секунда,% q = базовый номер."

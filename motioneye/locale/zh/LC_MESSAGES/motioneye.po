@@ -3,42 +3,49 @@
 # This file is distributed under the same license as the PROJECT project.
 # Automatically generated, 2020.
 #
+# LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2023-03-25 13:41+0000\n"
-"Last-Translator: Ziteng <765484893@qq.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/zh_Hans/>\n"
+"POT-Creation-Date: 2025-12-09 23:14+0000\n"
+"PO-Revision-Date: 2025-12-09 23:09+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/zh_Hans/>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.17-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: motioneye/config.py:860
+#, fuzzy
 msgid "Device names are only allowed to contain alphanumerical characters, hyphen -, underscore _, plus +, and space"
-msgstr ""
+msgstr "只向甲型数字特性、hy、强调、+和空间提供装置"
 
 #: motioneye/config.py:864
-#, python-format
+#, fuzzy, python-format
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr ""
+msgstr "文件名仅允许包含字母数字字符、圆括号 ()、正斜杠 /、点 .、下划线 _、连字符 -、空格，以及运动转换指定符的子集：%C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
+#, fuzzy
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
-msgstr ""
+msgstr "目录名称仅允许包含字母数字字符、空格、圆括号 ()、正斜杠 /、点 .、下划线 _ 以及连字符 -"
 
 #: motioneye/config.py:874
+#, fuzzy
 msgid "Email addresses are only allowed to contain alphanumerical characters, underscore _, plus +, dot ., at @, caret ^, tilde ~, angle brackets <>, hyphen -, and may be separated by comma, and space"
-msgstr ""
+msgstr "电子邮件程序只是字母数字特性的指南,强调,+,t., at @, caret^, tilde ~, 英语区系<>,hy子-,可按 com子和空间分类"
 
 #: motioneye/config.py:879
+#, fuzzy
 msgid "URLs are not allowed to contain caret ^, semicolon ;, or apostrophe '"
-msgstr ""
+msgstr "URLs不称为“Complier”、半colon;或 页: 1"
 
 #: motioneye/server.py:232
 msgid "interrompa signalo ricevita, fermanta …"
@@ -1557,3 +1564,39 @@ msgstr "第二"
 #: motioneye/utils/dtconv.py:153
 msgid "minus"
 msgstr "减"
+
+#, fuzzy, python-format
+#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
+#~ msgstr "检测到运动时要传输的URL，接受以下特殊快捷方式：%% Y = 年，%% m = 月，%% d = 日，%% H = 小时，%% M = 分钟，%% S = 秒，%% q = 帧号， %% v = 事件编号，%% f = 文件路径"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
+#~ msgstr "创建多媒体文件后要执行的命令。几个命令可以用分号隔开，不要在命令中使用分号，接受以下特殊标记：%% Y = 年，%% m = 月，%% d = 日，%% H = 小时，%% M = 分钟，%% S = 秒，%% q = 帧号， %% v = 事件编号，%% f = 文件路径"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "自定义左侧文本；接受以下特殊标记：%% Y = 年，%% m = 月，%% d = 日，%% H = 小时，%% M = 分钟，%% S = 秒，%% q = 帧号， %% v = 事件编号，%% T = HH:MM:SS，\\n = 新行"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "自定义左侧文本；接受以下特殊标记：%% Y = 年，%% m = 月，%% d = 日，%% H = 小时，%% M = 分钟，%% S = 秒，%% q = 帧号， %% v = 事件编号，%% T = HH:MM:SS，\\n = 新行"
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "定义视频文件的名称模板；接受以下特殊标记：%% Y =年，%% m =月，%% d =日，%% H =小时，%% M =分钟，%% S =秒，%% q =帧号， %% v =事件编号，/ =子目录。"
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "定义视频文件的名称模板；接受以下特殊标记：%% Y =年，%% m =月，%% d =日，%% H =小时，%% M =分钟，%% S =秒，%% q =帧号， %% v =事件编号，/ =子目录。"
+
+#, fuzzy, python-format
+#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "检测到运动时请求的URL；接受以下特殊快捷方式：%% Y =年，%% m =月，%% d =日，%% H =小时，%% M =分钟，%% S =秒，%% q =帧号，%% v =事件编号"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "当检测到运动时要运行的命令。多个命令可以用冒号分隔，不要在命令中使用分号，接受以下特殊标记：%% Y =年，%% m =月，%% d =日，%% H =小时，%% M =分钟，%% S =秒，%% q =帧号，%% v =事件编号"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
+#~ msgstr "运动事件结束时要运行的命令。多个命令可以用冒号分隔，不要在命令中使用分号，接受以下特殊标记：%% Y =年，%% m =月，%% d =日期，%% H =小时，%% M =分钟，%% S =秒，%% q =帧号。"

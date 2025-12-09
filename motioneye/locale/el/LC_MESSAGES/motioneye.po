@@ -4,46 +4,54 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # piet <piet@users.noreply.hosted.weblate.org>, 2024.
 # Zhang Wei <Zhang@users.noreply.hosted.weblate.org>, 2024.
+# LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2024-10-20 10:16+0000\n"
-"Last-Translator: Zhang Wei <Zhang@users.noreply.hosted.weblate.org>\n"
+"POT-Creation-Date: 2025-12-09 23:14+0000\n"
+"PO-Revision-Date: 2025-12-09 23:46+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-rc\n"
+"X-Generator: Weblate 5.15-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: motioneye/config.py:860
+#, fuzzy
 msgid "Device names are only allowed to contain alphanumerical characters, hyphen -, underscore _, plus +, and space"
-msgstr ""
+msgstr "Οι συσκευές είναι διαθέσιμες μόνο σε άλφααριθμικούς χαρακτήρες, hyphen, υπογραμμίζει, συν +, και χωροταξικά"
 
 #: motioneye/config.py:864
-#, python-format
+#, fuzzy, python-format
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr ""
+msgstr "Τα αρχεία είναι ισοδύναμα μόνο με αλφαριθμικούς χαρακτήρες, γονιότοπους (), προς τα εμπρός/, π.χ., υπογράμμιση, υστερία -, χωροταξικό και υποσύνολο χαρακτηριστικών κίνησης κατά %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
+#, fuzzy
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
-msgstr ""
+msgstr "Τα ονόματα του Διευθυντή είναι ισοδύναμα μόνο με αλφααριθμικούς χαρακτήρες, χωρικά, γονισέ (), προς τα εμπρός/, dot., υπογραμμίζει και υστερεί –"
 
 #: motioneye/config.py:874
+#, fuzzy
 msgid "Email addresses are only allowed to contain alphanumerical characters, underscore _, plus +, dot ., at @, caret ^, tilde ~, angle brackets <>, hyphen -, and may be separated by comma, and space"
-msgstr ""
+msgstr "Το πρωτόκολλο ηλεκτρονικού ταχυδρομείου είναι μόνο ένας οδηγός για τους άλφααριθμικούς χαρακτήρες, υπογραμμίζει, συν +, dot., στο @, φροντιστές , κεραμίδι ~, Αγγλικά nouns <>, hyphen - και μπορεί να είναι ένα πρόστιμο από την comma, και χωροφοβικά"
 
 #: motioneye/config.py:879
+#, fuzzy
 msgid "URLs are not allowed to contain caret ^, semicolon ;, or apostrophe '"
-msgstr ""
+msgstr "Τα URLs δεν είναι γνωστά ως \"Complier\" , ημιcolon, ή αποτροπία «««"
 
 #: motioneye/server.py:232
+#, fuzzy
 msgid "interrompa signalo ricevita, fermanta …"
-msgstr "Ένα σήμα διακοπής που ελήφθη, κλείνοντας ..."
+msgstr "Ένα σήμα διακοπής που ελήφθη, κλείνοντας …"
 
 #: motioneye/server.py:276
 msgid "smb-akcioj postulas radikajn privilegiojn"
@@ -66,8 +74,9 @@ msgid "bonvolu instali pycurl"
 msgstr "Εγκαταστήστε το Pycurl"
 
 #: motioneye/server.py:422
+#, fuzzy
 msgid "saluton! ĉi tio estas motionEye-servilo "
-msgstr "Γειά σου! Αυτός είναι ένας διακομιστής Motioneye"
+msgstr "Γειά σου! Αυτός είναι ένας διακομιστής motionEye "
 
 #: motioneye/server.py:437
 msgid "purigado komenciĝis"
@@ -289,7 +298,7 @@ msgstr "Όνομα κάμερας"
 
 #: motioneye/templates/main.html:272
 msgid "kameraa nomo…"
-msgstr "Όνομα κάμερας ..."
+msgstr "Όνομα κάμερας…"
 
 #: motioneye/templates/main.html:273
 msgid "alias pri ĉi tiu kamera aparato"
@@ -684,7 +693,7 @@ msgstr "Σειρά"
 
 #: motioneye/templates/main.html:594
 msgid "ordono…"
-msgstr "Σειρά ..."
+msgstr "Σειρά…"
 
 #: motioneye/templates/main.html:595
 #, python-format
@@ -722,14 +731,12 @@ msgstr "Ορίστε το κείμενο που εμφανίζεται στις 
 
 #: motioneye/templates/main.html:624 motioneye/templates/main.html:641
 msgid "propra teksto…"
-msgstr "Προσαρμοσμένο κείμενο ..."
+msgstr "Προσαρμοσμένο κείμενο…"
 
 #: motioneye/templates/main.html:625
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero,%%T = HH:MM:SS, \\n = nova linio"
-msgstr ""
-"Ορίζει ένα προσαρμοσμένο αριστερό κείμενο. Τα ακόλουθα ειδικά μάρκες γίνονται αποδεκτά: %% Y = έτος, %% M = Month, %% D = ημέρα, %% H = ώρα, %% M = Minute, %% S = Second, %% Q = αριθμός πλαισίου, %% v = αριθμός συμβάντος, %% t = hh: mm: ss, \n"
-" = νέα γραμμή"
+msgstr "Ορίζει μια προσαρμογή για κείμενο ευθυγραμμισμένο αριστερά. Γίνονται αποδεκτά τα ακόλουθα ειδικά σύμβολα: %%Y = έτος, %%m = μήνας, %%d = ημέρα, %%H = ώρα, %%M = λεπτό, %%S = δευτερόλεπτο, %%q = αριθμός καρέ, %%v = αριθμός συμβάντος, %%T = HH:MM:SS, \\n = νέα γραμμή"
 
 #: motioneye/templates/main.html:628
 msgid "Dekstra Teksto"
@@ -740,11 +747,9 @@ msgid "Fiksas la tekston montritan sur la filmoj kaj bildoj, sur la malsupra dek
 msgstr "Ορίζει το κείμενο που εμφανίζεται στις ταινίες και τις εικόνες, στην κάτω δεξιά γωνία"
 
 #: motioneye/templates/main.html:642
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero,%%T = HH:MM:SS, \\n = nova linio"
-msgstr ""
-"Ορίζει προσαρμοσμένο δεξί κείμενο. Τα ακόλουθα ειδικά μάρκες γίνονται αποδεκτά: %% Y = έτος, %% M = Month, %% D = ημέρα, %% H = ώρα, %% M = Minute, %% S = Second, %% Q = αριθμός πλαισίου, %% v = αριθμός συμβάντος, %% t = hh: mm: ss, \n"
-" = νέα γραμμή"
+msgstr "Καθορίζει τη μορφή του κειμένου στα δεξιά. Γίνονται αποδεκτά τα ακόλουθα ειδικά σύμβολα: %%Y = έτος, %%m = μήνας, %%d = ημέρα, %%H = ώρα, %%M = λεπτό, %%S = δευτερόλεπτο, %%q = αριθμός καρέ, %%v = αριθμός συμβάντος, %%T = HH:MM:SS, \\n = νέα γραμμή"
 
 #: motioneye/templates/main.html:645
 msgid "Teksta Skalo"
@@ -860,7 +865,7 @@ msgstr "Όνομα αρχείου εικόνας"
 
 #: motioneye/templates/main.html:748 motioneye/templates/main.html:817
 msgid "dosiernomo ŝablono…"
-msgstr "Πρότυπο Όνομα αρχείου ..."
+msgstr "Πρότυπο Όνομα αρχείου…"
 
 #: motioneye/templates/main.html:749
 #, python-format
@@ -990,8 +995,9 @@ msgid "Filmoj"
 msgstr "Κινηματογράφος"
 
 #: motioneye/templates/main.html:816
+#, fuzzy
 msgid "Filma Dosiernomo"
-msgstr "Όνομα αρχείου αρχείου"
+msgstr "Όνομα αρχείου"
 
 #: motioneye/templates/main.html:818
 #, python-format
@@ -1221,8 +1227,9 @@ msgid "Krei debug media files"
 msgstr "Δημιουργία αρχείων πολυμέσων εντοπισμού σφαλμάτων"
 
 #: motioneye/templates/main.html:1029
+#, fuzzy
 msgid "Kiam ebligite, kreas specialajn filmojn kaj bildojn, kiuj helpas elpurigi problemojn de moviĝo-detekto."
-msgstr "Όταν ενεργοποιηθεί, δημιουργεί ειδικές ταινίες και εικόνες που βοηθούν στα προβλήματα εντοπισμού εντοπισμού ανίχνευσης κίνησης."
+msgstr "Όταν είναι ενεργοποιημένη, δημιουργεί ειδικά βίντεο και εικόνες που βοηθούν στην εξάλειψη προβλημάτων με την ανίχνευση κίνησης."
 
 #: motioneye/templates/main.html:1038
 msgid "Ebligu tion se vi volas esti sciigita kiam moviĝo estas detektita."
@@ -1246,7 +1253,7 @@ msgstr "Διευθύνσεις ηλεκτρονικού ταχυδρομείου
 
 #: motioneye/templates/main.html:1057
 msgid "retpoŝtadresoj…"
-msgstr "Διευθύνσεις ηλεκτρονικού ταχυδρομείου ..."
+msgstr "Διευθύνσεις ηλεκτρονικού ταχυδρομείου…"
 
 #: motioneye/templates/main.html:1058
 msgid "Retpoŝtadresoj (apartigitaj per komo) aldonitaj ĉi tie ricevos sciigojn kiam ajn moviĝokazaĵo estas detektita."
@@ -1282,7 +1289,7 @@ msgstr "Λογαριασμός SMTP"
 
 #: motioneye/templates/main.html:1072
 msgid "konto@gmail.com…"
-msgstr "account@gmail.com ..."
+msgstr "account@gmail.com…"
 
 #: motioneye/templates/main.html:1073
 msgid "Enigu vian SMTPan konton (kutime via retpoŝta adreso)."
@@ -1302,7 +1309,7 @@ msgstr "Διεύθυνση"
 
 #: motioneye/templates/main.html:1082
 msgid "retpoŝta adreso…"
-msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου ..."
+msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου…"
 
 #: motioneye/templates/main.html:1083
 msgid "Agordi kutimon De adreso, se via SMTP-servo postulas unu (la unua destina retpoŝta adreso estos uzata se lasita malplena)."
@@ -1415,7 +1422,7 @@ msgstr "Εντολή"
 
 #: motioneye/templates/main.html:1162 motioneye/templates/main.html:1207
 msgid "komando…"
-msgstr "Εντολή ..."
+msgstr "Εντολή…"
 
 #: motioneye/templates/main.html:1163
 #, python-format
@@ -1562,3 +1569,39 @@ msgstr "ένα δεύτερο"
 #: motioneye/utils/dtconv.py:153
 msgid "minus"
 msgstr "μείον"
+
+#, fuzzy, python-format
+#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
+#~ msgstr "URL για μεταφορά όταν εντοπίζεται η κίνηση. Οι ακόλουθες ειδικές συντομεύσεις γίνονται αποδεκτές: %% Y = έτος, %% M = Month, %% D = ημέρα, %% H = ώρα, %% M = Minute, %% S = Second, %% Q = αριθμός πλαισίου, %% v = αριθμός συμβάντος, %% f = τρόπος αρχείου"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
+#~ msgstr "Εντολή που θα επιτευχθεί μετά τη δημιουργία ενός αρχείου πολυμέσων. Αρκετές εντολές μπορούν να διαχωριστούν με ένα όνομα σημείου. Μην χρησιμοποιείτε ένα όνομα σημείου σε εντολές. Τα ακόλουθα ειδικά μάρκες γίνονται αποδεκτά: %% Y = έτος, %% M = Month, %% D = ημέρα, %% H = ώρα, %% M = Minute, %% S = Second, %% Q = αριθμός πλαισίου, %% v = περιστασιακός αριθμός, %% f = τρόπος αρχείου"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "Ορίζει προσαρμοσμένο δεξί κείμενο. Τα ακόλουθα ειδικά μάρκες γίνονται αποδεκτά: %Y = έτος, %m = Month, %d = ημέρα, %H = ώρα, %M = Minute, %S = Second, %q = αριθμός πλαισίου, %v = αριθμός συμβάντος, %T = hh: mm: ss, \\n = νέα γραμμή"
+
+#, fuzzy, python-format
+#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
+#~ msgstr "Ορίζει προσαρμοσμένο δεξί κείμενο. Τα ακόλουθα ειδικά μάρκες γίνονται αποδεκτά: %Y = έτος, %m = Month, %d = ημέρα, %H = ώρα, %M = Minute, %S = Second, %q = αριθμός πλαισίου, %v = αριθμός συμβάντος, %T = hh: mm: ss, \\n = νέα γραμμή"
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "Ορίζει το πρότυπο ονομασίας για αρχεία εικόνας (JPEG). Τα ακόλουθα ειδικά μάρκες γίνονται αποδεκτά: %% Y = έτος, %% M = Month, %% D = ημέρα, %% H = ώρα, %% M = Minute, %% S = Second, %% Q = αριθμός πλαισίου, %% V = Αριθμός συμβάντος, / = Υποδιάγραμμα."
+
+#, fuzzy, python-format
+#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
+#~ msgstr "Ορίζει το πρότυπο ονομασίας για τα αρχεία ταινιών. Τα ακόλουθα ειδικά μάρκες γίνονται αποδεκτά: %% Y = έτος, %% M = Month, %% D = ημέρα, %% H = ώρα, %% M = Minute, %% S = Second, %% Q = αριθμός πλαισίου, %% V = Αριθμός συμβάντος, / = Υποδιάγραμμα."
+
+#, fuzzy, python-format
+#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "URL που πρέπει να ζητηθεί όταν εντοπίζεται η κίνηση. Οι ακόλουθες ειδικές συντομεύσεις γίνονται αποδεκτές: %% Y = έτος, %% M = Month, %% D = ημέρα, %% H = ώρα, %% M = Minute, %% S = Second, %% Q = αριθμός πλαισίου, %% V = περιστασιακός αριθμός"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+#~ msgstr "Εντολή που θα ξεκινήσει κατά την ανίχνευση της κίνησης. Πολλές εντολές μπορούν να διαχωριστούν από ένα κόλον. Μην χρησιμοποιείτε ημικόλια με εντολές. Τα ακόλουθα ειδικά μάρκες γίνονται αποδεκτά: %% Y = έτος, %% M = Month, %% D = Day, %% H = ώρα, %% M = Minute, %% S = Second, %% Q = Αριθμός πλαισίου , %% V = περιστασιακός αριθμός"
+
+#, fuzzy, python-format
+#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
+#~ msgstr "Εντολή που θα ξεκινήσει όταν τελειώνει ένα συμβάν κίνησης. Πολλές εντολές μπορούν να διαχωριστούν από ένα κόλον. Μην χρησιμοποιείτε ενώσεις σημείων με εντολές. Τα ακόλουθα ειδικά μάρκες γίνονται αποδεκτά: %% Y = έτος, %% M = Month, %% D = ημερομηνία, %% H = ώρα, %% M = Minute, %% S = δεύτερο, %% Q = αριθμός πλαισίου."
