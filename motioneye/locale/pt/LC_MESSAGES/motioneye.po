@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 16:07+0000\n"
-"PO-Revision-Date: 2025-12-09 15:00+0000\n"
+"PO-Revision-Date: 2025-12-09 23:09+0000\n"
 "Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/pt/>\n"
 "Language: pt\n"
@@ -723,9 +723,9 @@ msgid "ekz. http://example.com/notify/"
 msgstr "p. ex. http://example.com/notify/"
 
 #: motioneye/templates/main.html:570
-#, python-format
+#, fuzzy, python-format
 msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-msgstr ""
+msgstr "URL para transferência quando o movimento é detectado; as seguintes rotas de poupança específicas são aceitas:%Y = ano,%m = mês,% = dia,%H = hora,%M = minuto,%S = segundo,%q = número do quadro,%v = número do evento,%f = estrada do arquivo"
 
 #: motioneye/templates/main.html:573 motioneye/templates/main.html:1141
 #: motioneye/templates/main.html:1186
@@ -757,9 +757,9 @@ msgid "ordono…"
 msgstr "Pedido…"
 
 #: motioneye/templates/main.html:595
-#, python-format
+#, fuzzy, python-format
 msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-msgstr ""
+msgstr "Comando a ser cumprido após a criação de um arquivo multimídia. Vários comandos podem ser separados por nome de ponto; não use o nome do ponto em comandos; os seguintes tokens especiais são aceitos: %Y = ano, %m = mês, %H = hora, %M = minuto, %S = segundo, %q = número de quadro, %v = número do evento, %f = estrada do arquivo"
 
 #: motioneye/templates/main.html:605
 #, fuzzy
@@ -966,9 +966,9 @@ msgid "dosiernomo ŝablono…"
 msgstr "Modelo de nome do arquivo…"
 
 #: motioneye/templates/main.html:749
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr ""
+msgstr "Define o modelo de nome para arquivos de imagem (JPEG); os seguintes tokens específicos são aceitos:%Y = ano,%m = mês,%d = dia,%H = hora,%M = minuto,%S = segundo,%q = número de quadro,%v = número de evento, / = recipiente de subdosier."
 
 #: motioneye/templates/main.html:752
 #, fuzzy
@@ -1127,9 +1127,9 @@ msgid "Filma Dosiernomo"
 msgstr "Nome do arquivo de filme"
 
 #: motioneye/templates/main.html:818
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr ""
+msgstr "Defini o modelo de nome para os arquivos do filme; os seguintes tokens especiais são aceitos:%Y = ano,%m = mês,% = dia,%H = hora,%M = minuto,%S = segundo,%q = número de quadro,%v = número de evento, / = subdosierlion."
 
 #: motioneye/templates/main.html:821
 #, fuzzy
@@ -1621,9 +1621,9 @@ msgid "ekz. http://ekzemplo.com/sciigi/"
 msgstr "p. ex. http://example.com/search/"
 
 #: motioneye/templates/main.html:1138
-#, python-format
+#, fuzzy, python-format
 msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr ""
+msgstr "URL a ser solicitada quando o movimento é detectado; as seguintes rotas de poupança específicas são aceitas: %Y = ano, %m = mês, %d = dia, %H = hora, %M = minuto, %S = segundo, %q = número do quadro, %v = oitavo número"
 
 #: motioneye/templates/main.html:1150 motioneye/templates/main.html:1195
 #, fuzzy
@@ -1650,9 +1650,9 @@ msgid "komando…"
 msgstr "Comando…"
 
 #: motioneye/templates/main.html:1163
-#, python-format
+#, fuzzy, python-format
 msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr ""
+msgstr "Comando a ser lançado quando o movimento é detectado; inúmeros comandos podem ser separados por uma colonidade; não use clerks de ponto por comandos; os seguintes tokens particulares são aceitos: %Y = ano, %m = mês, %H = hora, %H = hora, %M = minuto, %S = segundo, %q = número de quadro, %v = oitavo número, % = oitavo número"
 
 #: motioneye/templates/main.html:1203
 #, fuzzy
@@ -1660,9 +1660,9 @@ msgid "Ebligu ĉi tion, se vi volas lanĉi komandon ĉiufoje kiam movada evento 
 msgstr "Habilite isso se desejar iniciar um comando toda vez que um evento de movimentação terminar."
 
 #: motioneye/templates/main.html:1208
-#, python-format
+#, fuzzy, python-format
 msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-msgstr ""
+msgstr "Comando a ser lançado quando um evento de movimento termina; vários comandos podem ser separados por uma colônia; não use composições de ponto por comandos; os seguintes tokens especiais são aceitos: %Y = ano, %m = mês, %H = hora, %M = minuto, %S = segundo, %q = número Quadro."
 
 #: motioneye/templates/main.html:1218
 #, fuzzy
