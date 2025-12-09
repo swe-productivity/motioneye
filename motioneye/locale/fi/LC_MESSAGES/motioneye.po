@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2025-12-09 01:40+0000\n"
+"PO-Revision-Date: 2025-12-09 15:00+0000\n"
 "Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/fi/>\n"
 "Language: fi\n"
@@ -26,9 +26,9 @@ msgid "Device names are only allowed to contain alphanumerical characters, hyphe
 msgstr ""
 
 #: motioneye/config.py:864
-#, python-format
+#, fuzzy, python-format
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr ""
+msgstr "%M %M %M %M %M %M %M %M %M %M %M %M % %M %M %M %M %M %M % %M %M %M %M % %M %M %M %M %M %M %M %M %M %M %M %M %"
 
 #: motioneye/config.py:869
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
@@ -133,44 +133,54 @@ msgid "Preferoj"
 msgstr "Asetukset"
 
 #: motioneye/templates/main.html:133
+#, fuzzy
 msgid "Aranĝo Kolumnoj"
-msgstr ""
+msgstr "Columnien järjestäminen"
 
 #: motioneye/templates/main.html:135
+#, fuzzy
 msgid "agordas la nombron da kolumnoj uzataj por aranĝi la fotilojn"
-msgstr ""
+msgstr "kameroiden toteuttamiseen käytettyjen sarakkeiden määrä"
 
 #: motioneye/templates/main.html:138
+#, fuzzy
 msgid "Fiksi Kadrojn Vertikale"
-msgstr ""
+msgstr "Kiinteä Cadets Verticalle"
 
 #: motioneye/templates/main.html:140
+#, fuzzy
 msgid "kontrolas ĉu framfojoj povas esti reduktitaj por vertikale konveni al la fenestro aŭ ne"
-msgstr ""
+msgstr "valvoo, voidaanko kehyksiä pienentää pystysuoraan ikkunaan tai ei"
 
 #: motioneye/templates/main.html:143
+#, fuzzy
 msgid "Aranĝo linioj"
-msgstr ""
+msgstr "Järjestelylinjat"
 
 #: motioneye/templates/main.html:145
+#, fuzzy
 msgid "agordas la nombron da linioj uzataj por aranĝi la fotilojn"
-msgstr ""
+msgstr "kameroiden toteuttamiseen käytettyjen rivien määrä"
 
 #: motioneye/templates/main.html:148
+#, fuzzy
 msgid "kadro-variatoro"
-msgstr ""
+msgstr "kehyksen muuttuva"
 
 #: motioneye/templates/main.html:150
+#, fuzzy
 msgid "reduktas framfrekvencon por ŝpari retan larĝan bandon kaj trafikon (ne funkcias kun simplaj MJPEG-fotiloj)"
-msgstr ""
+msgstr "vähentää kehysnopeutta säästää verkkolaajakaistaa ja liikennettä (ei työskentele yksinkertaisten MJPEG-kameroiden kanssa)"
 
 #: motioneye/templates/main.html:153
+#, fuzzy
 msgid "Rezolucio-variatoro"
-msgstr ""
+msgstr "Resoluutio muuttuva"
 
 #: motioneye/templates/main.html:155
+#, fuzzy
 msgid "reduktas la efektivan rezolucion de ĉiuj fotiloj por ŝpari retan larĝan bandon kaj trafikon (ne funkcias en simplaj MJPEG-fotiloj)"
-msgstr ""
+msgstr "vähentää kaikkien kameroiden tehokasta resoluutiota verkkolaajakaistan ja -liikenteen tallentamiseksi (ei toimi yksinkertaisissa MJPEG-kameroissa)"
 
 #: motioneye/templates/main.html:161
 msgid "ĝeneralaj parametroj, komunaj al ĉiuj fotiloj"
@@ -371,216 +381,266 @@ msgid "Privateca masko"
 msgstr "Yksityisyysmaski"
 
 #: motioneye/templates/main.html:341
+#, fuzzy
 msgid "ebligas maskeradon de bildoj por eviti registradon de iuj bildaj areoj por protekti privatecon"
-msgstr ""
+msgstr "mahdollistaa kuvien naamioinnin, jotta vältytään tallentamasta mitään piktorialueita yksityisyyden suojaamiseksi"
 
 #: motioneye/templates/main.html:346 motioneye/templates/main.html:1007
+#, fuzzy
 msgid "Redakti maskon"
-msgstr ""
+msgstr "Leikkaa maski"
 
 #: motioneye/templates/main.html:347 motioneye/templates/main.html:1008
+#, fuzzy
 msgid "Konservi maskon"
-msgstr ""
+msgstr "Pidä maski"
 
 #: motioneye/templates/main.html:350
+#, fuzzy
 msgid "alklaku ĉi tiun butonon por ebligi/malebligi la maskan redaktilon"
-msgstr ""
+msgstr "klikkaa tästä painikkeesta, jotta naamion editori voidaan ottaa käyttöön / palauttaa"
 
 #: motioneye/templates/main.html:361
 msgid "Ekstraj Elektoj"
 msgstr "Lisäasetukset"
 
 #: motioneye/templates/main.html:363
+#, fuzzy
 msgid "vi povas aldoni iujn ajn pliajn opciojn ĉi tie por la «motion» demono (uzu la «nomo valoro» formaton, unu opcion por linio)"
-msgstr ""
+msgstr "voit lisätä lisää vaihtoehtoja tässä \"liikkeen\" demoni (käytä \"nimiarvo\" muodossa, yksi vaihtoehto linja)"
 
 #: motioneye/templates/main.html:372
+#, fuzzy
 msgid "elektu kie kaj kiel viaj amaskomunikiloj estas konservitaj"
-msgstr ""
+msgstr "valitse, missä ja miten mediasi säilytetään"
 
 #: motioneye/templates/main.html:373
+#, fuzzy
 msgid "Stokado de dosieroj"
-msgstr ""
+msgstr "Tiedostojen varastointi"
 
 #: motioneye/templates/main.html:378
+#, fuzzy
 msgid "Stokada Aparato"
-msgstr ""
+msgstr "Stokada-laitteet"
 
 #: motioneye/templates/main.html:383
+#, fuzzy
 msgid "indikas la stokan aparaton, kie la bildo kaj video-dosieroj estos konservitaj"
-msgstr ""
+msgstr "ilmoitetaan tallennuslaite, jossa kuva- ja videotiedostot säilytetään"
 
 #: motioneye/templates/main.html:386
+#, fuzzy
 msgid "Retservilo"
-msgstr ""
+msgstr "Internet-palvelin"
 
 #: motioneye/templates/main.html:388
+#, fuzzy
 msgid "la adreso de la retservilo (IP-adreso aŭ nomo)"
-msgstr ""
+msgstr "internet-palvelimen osoite (IP-osoite tai nimi)"
 
 #: motioneye/templates/main.html:391
+#, fuzzy
 msgid "SMB Protokolo-Versio"
-msgstr ""
+msgstr "SMB-protokollan versio"
 
 #: motioneye/templates/main.html:401
+#, fuzzy
 msgid "elektu la SMB-version, kiun vi povas uzi (testu la malsamajn eblojn kaj vidu, kiu funkcias plej bone kun via NAS)"
-msgstr ""
+msgstr "valitse SMB-versio, jota voit käyttää (testata eri vaihtoehtoja ja katso, mikä toimii parhaiten NAS: n kanssa)"
 
 #: motioneye/templates/main.html:404
+#, fuzzy
 msgid "Kunhava nomo"
-msgstr ""
+msgstr "Jaettu nimi"
 
 #: motioneye/templates/main.html:406
+#, fuzzy
 msgid "la nomo de la interŝanĝa reto"
-msgstr ""
+msgstr "valuuttaverkoston nimi"
 
 #: motioneye/templates/main.html:409 motioneye/templates/main.html:516
 msgid "Uzantnomo"
 msgstr "Käyttäjänimi"
 
 #: motioneye/templates/main.html:411
+#, fuzzy
 msgid "la uzantnomo kiu estu provizita kiam vi aliras la reton dosierujon (lasu malplena se neniu uzantnomo estas bezonata)"
-msgstr ""
+msgstr "käyttäjän nimi, joka tarjotaan, kun käytät verkkohakemistoa (tyhjä, jos käyttäjänimeä ei tarvita)"
 
 #: motioneye/templates/main.html:414
 msgid "Pasvorton"
 msgstr ""
 
 #: motioneye/templates/main.html:416
+#, fuzzy
 msgid "la pasvorto bezonata de la reto dosierujo (lasi malplena se neniu pasvorto estas bezonata)"
-msgstr ""
+msgstr "verkkohakemiston tarvitsema salasana (tyhjä, jos salasanaa ei tarvita)"
 
 #: motioneye/templates/main.html:419
+#, fuzzy
 msgid "Radika dosierujo"
-msgstr ""
+msgstr "Root-hakemisto"
 
 #: motioneye/templates/main.html:421
+#, fuzzy
 msgid "la radika vojo (sur la elektita stokada aparato), kie la dosieroj estos konservitaj"
-msgstr ""
+msgstr "juuritie (valitulla tallennuslaitteella), jossa tiedostot säilytetään"
 
 #: motioneye/templates/main.html:425
+#, fuzzy
 msgid "Testi la reton dosierujon"
-msgstr ""
+msgstr "Testaa verkkohakemisto"
 
 #: motioneye/templates/main.html:426
+#, fuzzy
 msgid "alklaku ĉi tiun butonon por testi la retan kunlokon post kiam vi plenigis la postulatajn detalojn"
-msgstr ""
+msgstr "klikkaa tätä painiketta testataksesi online-sijainti, kun olet täyttänyt tarvittavat tiedot"
 
 #: motioneye/templates/main.html:432
+#, fuzzy
 msgid "Uzado de Disko"
-msgstr ""
+msgstr "Käyttö Disc"
 
 #: motioneye/templates/main.html:436
+#, fuzzy
 msgid "la uzata/tuta grandeco de la disko, kie loĝas la radika dosierujo"
-msgstr ""
+msgstr "levyn koko/koko, jossa juurihakemisto"
 
 #: motioneye/templates/main.html:442
+#, fuzzy
 msgid "Alŝutu Mediajn Dosierojn"
-msgstr ""
+msgstr "Stop mediatiedostot"
 
 #: motioneye/templates/main.html:444
+#, fuzzy
 msgid "aktivigu ĉi tiun opcion, se vi volas, ke viaj amaskomunikiloj estu alŝutitaj al ekstera servo"
-msgstr ""
+msgstr "käytä tätä vaihtoehtoa, jos haluat, että mediasi ladataan ulkoiseen palveluun"
 
 #: motioneye/templates/main.html:447
+#, fuzzy
 msgid "Alŝutu Bildojn"
-msgstr ""
+msgstr "Pysäytä kuvia"
 
 #: motioneye/templates/main.html:449
+#, fuzzy
 msgid "aktivigu ĉi tiun opcion, se vi volas, ke la bildoj elŝutiĝu al ekstera servo"
-msgstr ""
+msgstr "käytä tätä vaihtoehtoa, jos haluat kuvien ladattavan ulkoiseen palveluun"
 
 #: motioneye/templates/main.html:452
+#, fuzzy
 msgid "Alŝutu Filmojn"
-msgstr ""
+msgstr "Lopeta elokuvat"
 
 #: motioneye/templates/main.html:454
+#, fuzzy
 msgid "ebligu ĉi tion, se vi volas, ke filmetoj estu alŝutitaj al ekstera servo"
-msgstr ""
+msgstr "käytä tätä, jos haluat videoiden ladattavan ulkoiseen palveluun"
 
 #: motioneye/templates/main.html:457
+#, fuzzy
 msgid "Alŝuta Servo"
-msgstr ""
+msgstr "Palvelun ostaminen"
 
 #: motioneye/templates/main.html:460
+#, fuzzy
 msgid "Servilo FTP"
-msgstr ""
+msgstr "Server FTP"
 
 #: motioneye/templates/main.html:461
+#, fuzzy
 msgid "Servilo SFTP"
-msgstr ""
+msgstr "Server SFTP"
 
 #: motioneye/templates/main.html:462
+#, fuzzy
 msgid "Servilo HTTP"
-msgstr ""
+msgstr "Server HTTP"
 
 #: motioneye/templates/main.html:463
+#, fuzzy
 msgid "Servilo HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: motioneye/templates/main.html:471
+#, fuzzy
 msgid "elektu servon, al kiu la mediadosieroj estu alŝutitaj"
-msgstr ""
+msgstr "valitse palvelu, johon mediatiedostot ladataan"
 
 #: motioneye/templates/main.html:474
+#, fuzzy
 msgid "Servila Adreso"
-msgstr ""
+msgstr "Palvelimen osoite"
 
 #: motioneye/templates/main.html:476
+#, fuzzy
 msgid "la domajna nomo aŭ IP-adreso de la servilo (ekz. ftp.example.com aŭ 192.168.1.3)"
-msgstr ""
+msgstr "palvelimen verkkotunnus tai IP-osoite (esim. ftp.example.com tai 192.168.1.3)"
 
 #: motioneye/templates/main.html:479
+#, fuzzy
 msgid "Servila haveno"
-msgstr ""
+msgstr "Palveluportti"
 
 #: motioneye/templates/main.html:481
+#, fuzzy
 msgid "la haveno por uzi konekti al la servo (lasu ĉi tiun kampon malplena por uzi la defaŭltan valoron)"
-msgstr ""
+msgstr "palveluun kytkettävä satama (tehkää tämä kenttä tyhjäksi oletusarvon käyttämiseksi)"
 
 #: motioneye/templates/main.html:484
+#, fuzzy
 msgid "Metodo"
-msgstr ""
+msgstr "Menetelmä"
 
 #: motioneye/templates/main.html:491
+#, fuzzy
 msgid "la HTTP-metodo uzi por alŝuti dosierojn"
-msgstr ""
+msgstr "hTTP-menetelmä tiedostojen lataamiseen"
 
 #: motioneye/templates/main.html:494
+#, fuzzy
 msgid "Finpunkto URL"
-msgstr ""
+msgstr "Endpoint URL"
 
 #: motioneye/templates/main.html:496
+#, fuzzy
 msgid "La kompleta URL al la alŝuta servila finpunkto:"
-msgstr ""
+msgstr "Täydellinen URL-osoite palvelimen päätepisteeseen:"
 
 #: motioneye/templates/main.html:497
+#, fuzzy
 msgid "Por S3: ekz. http://my.minio:9000. Lasu ĝin malplena por AWS!"
-msgstr ""
+msgstr "Esim. http: My.minio: 9000. Jätä se tyhjäksi!"
 
 #: motioneye/templates/main.html:498
+#, fuzzy
 msgid "Por WebDAV: ekz. https://my.cloud/remote.php/dav/files/Me/"
-msgstr ""
+msgstr "WebDAV:lle: esim. https:/my.Cl/remote.php/dav/files/me/files/"
 
 #: motioneye/templates/main.html:501
+#, fuzzy
 msgid "Loko"
-msgstr ""
+msgstr "Sijainti"
 
 #: motioneye/templates/main.html:503
+#, fuzzy
 msgid "la loko (radika vojo) kie amaskomunikiloj devas esti alŝutitaj (ekz. /files/cam1/)"
-msgstr ""
+msgstr "sijainti (juuripolku), jossa massamedia on ladattava (esim. /files/cam1/)"
 
 #: motioneye/templates/main.html:506
+#, fuzzy
 msgid "Inkluzivi Subdosierujojn"
-msgstr ""
+msgstr "Sisältää alihankkijoita"
 
 #: motioneye/templates/main.html:508
+#, fuzzy
 msgid "Aktivigu tion por elŝuti plurmediajn dosierojn kun siaj subdosierujoj, anstataŭ meti ilin rekte en la radikan lokon"
-msgstr ""
+msgstr "Aktivoi tämä lataamaan syndikoituja tiedostoja alihankkijoillaan sen sijaan, että ne sijoitettaisiin suoraan juurisijoitukseen"
 
 #: motioneye/templates/main.html:511
+#, fuzzy
 msgid "Purigi la nubon"
-msgstr ""
+msgstr "Puhdista pilvi"
 
 #: motioneye/templates/main.html:513
 msgid "ebligu ĉi tion forigi amaskomunikilaĵojn dosierojn alŝutitajn al la nubo ankaŭ kiam loka amaskomunikilaro estas forigita konforme al la agordo de persistemo de dosieroj. Nuntempe ĉi tiu opcio nur haveblas por gdrivo."
@@ -1164,44 +1224,54 @@ msgid "Fiksas la minimuman nombron da pluaj movaj kadroj necesaj por komenci mov
 msgstr ""
 
 #: motioneye/templates/main.html:985
+#, fuzzy
 msgid "Masko"
-msgstr ""
+msgstr "Maskia"
 
 #: motioneye/templates/main.html:987
+#, fuzzy
 msgid "Ebligas bildigan maskeradon por pli selektema kaj preciza moviĝo-detekto."
-msgstr ""
+msgstr "Masqueraden kuvantaminen mahdollistaa valikoivamman ja tarkemman liikkeen havaitsemisen."
 
 #: motioneye/templates/main.html:990
+#, fuzzy
 msgid "Tipo de masko"
-msgstr ""
+msgstr "Tyyppi maski"
 
 #: motioneye/templates/main.html:993
+#, fuzzy
 msgid "Inteligenta"
-msgstr ""
+msgstr "Älykäs"
 
 #: motioneye/templates/main.html:994
+#, fuzzy
 msgid "Redaktebla"
-msgstr ""
+msgstr "Punainen"
 
 #: motioneye/templates/main.html:997
+#, fuzzy
 msgid "La Inteligenta opcio aŭtomate detektas regionojn per regula movado kaj dinamike kreas internan maskon, dum la Redaktebla opcio permesas permane konstrui ĝin mem."
-msgstr ""
+msgstr "Älykäs vaihtoehto havaitsee alueet automaattisesti säännöllisin liikkein ja synnyttää dynaamisesti sisäisen naamion, kun taas Redachable-vaihtoehto mahdollistaa sen itse rakentamisen."
 
 #: motioneye/templates/main.html:1000
+#, fuzzy
 msgid "Inteligenta-maska Malrapideco"
-msgstr ""
+msgstr "Älykkäät miehet alhaalla"
 
 #: motioneye/templates/main.html:1002
+#, fuzzy
 msgid "Pli altaj valoroj donas pli daŭran maskon kun pli malrapida konstruprocezo."
-msgstr ""
+msgstr "Korkeammat arvot antavat jatkuvan maskin, jossa on hitaampi rakennusprosessi."
 
 #: motioneye/templates/main.html:1011
+#, fuzzy
 msgid "Alklaku ĉi tiun butonon por ebligi/malebligi la maskan redaktilon."
-msgstr ""
+msgstr "Napsauta tätä painiketta, jotta voit/rakastaa maskieditoria."
 
 #: motioneye/templates/main.html:1015
+#, fuzzy
 msgid "Purigi maskon"
-msgstr ""
+msgstr "Puhdista maski"
 
 #: motioneye/templates/main.html:1016
 #, fuzzy
@@ -1209,44 +1279,54 @@ msgid "Alklaku ĉi tiun butonon por malplenigi la nunan maskon."
 msgstr "Klikkaa tätä nappia poistaaksesi nykyisen naamion."
 
 #: motioneye/templates/main.html:1022
+#, fuzzy
 msgid "Montri Kadro-Ŝanĝojn"
-msgstr ""
+msgstr "Kehysmuutokset"
 
 #: motioneye/templates/main.html:1024
+#, fuzzy
 msgid "Se ĉi tio estas aktiva, la bilda ŝanĝojn (nombro de pikseloj kaj la modifita areo) estas montritaj en la video; provizore ebligigu ĉi tion por ĝustigi agordojn de moviĝo-detekto."
-msgstr ""
+msgstr "Jos tämä on aktiivinen, kuvan muutokset (pikselimäärä ja muutettu alue) näkyvät videossa; tilapäisesti sen avulla voidaan säätää liikkeen havaitsemisen asetuksia."
 
 #: motioneye/templates/main.html:1027
+#, fuzzy
 msgid "Krei debug media files"
-msgstr ""
+msgstr "Luo debug ympäristötiedostoja"
 
 #: motioneye/templates/main.html:1029
+#, fuzzy
 msgid "Kiam ebligite, kreas specialajn filmojn kaj bildojn, kiuj helpas elpurigi problemojn de moviĝo-detekto."
-msgstr ""
+msgstr "Kun se on mahdollista, luo tiettyjä elokuvia ja kuvia, jotka auttavat puhdistamaan ongelmia liikkeen havaitseminen."
 
 #: motioneye/templates/main.html:1038
+#, fuzzy
 msgid "Ebligu tion se vi volas esti sciigita kiam moviĝo estas detektita."
-msgstr ""
+msgstr "Soveltaa, että jos haluat tulla julkistetuksi, kun liike havaitaan."
 
 #: motioneye/templates/main.html:1039
+#, fuzzy
 msgid "Moviĝaj sciigoj"
-msgstr ""
+msgstr "Motivoiva tiedustelu"
 
 #: motioneye/templates/main.html:1051
+#, fuzzy
 msgid "Sendi retpoŝton"
-msgstr ""
+msgstr "Lähetä sähköpostia"
 
 #: motioneye/templates/main.html:1053
+#, fuzzy
 msgid "Aktivigu ĉi tiun opcion, se vi volas ricevi retpoŝton ĉiufoje kiam moviĝokazaĵo estas detektita."
-msgstr ""
+msgstr "Aktivoi tämä vaihtoehto, jos haluat vastaanottaa sähköpostin aina, kun liiketapahtuma havaitaan."
 
 #: motioneye/templates/main.html:1056
+#, fuzzy
 msgid "Retpoŝtadresoj"
-msgstr ""
+msgstr "Sähköpostiosoitteet"
 
 #: motioneye/templates/main.html:1057
+#, fuzzy
 msgid "retpoŝtadresoj…"
-msgstr ""
+msgstr "sähköpostiosoitteet.."
 
 #: motioneye/templates/main.html:1058
 msgid "Retpoŝtadresoj (apartigitaj per komo) aldonitaj ĉi tie ricevos sciigojn kiam ajn moviĝokazaĵo estas detektita."
