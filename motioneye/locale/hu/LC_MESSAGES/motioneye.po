@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 16:07+0000\n"
-"PO-Revision-Date: 2025-12-09 16:07+0000\n"
+"PO-Revision-Date: 2025-12-09 23:07+0000\n"
 "Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/hu/>\n"
 "Language: hu\n"
@@ -312,84 +312,104 @@ msgid "Kamerao aparato"
 msgstr "Kamera eszköz"
 
 #: motioneye/templates/main.html:283
+#, fuzzy
 msgid "Eniga aparato (ekz. : /dev/video) or URL (ekz. : rtsp://192.168.1.1/stream)"
-msgstr ""
+msgstr "Eszköz (pl.: /dev/video) vagy URL (pl.: rtsp/192.168.1.1/stream)"
 
 #: motioneye/templates/main.html:286
+#, fuzzy
 msgid "Kamerao Tipo"
-msgstr ""
+msgstr "A kamra típusa"
 
 #: motioneye/templates/main.html:293
+#, fuzzy
 msgid "Aŭtomata Brilo"
-msgstr ""
+msgstr "Automata Brilo"
 
 #: motioneye/templates/main.html:295
+#, fuzzy
 msgid "ebligas aŭtomatan brilon de programaro (rekomendita nur por kameraoj sen aŭtomata brilo)"
-msgstr ""
+msgstr "lehetővé teszi a szoftver automatikus fényerejét (csak a kamerák automatikus fények nélkül ajánlott)"
 
 #: motioneye/templates/main.html:301
+#, fuzzy
 msgid "Video-rezolucio"
-msgstr ""
+msgstr "Videó állásfoglalás"
 
 #: motioneye/templates/main.html:306
+#, fuzzy
 msgid "la video-rezolucio (pli grandaj valoroj produktas pli bonan kvaliton, sed postulas pli da CPU-potenco, pli granda stokado kaj larĝa de bando)"
-msgstr ""
+msgstr "a videomegoldás (nagyobb értékek jobb minőséget hoznak létre, de több CPU-erőt, nagyobb tárolást és szélességet igényel)"
 
 #: motioneye/templates/main.html:309
+#, fuzzy
 msgid "Larĝeco"
-msgstr ""
+msgstr "Largin"
 
 #: motioneye/templates/main.html:311
+#, fuzzy
 msgid "enigu kutiman rezolucian larĝon"
-msgstr ""
+msgstr "csatlakozzon a szokásos állásfoglalás szélességéhez"
 
 #: motioneye/templates/main.html:314
+#, fuzzy
 msgid "Alteco"
-msgstr ""
+msgstr "Alkalmazás"
 
 #: motioneye/templates/main.html:316
+#, fuzzy
 msgid "enigu kutiman rezolucian altecon"
-msgstr ""
+msgstr "csatlakozzon a rendszeres állásfoglalási magassághoz"
 
 #: motioneye/templates/main.html:319
+#, fuzzy
 msgid "Video-Rotacio"
-msgstr ""
+msgstr "Videó-Rotration"
 
 #: motioneye/templates/main.html:328
+#, fuzzy
 msgid "uzu ĉi tion por turni la kaptitan bildon, se via kamerao ne estas poziciigita ĝuste"
-msgstr ""
+msgstr "használja ezt a rögzített kép megfordítására, ha a fényképezőgép nem helyezi megfelelően"
 
 #: motioneye/templates/main.html:331
+#, fuzzy
 msgid "Kadrofrekvenco"
-msgstr ""
+msgstr "Kereti frekvencia"
 
 #: motioneye/templates/main.html:333
+#, fuzzy
 msgid "agordas la nombron de kadroj kaptitaj de la kamerao ĉiun sekundon (pli altaj valoroj produktas pli mildajn filmetojn sed postulas pli da CPU-potenco, pli grandan stokadon kaj larĝan bandon)"
-msgstr ""
+msgstr "egyesíti a fényképezőgép által rögzített keretek számát minden másodpercben (a magas értékek enyhítő videókat készítenek, de több CPU-erőt, nagyobb tárolást és széles sávot igényelnek)"
 
 #: motioneye/templates/main.html:339
+#, fuzzy
 msgid "Privateca masko"
-msgstr ""
+msgstr "Magánélet"
 
 #: motioneye/templates/main.html:341
+#, fuzzy
 msgid "ebligas maskeradon de bildoj por eviti registradon de iuj bildaj areoj por protekti privatecon"
-msgstr ""
+msgstr "lehetővé teszi a képek maszkrádját, hogy elkerüljék a csekély területek felvételét a magánélet védelme érdekében"
 
 #: motioneye/templates/main.html:346 motioneye/templates/main.html:1007
+#, fuzzy
 msgid "Redakti maskon"
-msgstr ""
+msgstr "Edited egy maszkot"
 
 #: motioneye/templates/main.html:347 motioneye/templates/main.html:1008
+#, fuzzy
 msgid "Konservi maskon"
-msgstr ""
+msgstr "Tartsa a maszkot"
 
 #: motioneye/templates/main.html:350
+#, fuzzy
 msgid "alklaku ĉi tiun butonon por ebligi/malebligi la maskan redaktilon"
-msgstr ""
+msgstr "kattintson erre a gombra, hogy lehetővé tegye / helyreállítsa a maszk szerkesztőt"
 
 #: motioneye/templates/main.html:361
+#, fuzzy
 msgid "Ekstraj Elektoj"
-msgstr ""
+msgstr "Extra választások"
 
 #: motioneye/templates/main.html:363
 #, fuzzy
@@ -597,580 +617,713 @@ msgid "La kompleta URL al la alŝuta servila finpunkto:"
 msgstr "A teljes URL a feltöltési szerver végpontjához:"
 
 #: motioneye/templates/main.html:497
+#, fuzzy
 msgid "Por S3: ekz. http://my.minio:9000. Lasu ĝin malplena por AWS!"
-msgstr ""
+msgstr "S3: pl.:/my.minio:9000. Hagyja üresen az AWS számára!"
 
 #: motioneye/templates/main.html:498
+#, fuzzy
 msgid "Por WebDAV: ekz. https://my.cloud/remote.php/dav/files/Me/"
-msgstr ""
+msgstr "WebDAV: pl.: //my.Cl/remote.php/dav/files/Me/"
 
 #: motioneye/templates/main.html:501
+#, fuzzy
 msgid "Loko"
-msgstr ""
+msgstr "Helyszíni hely"
 
 #: motioneye/templates/main.html:503
+#, fuzzy
 msgid "la loko (radika vojo) kie amaskomunikiloj devas esti alŝutitaj (ekz. /files/cam1/)"
-msgstr ""
+msgstr "a hely (root út) ahol a tömegmédiát fel kell tölteni (pl. /files/cam1/)"
 
 #: motioneye/templates/main.html:506
+#, fuzzy
 msgid "Inkluzivi Subdosierujojn"
-msgstr ""
+msgstr "Tartalmazza a Subdosiersions"
 
 #: motioneye/templates/main.html:508
+#, fuzzy
 msgid "Aktivigu tion por elŝuti plurmediajn dosierojn kun siaj subdosierujoj, anstataŭ meti ilin rekte en la radikan lokon"
-msgstr ""
+msgstr "Aktiválja ezt a szindikált fájlok letöltése a leányvállalatokkal, ahelyett, hogy közvetlenül a gyökérhelyre helyezné őket"
 
 #: motioneye/templates/main.html:511
+#, fuzzy
 msgid "Purigi la nubon"
-msgstr ""
+msgstr "Tiszta a felhő"
 
 #: motioneye/templates/main.html:513
+#, fuzzy
 msgid "ebligu ĉi tion forigi amaskomunikilaĵojn dosierojn alŝutitajn al la nubo ankaŭ kiam loka amaskomunikilaro estas forigita konforme al la agordo de persistemo de dosieroj. Nuntempe ĉi tiu opcio nur haveblas por gdrivo."
-msgstr ""
+msgstr "alkalmazza ezt, hogy távolítsa el a felhőbe feltöltött médiafájlokat, valamint a helyi médiát eltávolítják a fájlok meghatározásának konfigurációjával. Ez az opció csak a gig számára elérhető."
 
 #: motioneye/templates/main.html:518
+#, fuzzy
 msgid "la uzantnomo por la alŝuta servo-konto"
-msgstr ""
+msgstr "a feltöltött szolgáltatási fiók felhasználói neve"
 
 #: motioneye/templates/main.html:523
+#, fuzzy
 msgid "la pasvorto por la alŝuta servo-konto"
-msgstr ""
+msgstr "a jelszó a feltöltési szolgáltatási fiókhoz"
 
 #: motioneye/templates/main.html:526
+#, fuzzy
 msgid "Rajtiga ŝlosilo"
-msgstr ""
+msgstr "A kulcs lehetővé tétele"
 
 #: motioneye/templates/main.html:528
+#, fuzzy
 msgid "la ŝlosilo uzata por aŭtentiĝi kun la alŝuta servo (kutime bezonata nur dum agordo)"
-msgstr ""
+msgstr "a feltöltési szolgáltatás hitelesítéséhez használt kulcs (általában csak konfiguráció esetén)"
 
 #: motioneye/templates/main.html:534
+#, fuzzy
 msgid "Akiri ŝlosilon"
-msgstr ""
+msgstr "Kap egy kulcsot"
 
 #: motioneye/templates/main.html:537
+#, fuzzy
 msgid "alklaku ĉi tie por akiri la ŝlosilan rajtigan servon"
-msgstr ""
+msgstr "kattintson ide a kulcsfontosságú engedélyezési szolgáltatás megszerzéséhez"
 
 #: motioneye/templates/main.html:540
+#, fuzzy
 msgid "Access Key"
-msgstr ""
+msgstr "A legfontosabb hozzáférés"
 
 #: motioneye/templates/main.html:542
+#, fuzzy
 msgid "The AWS access key used to authenticate with the upload service"
-msgstr ""
+msgstr "Az AWS hozzáférési kulcs a feltöltési szolgáltatás hitelesítéséhez használt"
 
 #: motioneye/templates/main.html:545
+#, fuzzy
 msgid "Sekreta Alira Ŝlosilo"
-msgstr ""
+msgstr "Titkos Alira Key"
 
 #: motioneye/templates/main.html:547
+#, fuzzy
 msgid "la AWS-sekreta alira ŝlosilo uzata por aŭtentiĝi kun la alŝuta servo (kutime bezonata nur dum agordo)"
-msgstr ""
+msgstr "az AWS titkos hozzáférési kulcsa a feltöltési szolgáltatás hitelesítéséhez használt (általában csak konfiguráció esetén)"
 
 #: motioneye/templates/main.html:550
+#, fuzzy
 msgid "Sitelo"
-msgstr ""
+msgstr "Weboldal"
 
 #: motioneye/templates/main.html:552
+#, fuzzy
 msgid "la nomo S3-sitelo por la alŝuta servo (kutime bezonata nur dum agordo)"
-msgstr ""
+msgstr "az S3 bucket név a feltöltési szolgáltatáshoz (általában csak konfiguráció esetén)"
 
 #: motioneye/templates/main.html:556
+#, fuzzy
 msgid "Testi la servon"
-msgstr ""
+msgstr "Tesztelje a szolgáltatást"
 
 #: motioneye/templates/main.html:557
+#, fuzzy
 msgid "alklaku ĉi tiun butonon por provi la alŝutan servon post kiam vi plenigis la postulatajn detalojn"
-msgstr ""
+msgstr "kattintson erre a gombra, hogy kipróbálja a feltöltési szolgáltatást, miután kitöltötte a szükséges részleteket"
 
 #: motioneye/templates/main.html:563
+#, fuzzy
 msgid "alvoki URL"
-msgstr ""
+msgstr "hívjon URL-t"
 
 #: motioneye/templates/main.html:565
+#, fuzzy
 msgid "ebligu ĉi tion, se vi volas, ke URL estu petata post kreado de amaskomunikila dosiero"
-msgstr ""
+msgstr "alkalmazza ezt, ha URL-t szeretne kérni, miután létrehoz egy médiafájlt"
 
 #: motioneye/templates/main.html:568 motioneye/templates/main.html:1136
 #: motioneye/templates/main.html:1181
+#, fuzzy
 msgid "Reteja URL"
-msgstr ""
+msgstr "Web URL"
 
 #: motioneye/templates/main.html:569
+#, fuzzy
 msgid "ekz. http://example.com/notify/"
-msgstr ""
+msgstr "pl.: //example.com/notify/"
 
 #: motioneye/templates/main.html:570
-#, python-format
+#, fuzzy, python-format
 msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-msgstr ""
+msgstr "URL-t, amikor mozgást észlelnek; a következő konkrét megtakarítási útvonalakat elfogadják:%Y = év,% = hónap,% = nap,%H = óra,%M = perc,%S = második,%q = keretszám,%v = eseményszám,%f = fájlút"
 
 #: motioneye/templates/main.html:573 motioneye/templates/main.html:1141
 #: motioneye/templates/main.html:1186
+#, fuzzy
 msgid "Metodo HTTP"
-msgstr ""
+msgstr "HTTP módszer"
 
 #: motioneye/templates/main.html:582
+#, fuzzy
 msgid "la HTTP-metodo por uzi kiam vi petas retan hoko-URL (la donitaj URL-koditaj parametroj fakte estos transdonitaj kiel indikite ĉi tie)"
-msgstr ""
+msgstr "a HTTP-módszer használata, ha online hook-URL-t kér (az adott URL-kódolt paramétereket ténylegesen átviszik, amint azt itt jelezték)"
 
 #: motioneye/templates/main.html:588
+#, fuzzy
 msgid "Kuri Komando"
-msgstr ""
+msgstr "Bátor Parancsnokság"
 
 #: motioneye/templates/main.html:590
+#, fuzzy
 msgid "ebligu ĉi tion, se vi volas ekzekuti komandon post kiam media dosiero estas kreita"
-msgstr ""
+msgstr "alkalmazza ezt, ha parancsot szeretne végrehajtani egy környezeti fájl létrehozása után"
 
 #: motioneye/templates/main.html:593
+#, fuzzy
 msgid "Ordono"
-msgstr ""
+msgstr "Rendelés"
 
 #: motioneye/templates/main.html:594
+#, fuzzy
 msgid "ordono…"
-msgstr ""
+msgstr "rend.."
 
 #: motioneye/templates/main.html:595
-#, python-format
+#, fuzzy, python-format
 msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-msgstr ""
+msgstr "Parancsnokságot kell teljesíteni egy multimédiás fájl létrehozása után. Számos parancsot lehet választani a névvel; nem használnak pontnevet parancsokban; a következő speciális tokeneket elfogadják: %Y = év, %H = óra, %M = perc, %S = másodperc, %q = Keretszám, %v = Event szám, %f = fájlút"
 
 #: motioneye/templates/main.html:605
+#, fuzzy
 msgid "elektu kiajn informojn montras sur la kaptitaj kadroj"
-msgstr ""
+msgstr "válassza ki, milyen információ mutat az elfogott kereteken"
 
 #: motioneye/templates/main.html:606
+#, fuzzy
 msgid "Teksto Superkovrita"
-msgstr ""
+msgstr "Szövegek"
 
 #: motioneye/templates/main.html:611
+#, fuzzy
 msgid "Maldekstra Teksto"
-msgstr ""
+msgstr "Bal szöveg"
 
 #: motioneye/templates/main.html:615 motioneye/templates/main.html:632
+#, fuzzy
 msgid "Tempostampo"
-msgstr ""
+msgstr "Idő bélyegző"
 
 #: motioneye/templates/main.html:616 motioneye/templates/main.html:633
+#, fuzzy
 msgid "Propra Teksto"
-msgstr ""
+msgstr "Személyes szöveg"
 
 #: motioneye/templates/main.html:617 motioneye/templates/main.html:634
 #: motioneye/templates/main.html:691
+#, fuzzy
 msgid "Malebligita"
-msgstr ""
+msgstr "Férfiak"
 
 #: motioneye/templates/main.html:620
+#, fuzzy
 msgid "Fiksas la tekston montritan sur la filmoj kaj bildoj, sur la malsupra maldekstra angulo"
-msgstr ""
+msgstr "Kijavította a filmeken és képeken bemutatott szöveget az alsó balsarkon"
 
 #: motioneye/templates/main.html:624 motioneye/templates/main.html:641
+#, fuzzy
 msgid "propra teksto…"
-msgstr ""
+msgstr "saját szöveg.."
 
 #: motioneye/templates/main.html:625
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr ""
+msgstr "Meghatározza a szokásos bal szöveget; a következő konkrét tokeneket elfogadják:%Y = év,%m = hónap,%d = nap,%H = óra,%M = perc,%S = második,%Q = keretszám,%v = eseményszám,%T = HH:MM:SS, \\n = új vonal"
 
 #: motioneye/templates/main.html:628
+#, fuzzy
 msgid "Dekstra Teksto"
-msgstr ""
+msgstr "Jobb szöveg"
 
 #: motioneye/templates/main.html:637
+#, fuzzy
 msgid "Fiksas la tekston montritan sur la filmoj kaj bildoj, sur la malsupra dekstra angulo"
-msgstr ""
+msgstr "Kijavította a szöveget a filmeken és a képeken, az alsó jobb sarkon"
 
 #: motioneye/templates/main.html:642
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr ""
+msgstr "Meghatározza az egyéni jobb szöveget; a következő konkrét tokeneket elfogadják:%Y = év,%m = hónap,%d = nap,%H = óra,%M = perc,%S = második,%Q = keretszám,%v = eseményszám,%T = HH:MM:SS, \\n = új vonal"
 
 #: motioneye/templates/main.html:645
+#, fuzzy
 msgid "Teksta Skalo"
-msgstr ""
+msgstr "Technikai méretek"
 
 #: motioneye/templates/main.html:647
+#, fuzzy
 msgid "Difinas la grandecon de la superkovrita teksto"
-msgstr ""
+msgstr "Meghatározza a szuper fedezett szöveg méretét"
 
 #: motioneye/templates/main.html:657
+#, fuzzy
 msgid "Ebligu ĉi tion, se vi volas videofluon por ĉi tiu fotilo"
-msgstr ""
+msgstr "Alkalmazza ezt, ha egy videófolyamot szeretne ehhez a fényképezőgéphez"
 
 #: motioneye/templates/main.html:658
+#, fuzzy
 msgid "Videofluo"
-msgstr ""
+msgstr "Videó jelenlegi"
 
 #: motioneye/templates/main.html:663
+#, fuzzy
 msgid "Framo frekvencon"
-msgstr ""
+msgstr "Fram gyakorisága"
 
 #: motioneye/templates/main.html:665
+#, fuzzy
 msgid "Fiksas la nombron de kadroj transdonitaj ĉiun sekundon en la viva fluo."
-msgstr ""
+msgstr "Rögzítette a második keretek számát az élő áramlásban."
 
 #: motioneye/templates/main.html:668
+#, fuzzy
 msgid "Flua Kvalito"
-msgstr ""
+msgstr "Jelenlegi minőségi minőség"
 
 #: motioneye/templates/main.html:670
+#, fuzzy
 msgid "Agordas la vivan fluan kvaliton (pli altaj valoroj produktas pli bonan videokvaliton sed postulas pli da larĝa bando)."
-msgstr ""
+msgstr "Az élő folyékony minőséget (a magas értékek jobb videóminőséget eredményeznek, de szélesebb sávra van szükség)."
 
 #: motioneye/templates/main.html:673
+#, fuzzy
 msgid "Bilda Redimensionado"
-msgstr ""
+msgstr "Visual Redimenzió"
 
 #: motioneye/templates/main.html:675
+#, fuzzy
 msgid "Kiam ĉi tio estas enŝaltita, la bildoj estas regrandigitaj antaŭ ol ili estas senditaj al la retumilo (malebligu dum funkciado sur malrapida CPU)."
-msgstr ""
+msgstr "Amikor ez világossággá válik, a képeket újra bővítik, mielőtt elküldik a böngészőbe (hitel nélkül, miközben egy lassú CPU-n dolgozik)."
 
 #: motioneye/templates/main.html:678
+#, fuzzy
 msgid "Flua rezolucio"
-msgstr ""
+msgstr "Jelenlegi állásfoglalás"
 
 #: motioneye/templates/main.html:680
+#, fuzzy
 msgid "la rezolucio donita kiel procento de la rezolucio de la video-aparato (pli altaj valoroj produktas pli bonan videan kvaliton sed postulas pli da larĝa de bando)"
-msgstr ""
+msgstr "a videoeszköz állásfoglalásának százalékos aránya (a magas értékek jobb vizuális minőséget termelnek, de szélesebb körben igényelnek egy zenekart)"
 
 #: motioneye/templates/main.html:683
+#, fuzzy
 msgid "Flua haveno"
-msgstr ""
+msgstr "Flow port"
 
 #: motioneye/templates/main.html:685
+#, fuzzy
 msgid "starigas la TCP-havenon, sur kiu aŭskultas la ret-servila ret-servo"
-msgstr ""
+msgstr "létrehozza a TCP portot, amelyen a webkiszolgáló szolgáltatási hálózatot hallgatja"
 
 #: motioneye/templates/main.html:688
+#, fuzzy
 msgid "Aŭtentiga reĝimo"
-msgstr ""
+msgstr "Autentikus mód"
 
 #: motioneye/templates/main.html:696
+#, fuzzy
 msgid "la aŭtentiga metodo uzata de la rivereto (elektu 'Bazic' anstataŭ 'Digest' se vi renkontas problemojn kun triaj programoj); akreditoj kontroloj estos uzataj"
-msgstr ""
+msgstr "a hitelesítési módszer, amelyet a stream használ (a \"Bazic\" helyett \"Digest\", ha megfelel a harmadik fél programjainak problémáinak); az akkreditációs ellenőrzéseket fogják használni"
 
 #: motioneye/templates/main.html:699
+#, fuzzy
 msgid "Movado-Optimigo"
-msgstr ""
+msgstr "Mozgalomoptimalizálás"
 
 #: motioneye/templates/main.html:701
+#, fuzzy
 msgid "ebligu ĉi tion, se vi volas pli malaltan kadran indicon por la livera fluo kiam neniu movo estas detektita"
-msgstr ""
+msgstr "alkalmazza ezt, ha alacsonyabb keretarányt szeretne a szállítási áramláshoz, ha nincs mozgás"
 
 #: motioneye/templates/main.html:707
+#, fuzzy
 msgid "Utilaj URLoj"
-msgstr ""
+msgstr "Előny URL-ek"
 
 #: motioneye/templates/main.html:710
+#, fuzzy
 msgid "Instantara URL"
-msgstr ""
+msgstr "Instant URL"
 
 #: motioneye/templates/main.html:713
+#, fuzzy
 msgid "URL kiu provizas JPEG-bildon kun la plej freŝa kaptaĵo de la kamerao"
-msgstr ""
+msgstr "URL, amely a JPEG-képet a fényképezőgép legújabb fogásával biztosítja"
 
 #: motioneye/templates/main.html:719
+#, fuzzy
 msgid "Flua URL"
-msgstr ""
+msgstr "Jelenlegi URL"
 
 #: motioneye/templates/main.html:722
+#, fuzzy
 msgid "URL kiu provizas MJPEG-fluon de la kamerao"
-msgstr ""
+msgstr "URL, amely MJPEG áramlást biztosít a kamera számára"
 
 #: motioneye/templates/main.html:728
+#, fuzzy
 msgid "Enigita URL"
-msgstr ""
+msgstr "Belépett URL"
 
 #: motioneye/templates/main.html:731
+#, fuzzy
 msgid "URL kiu provizas minimuman HTML-dokumenton enhavantan la kameraan kadron, preta por esti enigita"
-msgstr ""
+msgstr "URL, amely minimális HTML-dokumentumot biztosít, amely a kamera keretét tartalmazza, készen áll arra, hogy beilleszkedjen"
 
 #: motioneye/templates/main.html:741
+#, fuzzy
 msgid "Ebligu ĉi tion, se vi volas kapti statika bildojn."
-msgstr ""
+msgstr "Győződjön meg róla, hogy ha fényképeket szeretne kapni."
 
 #: motioneye/templates/main.html:742
+#, fuzzy
 msgid "Kaptitaj Bildoj"
-msgstr ""
+msgstr "Kapott képek"
 
 #: motioneye/templates/main.html:747
+#, fuzzy
 msgid "Nomo Bildo-Dosiero"
-msgstr ""
+msgstr "Névkép Files"
 
 #: motioneye/templates/main.html:748 motioneye/templates/main.html:817
+#, fuzzy
 msgid "dosiernomo ŝablono…"
-msgstr ""
+msgstr "fájlnév.."
 
 #: motioneye/templates/main.html:749
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr ""
+msgstr "Meghatározza a képfájlok (JPEG) nevet; a következő konkrét tokeneket fogadják el:%Y = év,%m = hónap,%d = nap,%H = óra,%M = perc,%S = második,%q = keretszám,%v = eseményszám, / = aldosier konténer."
 
 #: motioneye/templates/main.html:752
+#, fuzzy
 msgid "Bildkvalito"
-msgstr ""
+msgstr "Képminőség"
 
 #: motioneye/templates/main.html:754
+#, fuzzy
 msgid "agordas la JPEG-bildkvaliton (pli altaj valoroj produktas pli bonan bildan kvaliton sed postulas pli da stokado)"
-msgstr ""
+msgstr "kombinálja a JPEG képminőséget (a magas értékek jobb képi minőséget termelnek, de több tárolást igényelnek)"
 
 #: motioneye/templates/main.html:757
+#, fuzzy
 msgid "Kaptila reĝimo"
-msgstr ""
+msgstr "Capture mód"
 
 #: motioneye/templates/main.html:760 motioneye/templates/main.html:880
+#, fuzzy
 msgid "Moviĝa deĉenigo"
-msgstr ""
+msgstr "Mozgott tisztességes"
 
 #: motioneye/templates/main.html:761
+#, fuzzy
 msgid "Moviĝa deĉenigo (Unu bildo)"
-msgstr ""
+msgstr "Mozgott tisztességes (Egy kép)"
 
 #: motioneye/templates/main.html:762
+#, fuzzy
 msgid "Intertempe"
-msgstr ""
+msgstr "Időközben"
 
 #: motioneye/templates/main.html:763
+#, fuzzy
 msgid "Ĉiuj bildoj"
-msgstr ""
+msgstr "Minden kép"
 
 #: motioneye/templates/main.html:764
+#, fuzzy
 msgid "Mane"
-msgstr ""
+msgstr "Ember"
 
 #: motioneye/templates/main.html:767
+#, fuzzy
 msgid "Difinas la kapta reĝimon:"
-msgstr ""
+msgstr "A kapacitás meghatározása:"
 
 #: motioneye/templates/main.html:768
+#, fuzzy
 msgid "Moviĝa deĉenigo = bildo kaptita ĉiufoje kiam moviĝo estas detektita,"
-msgstr ""
+msgstr "Motionful decent = kép fogott, amikor mozgást észlelnek,"
 
 #: motioneye/templates/main.html:769
+#, fuzzy
 msgid "Intertempe = bildo kaptita ĉiun x sekundojn,"
-msgstr ""
+msgstr "Időközben egy kép minden x másodpercet elkapott,"
 
 #: motioneye/templates/main.html:770
+#, fuzzy
 msgid "Ĉiuj bildoj = konservas ĉiun kadron en bildodosiero,"
-msgstr ""
+msgstr "Minden kép = karbantart minden keretet egy képfájlban,"
 
 #: motioneye/templates/main.html:771
+#, fuzzy
 msgid "Mane = mana kapto kun dediĉita butono."
-msgstr ""
+msgstr "Mane = kézi rögzítés egy dedikált gombbal."
 
 #: motioneye/templates/main.html:774
+#, fuzzy
 msgid "Interkapto-Intervalo"
-msgstr ""
+msgstr "Interception Interval"
 
 #: motioneye/templates/main.html:775 motioneye/templates/main.html:888
 #: motioneye/templates/main.html:963 motioneye/templates/main.html:1092
 #: motioneye/utils/dtconv.py:146 motioneye/utils/dtconv.py:149
+#, fuzzy
 msgid "sekundoj"
-msgstr ""
+msgstr "másodperc"
 
 #: motioneye/templates/main.html:776
+#, fuzzy
 msgid "agordas la intervalon (en sekundoj) por la kaptiloj"
-msgstr ""
+msgstr "kombinálja a hatótávolságot ( másodpercekben) a csigák számára"
 
 #: motioneye/templates/main.html:779
+#, fuzzy
 msgid "Konservi bildojn"
-msgstr ""
+msgstr "Tartsa a képeket"
 
 #: motioneye/templates/main.html:782 motioneye/templates/main.html:895
+#, fuzzy
 msgid "Dum unu tago"
-msgstr ""
+msgstr "Egy nap alatt"
 
 #: motioneye/templates/main.html:783 motioneye/templates/main.html:896
+#, fuzzy
 msgid "Dum unu semajno"
-msgstr ""
+msgstr "Egy hét alatt"
 
 #: motioneye/templates/main.html:784 motioneye/templates/main.html:897
+#, fuzzy
 msgid "Dum unu monato"
-msgstr ""
+msgstr "Egy hónap alatt"
 
 #: motioneye/templates/main.html:785 motioneye/templates/main.html:898
+#, fuzzy
 msgid "Dum unu jaro"
-msgstr ""
+msgstr "Egy év alatt"
 
 #: motioneye/templates/main.html:786 motioneye/templates/main.html:899
+#, fuzzy
 msgid "Porĉiame"
-msgstr ""
+msgstr "Örökké"
 
 #: motioneye/templates/main.html:787 motioneye/templates/main.html:900
 msgid "Propra"
 msgstr "Egyéni"
 
 #: motioneye/templates/main.html:790
+#, fuzzy
 msgid "Bildoj pli aĝaj ol la difinita daŭro estas aŭtomate forigitaj por liberigi stokadan spacon."
-msgstr ""
+msgstr "A meghatározott hosszúságnál régebbi képeket automatikusan eltávolítják a szabad tárolóhelyre."
 
 #: motioneye/templates/main.html:793
+#, fuzzy
 msgid "Bildaj Vivdaŭro"
-msgstr ""
+msgstr "Vizuális élet"
 
 #: motioneye/templates/main.html:795
+#, fuzzy
 msgid "Difinas la nombron da tagoj post kiuj la bildoj estos forigitaj aŭtomate."
-msgstr ""
+msgstr "A napok száma, amikor a képeket automatikusan töröljük."
 
 #: motioneye/templates/main.html:798
+#, fuzzy
 msgid "Ebligu manaj kaptoj"
-msgstr ""
+msgstr "Használt kézfogások"
 
 #: motioneye/templates/main.html:800
+#, fuzzy
 msgid "Kiam ĉi tio estas enŝaltita, butono sur la kameraa kadro permesos al vi permane preni kaptojn."
-msgstr ""
+msgstr "Amikor ez megfordul, a kamera keretén lévő gomb lehetővé teszi, hogy kézzel fogjon rögzíteni."
 
 #: motioneye/templates/main.html:810
+#, fuzzy
 msgid "ebligu ĉi tion, se vi volas registri filmojn"
-msgstr ""
+msgstr "készítse el ezt, ha filmeket szeretne regisztrálni"
 
 #: motioneye/templates/main.html:811
+#, fuzzy
 msgid "Filmoj"
-msgstr ""
+msgstr "Filmek"
 
 #: motioneye/templates/main.html:816
+#, fuzzy
 msgid "Filma Dosiernomo"
-msgstr ""
+msgstr "Film Dosier név"
 
 #: motioneye/templates/main.html:818
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr ""
+msgstr "Meghatározza a filmfájlok nevét; a következő speciális tokeneket elfogadják:%Y = év,% = hónap,% = nap,%H = óra,%M = perc,%S = második,%q = keretszám,%v = eseményszám, / = subdosierlion."
 
 #: motioneye/templates/main.html:821
+#, fuzzy
 msgid "Rekta kopia filmeto"
-msgstr ""
+msgstr "Közvetlen másolási videó"
 
 #: motioneye/templates/main.html:823
+#, fuzzy
 msgid "Kreu filmojn rekte de la kamerao. Ĉi tiu opcio devus redukti CPU-uzadon sed pliigi memorpostulojn. Neniu bilda prilaborado estas farita, do tekstoj interkovras, privatecaj maskoj ktp. ne estos sur la rezulta video."
-msgstr ""
+msgstr "Készítsen filmeket közvetlenül a fényképezőgépről. Ez az opció csökkenti a CPU használatát, de növeli a memória követelményeit. Nincsenek képi feldolgozás, így a szövegek átfedése, adatvédelmi maszkok stb. Nem lesz az eredmény videón."
 
 #: motioneye/templates/main.html:826
+#, fuzzy
 msgid "Filmformato"
-msgstr ""
+msgstr "Film formátum"
 
 #: motioneye/templates/main.html:869
+#, fuzzy
 msgid "Agordas la filmdosieron; ne ĉiuj formatoj garantias funkcii en ĉiuj sistemoj; se vi dubas, testu ĉiun formaton kaj elektu tiun, kiu plej bone funkcias per via filmetilo."
-msgstr ""
+msgstr "A filmfájl nem minden formátum garantálja, hogy minden rendszerben működjön; ha kétségei vannak, tesztelje az egyes formátumokat, és válassza ki azt, amely a legjobban működik a kameráján."
 
 #: motioneye/templates/main.html:872
+#, fuzzy
 msgid "Filma Kvalito"
-msgstr ""
+msgstr "Filmminőség"
 
 #: motioneye/templates/main.html:874
+#, fuzzy
 msgid "Agordas la MPEG-video-kvaliton (pli altaj valoroj produktas pli bonan videokvaliton sed postulas pli da stokado)."
-msgstr ""
+msgstr "Agorders az MPEG videó minősége (a magas értékek jobb videóminőséget eredményeznek, de több tárolást igényelnek)."
 
 #: motioneye/templates/main.html:877
+#, fuzzy
 msgid "Rekorda reĝimo"
-msgstr ""
+msgstr "Valóság"
 
 #: motioneye/templates/main.html:881
+#, fuzzy
 msgid "Kontinua registrado"
-msgstr ""
+msgstr "Folyamatos felvétel"
 
 #: motioneye/templates/main.html:884
+#, fuzzy
 msgid "Agordas la registradreĝimon: Moviĝa deĉenigo = nova filmo kreita kiam ajn moviĝo estas detektita, Kontinua Registrado = unu granda filma dosiero."
-msgstr ""
+msgstr "A felvételi mód: Motionful decent = egy új film, amelyet akkor hoztak létre, amikor mozgást észlelnek, Folyamatos felvétel = egy nagy filmfájl."
 
 #: motioneye/templates/main.html:887
+#, fuzzy
 msgid "Maksimuma filma daŭro"
-msgstr ""
+msgstr "Maximális filmhossz"
 
 #: motioneye/templates/main.html:889
+#, fuzzy
 msgid "Agordas la maksimuman longon de filmoj en sekundoj; se la movada evento daŭras pli longe, nova filmdosiero estas kreita; uzu 0 por senlima longo."
-msgstr ""
+msgstr "A filmek maximális hossza másodpercekben; ha a mozgás esemény hosszabb ideig tart, egy új filmfájl jön létre; használjon 0-ot korlátlan hosszra."
 
 #: motioneye/templates/main.html:892
+#, fuzzy
 msgid "Konservi filmojn"
-msgstr ""
+msgstr "Tartsa a filmeket"
 
 #: motioneye/templates/main.html:903
+#, fuzzy
 msgid "Filmoj pli aĝaj ol la difinita daŭro estas aŭtomate forigitaj por liberigi stokadon."
-msgstr ""
+msgstr "A meghatározott hosszúságnál régebbi filmeket automatikusan eltávolítják a tárolásra."
 
 #: motioneye/templates/main.html:906
+#, fuzzy
 msgid "Filmoj Vivdaŭro"
-msgstr ""
+msgstr "Filmek élettartam"
 
 #: motioneye/templates/main.html:907 motioneye/utils/dtconv.py:125
+#, fuzzy
 msgid "tagoj"
-msgstr ""
+msgstr "napok napjai"
 
 #: motioneye/templates/main.html:908
+#, fuzzy
 msgid "Agordas la nombron da tagoj post kiuj la filmoj estos forigitaj aŭtomate."
-msgstr ""
+msgstr "A napok száma, amikor a filmeket automatikusan törlik."
 
 #: motioneye/templates/main.html:918
+#, fuzzy
 msgid "Aktivigu ĉi tion, por uzi kaj agordi la mekanismon por detekti movadon."
-msgstr ""
+msgstr "Aktiválja ezt, használja és kombinálja a mechanizmust a mozgás észlelésére."
 
 #: motioneye/templates/main.html:919
+#, fuzzy
 msgid "Movado-Detekto"
-msgstr ""
+msgstr "Mozgalom detekció"
 
 #: motioneye/templates/main.html:924
+#, fuzzy
 msgid "Kadra ŝanĝo sojlo"
-msgstr ""
+msgstr "A keretváltozás küszöbértéke"
 
 #: motioneye/templates/main.html:926
+#, fuzzy
 msgid "Indikas la minimuman procenton de la bildo, kiu devas ŝanĝi inter du pluaj kadroj por detekti movadon (pli malgrandaj valoroj donas pli sentivan detekton, sed inklinas al falsaj pozitivoj)."
-msgstr ""
+msgstr "Jelzi a kép minimális százalékát, amely két további keret között változik a mozgás felderítésére (a kisebb értékek több értelmet adnak, de hamis pozitívumokat hajlamosak)."
 
 #: motioneye/templates/main.html:929
+#, fuzzy
 msgid "Maksimuma ŝanĝo sojlo"
-msgstr ""
+msgstr "Maximális változás küszöbérték"
 
 #: motioneye/templates/main.html:931
+#, fuzzy
 msgid "Starigas la nombron da rastrumeroj ŝanĝitaj inter kadroj super kiuj movo ne plu ekigas (0 malŝaltas la limon)."
-msgstr ""
+msgstr "Állítsa be a szűrések számát olyan keretek között változott, amelyeknél a mozgás már nem vált ki (0 fény a határ)."
 
 #: motioneye/templates/main.html:934
+#, fuzzy
 msgid "Aŭtomata sojla agordo"
-msgstr ""
+msgstr "Automatikus szója konfiguráció"
 
 #: motioneye/templates/main.html:936
+#, fuzzy
 msgid "Ebligu tion aŭtomate ĝustigi la sojlon."
-msgstr ""
+msgstr "Ezt automatikusan alkalmazni a küszöb kiigazítására."
 
 #: motioneye/templates/main.html:939
+#, fuzzy
 msgid "Aŭtomata bruo-detekto"
-msgstr ""
+msgstr "Automatikus zajfelderítés"
 
 #: motioneye/templates/main.html:941
+#, fuzzy
 msgid "Ebligu tion por aŭtomate ĝustigi la nivelon de bruo."
-msgstr ""
+msgstr "Alkalmazza, hogy automatikusan alkalmazza a zaj szintjét."
 
 #: motioneye/templates/main.html:944
+#, fuzzy
 msgid "Bruo-nivelo"
-msgstr ""
+msgstr "Zajszint"
 
 #: motioneye/templates/main.html:946
+#, fuzzy
 msgid "Permane agordas la bruan nivelon al fiksita valoro."
-msgstr ""
+msgstr "Állandóan ötvözi a zajos szintet egy fix értékre."
 
 #: motioneye/templates/main.html:949
+#, fuzzy
 msgid "Detekto de lumaj ŝanĝoj"
-msgstr ""
+msgstr "A fényváltások észlelése"
 
 #: motioneye/templates/main.html:951
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas la procenton de la bildo, kiu bezonas ŝanĝi, por ke la evento estu traktata kiel subita luma ŝanĝo anstataŭ moviĝo (0%% malebligas la funkcion)."
-msgstr ""
+msgstr "Definiálja a változáshoz szükséges kép százalékos arányát, hogy az eseményt a mozgás helyett hirtelen fényváltásként kell kezelni (0%% megakadályozza a funkciót."
 
 #: motioneye/templates/main.html:954
+#, fuzzy
 msgid "Makula filtrilo"
-msgstr ""
+msgstr "Max szűrő"
 
 #: motioneye/templates/main.html:956
+#, fuzzy
 msgid "Ebligu tion apliki makulan filtrilon al kadroj antaŭ ol detekti movadon."
-msgstr ""
+msgstr "Alkalmazza ezt egy szivárványszűrő alkalmazását a mozgás észlelése előtt."
 
 #: motioneye/templates/main.html:962
+#, fuzzy
 msgid "Senmovada daŭro"
-msgstr ""
+msgstr "Eltávolítása időtartama"
 
 #: motioneye/templates/main.html:964
 #, fuzzy
@@ -1379,28 +1532,34 @@ msgid "Enigu vian SMTPan pasvorton (por Gmail uzu vian Google-pasvorton aŭ app-
 msgstr "Írja be az SMTP jelszavát (a Gmailnél a Google jelszavát vagy az app-specifikus generált jelszavát használja)."
 
 #: motioneye/templates/main.html:1081
+#, fuzzy
 msgid "De adreso"
-msgstr ""
+msgstr "A cím"
 
 #: motioneye/templates/main.html:1082
+#, fuzzy
 msgid "retpoŝta adreso…"
-msgstr ""
+msgstr "e-mail cím.."
 
 #: motioneye/templates/main.html:1083
+#, fuzzy
 msgid "Agordi kutimon De adreso, se via SMTP-servo postulas unu (la unua destina retpoŝta adreso estos uzata se lasita malplena)."
-msgstr ""
+msgstr "Agordi szokás Ha az SMTP szolgáltatása egyet igényel (az első destine e-mail címet akkor használjuk, ha üres marad)."
 
 #: motioneye/templates/main.html:1086
+#, fuzzy
 msgid "Uzi TLS"
-msgstr ""
+msgstr "TLS használata"
 
 #: motioneye/templates/main.html:1088
+#, fuzzy
 msgid "Ebligu tion, se via SMTP-servilo postulas TLS (Gmail bezonas ĉi tion por ebligi)."
-msgstr ""
+msgstr "Alkalmazza, hogy ha az SMTP szerver megköveteli a TLS-t (a Gmailnek szüksége van erre)."
 
 #: motioneye/templates/main.html:1091
+#, fuzzy
 msgid "Aldonitaj bildoj tempo-intervalo"
-msgstr ""
+msgstr "Hozzáadott képek idő intervallum"
 
 #: motioneye/templates/main.html:1093
 msgid "Difinas la tempo-serĉan intervalon por uzi dum kreado de retpoŝtaj ligiloj (pli altaj valoroj generas retpoŝtojn kun pli da bildoj koste de pliigita prokrasta sciigo); agordi al 0 por malebligi aldonitabildojn; vi ankaŭ devas rajtigi «Kaptitaj bildoj» por ke ĉi tio funkciu."
@@ -1475,34 +1634,37 @@ msgid "ekz. http://ekzemplo.com/sciigi/"
 msgstr ""
 
 #: motioneye/templates/main.html:1138
-#, python-format
+#, fuzzy, python-format
 msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr ""
+msgstr "URL-t kell kérni, amikor mozgást észlelnek; a következő konkrét megtakarítási útvonalakat elfogadják: %Y = év, %d = hónap, %H = óra, %M = perc, %S = másodperc, %q = keretszám, %v = 8h szám"
 
 #: motioneye/templates/main.html:1150 motioneye/templates/main.html:1195
 msgid "La HTTP-metodo por uzi kiam vi petas URL (la donitaj URL-parametroj estos transdonitaj kiel indikite ĉi tie)."
 msgstr ""
 
 #: motioneye/templates/main.html:1156 motioneye/templates/main.html:1201
+#, fuzzy
 msgid "Lanĉi komando"
-msgstr ""
+msgstr "Indítsa el a parancsot"
 
 #: motioneye/templates/main.html:1158
 msgid "Ebligu ĉi tion, se vi volas lanĉi komandon ĉiufoje kiam moviĝokazaĵo estas detektita."
 msgstr ""
 
 #: motioneye/templates/main.html:1161 motioneye/templates/main.html:1206
+#, fuzzy
 msgid "Komando"
-msgstr ""
+msgstr "Parancs parancs parancs parancs parancsnoksága"
 
 #: motioneye/templates/main.html:1162 motioneye/templates/main.html:1207
+#, fuzzy
 msgid "komando…"
-msgstr ""
+msgstr "parancs.."
 
 #: motioneye/templates/main.html:1163
-#, python-format
+#, fuzzy, python-format
 msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr ""
+msgstr "Parancsolatot indítani, amikor mozgást észlelnek; számos parancsot el lehet választani a gyarmatiság; nem használnak pontokat a parancsok által; a következő konkrét tokeneket elfogadják: %Y = év, %H = óra, %H = óra, %M = perc, %S = második, %q = keretszám, %v = 8h szám, %"
 
 #: motioneye/templates/main.html:1203
 msgid "Ebligu ĉi tion, se vi volas lanĉi komandon ĉiufoje kiam movada evento finiĝos."
@@ -1534,56 +1696,63 @@ msgid "ĝis"
 msgstr ""
 
 #: motioneye/templates/main.html:1230
+#, fuzzy
 msgid "Fiksas la labortagan tempintervalon por lundoj."
-msgstr ""
+msgstr "Rögzítette a hétköznapi időtartományt hétfőn."
 
 #: motioneye/templates/main.html:1233
 msgid "Mardo"
 msgstr ""
 
 #: motioneye/templates/main.html:1239
+#, fuzzy
 msgid "Fiksas la labortagan tempintervalon por mardoj."
-msgstr ""
+msgstr "Rögzítette a hétköznapi időtartományt kedden."
 
 #: motioneye/templates/main.html:1242
 msgid "Merkredo"
 msgstr ""
 
 #: motioneye/templates/main.html:1248
+#, fuzzy
 msgid "Fiksas la labortagan tempintervalon por merkredoj."
-msgstr ""
+msgstr "Rögzítette a hétköznapi időtartományt szerdán."
 
 #: motioneye/templates/main.html:1251
 msgid "Ĵaŭdo"
 msgstr ""
 
 #: motioneye/templates/main.html:1257
+#, fuzzy
 msgid "Fiksas la labortagan tempintervalon por ĵaŭdoj."
-msgstr ""
+msgstr "Rögzítette a hétköznapi időtartományt csütörtökön."
 
 #: motioneye/templates/main.html:1260
 msgid "Vendredo"
 msgstr ""
 
 #: motioneye/templates/main.html:1266
+#, fuzzy
 msgid "Fiksas la labortagan tempintervalon por vendredoj."
-msgstr ""
+msgstr "Rögzítette a hétköznapi időtartományt pénteken."
 
 #: motioneye/templates/main.html:1269
 msgid "Sabato"
 msgstr ""
 
 #: motioneye/templates/main.html:1275
+#, fuzzy
 msgid "Fiksas la labortagan tempintervalon por sabatoj."
-msgstr ""
+msgstr "Rögzítette a hétköznapi időtartományt szombaton."
 
 #: motioneye/templates/main.html:1278
 msgid "Dimanĉo"
 msgstr ""
 
 #: motioneye/templates/main.html:1284
+#, fuzzy
 msgid "Fiksas la labortagan tempintervalon por dimanĉoj."
-msgstr ""
+msgstr "Rögzítette a hétköznapi időtartományt vasárnap."
 
 #: motioneye/templates/main.html:1287
 msgid "Detekti movadon"
