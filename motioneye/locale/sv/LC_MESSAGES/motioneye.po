@@ -5,13 +5,14 @@
 # el97 <erik1337.el@gmail.com>, 2023.
 # Erik <erik1337.el@gmail.com>, 2023.
 # LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# Weblate <noreply-mt-weblate@weblate.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2025-12-09 01:40+0000\n"
-"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
+"PO-Revision-Date: 2025-12-09 02:00+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -624,8 +625,9 @@ msgid "Sekreta Alira Ŝlosilo"
 msgstr ""
 
 #: motioneye/templates/main.html:547
+#, fuzzy
 msgid "la AWS-sekreta alira ŝlosilo uzata por aŭtentiĝi kun la alŝuta servo (kutime bezonata nur dum agordo)"
-msgstr ""
+msgstr "Nyckeln för att autentisera med uppladdningstjänsten (används oftast bara vid installation)"
 
 #: motioneye/templates/main.html:550
 msgid "Sitelo"
@@ -725,8 +727,9 @@ msgid "Fiksas la tekston montritan sur la filmoj kaj bildoj, sur la malsupra mal
 msgstr ""
 
 #: motioneye/templates/main.html:624 motioneye/templates/main.html:641
+#, fuzzy
 msgid "propra teksto…"
-msgstr ""
+msgstr "Anpassad Text"
 
 #: motioneye/templates/main.html:625
 #, python-format
@@ -1020,8 +1023,9 @@ msgid "Filma Kvalito"
 msgstr ""
 
 #: motioneye/templates/main.html:874
+#, fuzzy
 msgid "Agordas la MPEG-video-kvaliton (pli altaj valoroj produktas pli bonan videokvaliton sed postulas pli da stokado)."
-msgstr ""
+msgstr "Ställer in Streamingkvalitet (högre värde producerar bättre video kvalitet men kräver mer bandbredd)."
 
 #: motioneye/templates/main.html:877
 msgid "Rekorda reĝimo"
@@ -1048,8 +1052,9 @@ msgid "Konservi filmojn"
 msgstr ""
 
 #: motioneye/templates/main.html:903
+#, fuzzy
 msgid "Filmoj pli aĝaj ol la difinita daŭro estas aŭtomate forigitaj por liberigi stokadon."
-msgstr ""
+msgstr "Bilder tagna längre en specificerad längd tas automatiskt bort för att spara plats."
 
 #: motioneye/templates/main.html:906
 msgid "Filmoj Vivdaŭro"
@@ -1060,8 +1065,9 @@ msgid "tagoj"
 msgstr ""
 
 #: motioneye/templates/main.html:908
+#, fuzzy
 msgid "Agordas la nombron da tagoj post kiuj la filmoj estos forigitaj aŭtomate."
-msgstr ""
+msgstr "Ställer in antalet dagar innan bilder automatiskt tas bort."
 
 #: motioneye/templates/main.html:918
 msgid "Aktivigu ĉi tion, por uzi kaj agordi la mekanismon por detekti movadon."
@@ -1198,8 +1204,9 @@ msgid "Pli altaj valoroj donas pli daŭran maskon kun pli malrapida konstruproce
 msgstr ""
 
 #: motioneye/templates/main.html:1011
+#, fuzzy
 msgid "Alklaku ĉi tiun butonon por ebligi/malebligi la maskan redaktilon."
-msgstr ""
+msgstr "Klicka på den här knappen för att aktivera/inaktivera maskerings redigeraren"
 
 #: motioneye/templates/main.html:1015
 msgid "Purigi maskon"
@@ -1331,8 +1338,9 @@ msgid "Testi retpoŝto"
 msgstr ""
 
 #: motioneye/templates/main.html:1098
+#, fuzzy
 msgid "Alklaku ĉi tiun butonon por testi retpoŝtajn sciigojn post kiam vi plenigis la postulatajn detalojn."
-msgstr ""
+msgstr "Klicka på denna knappen för att testa anslutningen till din utdelade nätverksmapp efter att du har fyllt i behövd information"
 
 #: motioneye/templates/main.html:1104
 msgid "Sendu Telegraman Sciigon"
@@ -1383,8 +1391,9 @@ msgid "Testo"
 msgstr ""
 
 #: motioneye/templates/main.html:1131 motioneye/templates/main.html:1176
+#, fuzzy
 msgid "Alvoki URL"
-msgstr ""
+msgstr "Anropa URL"
 
 #: motioneye/templates/main.html:1133
 msgid "Ebligu ĉi tion, se vi volas, ke URL estu petata kiam ajn moviĝokazaĵo estas detektita."
@@ -1554,8 +1563,9 @@ msgid "minuto"
 msgstr "minut"
 
 #: motioneye/utils/dtconv.py:139
+#, fuzzy
 msgid "minutoj"
-msgstr ""
+msgstr "minut"
 
 #: motioneye/utils/dtconv.py:143
 msgid "sekundo"
