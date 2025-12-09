@@ -8,13 +8,14 @@
 # Arnau Llovet Vidal <arnaullv@gmail.com>, 2025.
 # LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 16:07+0000\n"
 "PO-Revision-Date: 2025-12-09 23:08+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +33,7 @@ msgstr "Els dispositius només estan disponibles per a caràcters alfanumèrics,
 #: motioneye/config.py:864
 #, fuzzy, python-format
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr "Els fitxers només són equivalents a caràcters alfanumèrics, parèntesis (), cap endavant/, punt., subratllat , hiphen-, espacialment i un conjunt d'atributs de moviment especificats: %C %Y %m %d %M %M %q %v %v %v %v %v %v %v %v %v %v %v %v [X] [X] %v %v [X] [X207X207X] [X] %v [X"
+msgstr "Els fitxers només són equivalents a caràcters alfanumèrics, parèntesis (), cap endavant/, punt., subratllat , hiphen-, espacialment i un conjunt d'atributs de moviment especificats: %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
 #, fuzzy
