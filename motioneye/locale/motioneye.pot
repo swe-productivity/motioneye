@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-12-09 16:07+0000\n"
+"POT-Creation-Date: 2025-12-09 23:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -725,9 +725,9 @@ msgstr ""
 #, python-format
 msgid ""
 "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj "
-"ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M ="
-" minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera "
-"vojo"
+"ŝparvojoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = "
+"horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento "
+"numero,%%f = dosiera vojo"
 msgstr ""
 
 #: motioneye/templates/main.html:573 motioneye/templates/main.html:1141
@@ -764,9 +764,9 @@ msgstr ""
 msgid ""
 "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj "
 "komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en "
-"komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m ="
-" monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra "
-"numero , %v = okaza numero, %f = dosiera vojo"
+"komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %%Y = jaro, %%m"
+" = monato, %%d = tago, %%H = horo, %%M = minuto, %%S = sekundo, %%q = "
+"kadra numero , %%v = okaza numero, %%f = dosiera vojo"
 msgstr ""
 
 #: motioneye/templates/main.html:605
@@ -808,9 +808,9 @@ msgstr ""
 #, python-format
 msgid ""
 "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas "
-"akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = "
-"sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova "
-"linio"
+"akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S"
+" = sekundo,%%q = kadro numero,%%v = evento numero,%%T = HH:MM:SS, \\n = "
+"nova linio"
 msgstr ""
 
 #: motioneye/templates/main.html:628
@@ -827,9 +827,9 @@ msgstr ""
 #, python-format
 msgid ""
 "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas "
-"akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = "
-"sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova "
-"linio"
+"akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S"
+" = sekundo,%%q = kadro numero,%%v = evento numero,%%T = HH:MM:SS, \\n = "
+"nova linio"
 msgstr ""
 
 #: motioneye/templates/main.html:645
@@ -967,9 +967,9 @@ msgstr ""
 #, python-format
 msgid ""
 "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj "
-"tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = "
-"minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = "
-"subdosierujo."
+"tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = "
+"horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero, /"
+" = subdosierujo."
 msgstr ""
 
 #: motioneye/templates/main.html:752
@@ -1108,9 +1108,9 @@ msgstr ""
 #, python-format
 msgid ""
 "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj "
-"tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = "
-"minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = "
-"subdosierujo."
+"tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = "
+"horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero, /"
+" = subdosierujo."
 msgstr ""
 
 #: motioneye/templates/main.html:821
@@ -1590,8 +1590,8 @@ msgstr ""
 #, python-format
 msgid ""
 "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj "
-"ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo,"
-" %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
+"ŝparvojoj estas akceptitaj: %%Y = jaro, %%m = monato, %%d = tago, %%H = "
+"horo, %%M = minuto, %%S = sekundo, %%q = kadro-numero, %%v = okaza numero"
 msgstr ""
 
 #: motioneye/templates/main.html:1150 motioneye/templates/main.html:1195
@@ -1623,9 +1623,9 @@ msgstr ""
 msgid ""
 "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj "
 "povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la"
-" sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d ="
-" tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = "
-"okaza numero"
+" sekvaj specialaj tokensoj estas akceptitaj: %%Y = jaro, %%m = monato, "
+"%%d = tago, %%H = horo, %%M = minuto, %%S = sekundo, %%q = kadro-numero, "
+"%%v = okaza numero"
 msgstr ""
 
 #: motioneye/templates/main.html:1203
@@ -1639,8 +1639,8 @@ msgstr ""
 msgid ""
 "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj "
 "povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; "
-"la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d"
-" = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
+"la sekvaj specialaj tokensoj estas akceptitaj: %%Y = jaro, %%m = monato, "
+"%%d = dato, %%H = horo, %%M = minuto, %%S = sekundo, %%q = kadra nombro."
 msgstr ""
 
 #: motioneye/templates/main.html:1218
