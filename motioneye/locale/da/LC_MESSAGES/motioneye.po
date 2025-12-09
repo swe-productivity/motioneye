@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 16:07+0000\n"
 "PO-Revision-Date: 2025-12-09 23:08+0000\n"
-"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgstr "Enheder er kun tilgængelige for alfanumeriske tegn, bindestreg, underst
 #: motioneye/config.py:864
 #, fuzzy, python-format
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr "%M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M %M"
+msgstr "Filnavne må kun indeholde alfanumeriske tegn, parenteser (), skråstreg /, prik ., understregning _, bindestreg -, mellemrum og en delmængde af bevægelseskonverteringsspecifikatorer: %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
 #, fuzzy
@@ -42,14 +42,13 @@ msgid "Email addresses are only allowed to contain alphanumerical characters, un
 msgstr "E-mail-protokollen er kun en guide til alfanumeriske tegn, understregning, plus +, dot., på @, caret^, tilde ~, Engelske nouner < >, hyphen – og kan være en fin ved kommuna og rumligt"
 
 #: motioneye/config.py:879
-#, fuzzy
 msgid "URLs are not allowed to contain caret ^, semicolon ;, or apostrophe '"
-msgstr "URL'er er ikke kendt som \"Complier\" , semikolon; eller apostrophe ''"
+msgstr "URL'er må ikke indeholde caret ^, semikolon ; eller apostrof '"
 
 #: motioneye/server.py:232
 #, fuzzy
 msgid "interrompa signalo ricevita, fermanta …"
-msgstr "et forstyrrende signal modtaget, lukket.."
+msgstr "et forstyrrende signal modtaget, lukket …"
 
 #: motioneye/server.py:276
 #, fuzzy
@@ -355,7 +354,7 @@ msgstr "Afdelingsnavn"
 #: motioneye/templates/main.html:272
 #, fuzzy
 msgid "kameraa nomo…"
-msgstr "kameraets navn.."
+msgstr "kameraets navn…"
 
 #: motioneye/templates/main.html:273
 #, fuzzy
@@ -690,7 +689,7 @@ msgstr "Til S3: f.eks. http:/my.minio:9000. Efterlad det tom for AWS!"
 #: motioneye/templates/main.html:498
 #, fuzzy
 msgid "Por WebDAV: ekz. https://my.cloud/remote.php/dav/files/Me/"
-msgstr "Til WebDAV: f.eks. https: //my.Cl/remote.php/dav/files/Me/Me/Me/"
+msgstr "Til WebDAV: f.eks. https://my.cloud/remote.php/dav/files/Me/"
 
 #: motioneye/templates/main.html:501
 #, fuzzy
@@ -775,7 +774,7 @@ msgstr "aWS's hemmelige adgangsnøgle, der bruges til at godkende upload-tjenest
 #: motioneye/templates/main.html:550
 #, fuzzy
 msgid "Sitelo"
-msgstr "Sitelo"
+msgstr "Spand"
 
 #: motioneye/templates/main.html:552
 #, fuzzy
@@ -847,7 +846,7 @@ msgstr "Bestilling af ordre"
 #: motioneye/templates/main.html:594
 #, fuzzy
 msgid "ordono…"
-msgstr "bestil.."
+msgstr "bestil…"
 
 #: motioneye/templates/main.html:595
 #, fuzzy, python-format
@@ -893,7 +892,7 @@ msgstr "Fastgjort den tekst, der vises på film og billeder, på nederste venstr
 #: motioneye/templates/main.html:624 motioneye/templates/main.html:641
 #, fuzzy
 msgid "propra teksto…"
-msgstr "egen tekst.."
+msgstr "egen tekst…"
 
 #: motioneye/templates/main.html:625
 #, fuzzy, python-format
@@ -1058,7 +1057,7 @@ msgstr "Navn billedfiler"
 #: motioneye/templates/main.html:748 motioneye/templates/main.html:817
 #, fuzzy
 msgid "dosiernomo ŝablono…"
-msgstr "filnavn.."
+msgstr "filnavn…"
 
 #: motioneye/templates/main.html:749
 #, fuzzy, python-format
@@ -1535,7 +1534,7 @@ msgstr "E-mailadresser"
 #: motioneye/templates/main.html:1057
 #, fuzzy
 msgid "retpoŝtadresoj…"
-msgstr "e-mailadresser.."
+msgstr "e-mailadresser…"
 
 #: motioneye/templates/main.html:1058
 #, fuzzy
@@ -1560,7 +1559,7 @@ msgstr "Deltag i værtsnavn eller IP-adresse på din SMTP-server (til brug af Gm
 #: motioneye/templates/main.html:1066
 #, fuzzy
 msgid "SMTP Haveno"
-msgstr "SMTP Port Port Port Port"
+msgstr "SMTP Port"
 
 #: motioneye/templates/main.html:1067
 #, fuzzy
@@ -1580,7 +1579,7 @@ msgstr "SMTP"
 #: motioneye/templates/main.html:1072
 #, fuzzy
 msgid "konto@gmail.com…"
-msgstr "konto@gmail.com.."
+msgstr "konto@gmail.com…"
 
 #: motioneye/templates/main.html:1073
 #, fuzzy
@@ -1605,7 +1604,7 @@ msgstr "Fra adresse"
 #: motioneye/templates/main.html:1082
 #, fuzzy
 msgid "retpoŝta adreso…"
-msgstr "e-mailadresse.."
+msgstr "e-mailadresse…"
 
 #: motioneye/templates/main.html:1083
 #, fuzzy
@@ -1745,7 +1744,7 @@ msgstr "Kommandokommandokommandokommando"
 #: motioneye/templates/main.html:1162 motioneye/templates/main.html:1207
 #, fuzzy
 msgid "komando…"
-msgstr "kommando.."
+msgstr "kommando…"
 
 #: motioneye/templates/main.html:1163
 #, fuzzy, python-format
@@ -1785,7 +1784,7 @@ msgstr "fra"
 #: motioneye/templates/main.html:1228
 #, fuzzy
 msgid "ĝis"
-msgstr "indtil indtil"
+msgstr "indtil"
 
 #: motioneye/templates/main.html:1230
 #, fuzzy
@@ -1825,7 +1824,7 @@ msgstr "Faste timeinterval for torsdage."
 #: motioneye/templates/main.html:1260
 #, fuzzy
 msgid "Vendredo"
-msgstr "Fredag fredag fredag fredag"
+msgstr "Fredag"
 
 #: motioneye/templates/main.html:1266
 #, fuzzy
@@ -1875,7 +1874,7 @@ msgstr "Definer, om bevægelsesregistrering skal være aktiv under eller uden fo
 #: motioneye/utils/dtconv.py:26 motioneye/utils/dtconv.py:65
 #, fuzzy
 msgid "neniam"
-msgstr "aldrig aldrig aldrig aldrig"
+msgstr "aldrig"
 
 #: motioneye/utils/dtconv.py:113
 #, fuzzy
@@ -1885,17 +1884,17 @@ msgstr "dagsdagsdagen"
 #: motioneye/utils/dtconv.py:116
 #, fuzzy
 msgid "semajno"
-msgstr "uge uge"
+msgstr "uge"
 
 #: motioneye/utils/dtconv.py:119
 #, fuzzy
 msgid "monato"
-msgstr "måned måned måned"
+msgstr "måned"
 
 #: motioneye/utils/dtconv.py:122
 #, fuzzy
 msgid "jaro"
-msgstr "år året året"
+msgstr "år"
 
 #: motioneye/utils/dtconv.py:129
 #, fuzzy
@@ -1916,8 +1915,9 @@ msgid "minutoj"
 msgstr "minutter"
 
 #: motioneye/utils/dtconv.py:143
+#, fuzzy
 msgid "sekundo"
-msgstr ""
+msgstr "andet sekund"
 
 #: motioneye/utils/dtconv.py:153
 #, fuzzy
