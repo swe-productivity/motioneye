@@ -4,13 +4,14 @@
 # Automatically generated, 2020.
 #
 # LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-09 16:07+0000\n"
-"PO-Revision-Date: 2025-12-09 01:40+0000\n"
-"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
+"PO-Revision-Date: 2025-12-09 23:08+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -586,8 +587,9 @@ msgid "Bone"
 msgstr "Tá bem"
 
 #: l10n/v4l2.js:4
+#, fuzzy
 msgid "Auto Exposure"
-msgstr "Auto Exposure"
+msgstr "Exposição automática"
 
 #: l10n/v4l2.js:5
 msgid "Backlight Compensation"
@@ -610,8 +612,9 @@ msgid "Exposure Auto"
 msgstr "Exposição automática"
 
 #: l10n/v4l2.js:10
+#, fuzzy
 msgid "Exposure Auto Priority"
-msgstr "Exposure Auto Priority"
+msgstr "Prioridade automática de exposição"
 
 #: l10n/v4l2.js:11
 msgid "Exposure Time Absolute"
@@ -626,8 +629,9 @@ msgid "Focus Auto"
 msgstr "Focus automático"
 
 #: l10n/v4l2.js:14
+#, fuzzy
 msgid "Gain"
-msgstr "Gain"
+msgstr "Ganho"
 
 #: l10n/v4l2.js:15
 msgid "Gamma"
