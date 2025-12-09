@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 23:14+0000\n"
-"PO-Revision-Date: 2025-12-09 23:09+0000\n"
+"PO-Revision-Date: 2025-12-09 23:46+0000\n"
 "Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Punjabi <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/pa/>\n"
 "Language: pa\n"
@@ -900,7 +900,7 @@ msgstr "ਕਸਟਮ ਟੈਕਸਟ…"
 #: motioneye/templates/main.html:625
 #, fuzzy, python-format
 msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero,%%T = HH:MM:SS, \\n = nova linio"
-msgstr "ਕਸਟਮ ਖੱਬੇ ਪਾਠ ਦੀ ਪਰਿਭਾਸ਼ਾ; ਹੇਠ ਦਿੱਤੇ ਵਿਸ਼ੇਸ਼ ਟੋਕਨ ਸਵੀਕਾਰੇ ਗਏ ਹਨ:%% Y = ਸਾਲ, %% m = ਮਹੀਨਾ, %% d = ਦਿਨ, %% H = ਘੰਟਾ, %% M = ਮਿੰਟ, %% S = ਸਕਿੰਟ, %% Q = ਫਰੇਮ ਨੰਬਰ, %% v = ਇਵੈਂਟ ਨੰਬਰ, %% T = HH: MM: SS, \\ n = ਨਵੀਂ ਲਾਈਨ"
+msgstr "ਖੱਬੇ-ਸੰਰੇਖਿਤ ਟੈਕਸਟ ਲਈ ਇੱਕ ਕਸਟਮ ਪਰਿਭਾਸ਼ਿਤ ਕਰਦਾ ਹੈ; ਹੇਠ ਲਿਖੇ ਵਿਸ਼ੇਸ਼ ਟੋਕਨ ਸਵੀਕਾਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ: %%Y = ਸਾਲ, %%m = ਮਹੀਨਾ, %%d = ਦਿਨ, %%H = ਘੰਟਾ, %%M = ਮਿੰਟ, %%S = ਸਕਿੰਟ, %%q = ਫਰੇਮ ਨੰਬਰ, %%v = ਘਟਨਾ ਨੰਬਰ, %%T = HH:MM:SS, \\n = ਨਵੀਂ ਲਾਈਨ"
 
 #: motioneye/templates/main.html:628
 #, fuzzy
@@ -915,7 +915,7 @@ msgstr "ਹੇਠਾਂ ਸੱਜੇ ਕੋਨੇ ਵਿਚ, ਫਿਲਮਾਂ 
 #: motioneye/templates/main.html:642
 #, fuzzy, python-format
 msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero,%%T = HH:MM:SS, \\n = nova linio"
-msgstr "ਕਸਟਮ ਸਹੀ ਪਾਠ ਦੀ ਪਰਿਭਾਸ਼ਾ; ਹੇਠ ਦਿੱਤੇ ਵਿਸ਼ੇਸ਼ ਟੋਕਨ ਸਵੀਕਾਰੇ ਗਏ ਹਨ:%% Y = ਸਾਲ, %% m = ਮਹੀਨਾ, %% d = ਦਿਨ, %% H = ਘੰਟਾ, %% M = ਮਿੰਟ, %% S = ਸਕਿੰਟ, %% Q = ਫਰੇਮ ਨੰਬਰ, %% v = ਇਵੈਂਟ ਨੰਬਰ, %% T = HH: MM: SS, \\ n = ਨਵੀਂ ਲਾਈਨ"
+msgstr "ਸੱਜੇ ਪਾਸੇ ਦੇ ਟੈਕਸਟ ਦਾ ਫਾਰਮੈਟ ਨਿਰਧਾਰਤ ਕਰਦਾ ਹੈ; ਹੇਠ ਲਿਖੇ ਵਿਸ਼ੇਸ਼ ਟੋਕਨ ਸਵੀਕਾਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ: %%Y = ਸਾਲ, %%m = ਮਹੀਨਾ, %%d = ਦਿਨ, %%H = ਘੰਟਾ, %%M = ਮਿੰਟ, %%S = ਸਕਿੰਟ, %%q = ਫਰੇਮ ਨੰਬਰ, %%v = ਘਟਨਾ ਨੰਬਰ, %%T = HH:MM:SS, \\n = ਨਵੀਂ ਲਾਈਨ"
 
 #: motioneye/templates/main.html:645
 #, fuzzy
