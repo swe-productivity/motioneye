@@ -1221,9 +1221,9 @@ msgid "Filma Dosiernomo"
 msgstr "Film Dosier navn"
 
 #: motioneye/templates/main.html:818
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero, / = subdosierujo."
-msgstr ""
+msgstr "Definer navneskabelonen for filmfiler; følgende særlige poletter accepteres:%-%Y = år,%-%m = måned,%%-%H = time,%–%M = minut,%–%S = andet,%q = rammenummer, %%v = hændelsesnummer, / = subdosierujo."
 
 #: motioneye/templates/main.html:821
 #, fuzzy
