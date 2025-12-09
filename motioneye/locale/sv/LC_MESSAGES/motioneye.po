@@ -1537,20 +1537,23 @@ msgid "La HTTP-metodo por uzi kiam vi petas URL (la donitaj URL-parametroj estos
 msgstr ""
 
 #: motioneye/templates/main.html:1156 motioneye/templates/main.html:1201
+#, fuzzy
 msgid "Lanĉi komando"
-msgstr ""
+msgstr "Starta kommandot"
 
 #: motioneye/templates/main.html:1158
 msgid "Ebligu ĉi tion, se vi volas lanĉi komandon ĉiufoje kiam moviĝokazaĵo estas detektita."
 msgstr ""
 
 #: motioneye/templates/main.html:1161 motioneye/templates/main.html:1206
+#, fuzzy
 msgid "Komando"
-msgstr ""
+msgstr "Command"
 
 #: motioneye/templates/main.html:1162 motioneye/templates/main.html:1207
+#, fuzzy
 msgid "komando…"
-msgstr ""
+msgstr "kommandot .."
 
 #: motioneye/templates/main.html:1163
 #, fuzzy, python-format
@@ -1587,24 +1590,27 @@ msgid "ĝis"
 msgstr ""
 
 #: motioneye/templates/main.html:1230
+#, fuzzy
 msgid "Fiksas la labortagan tempintervalon por lundoj."
-msgstr ""
+msgstr "Fast veckans tidsintervall för måndagar."
 
 #: motioneye/templates/main.html:1233
 msgid "Mardo"
 msgstr ""
 
 #: motioneye/templates/main.html:1239
+#, fuzzy
 msgid "Fiksas la labortagan tempintervalon por mardoj."
-msgstr ""
+msgstr "Fast veckans tidsintervall för tisdagar."
 
 #: motioneye/templates/main.html:1242
 msgid "Merkredo"
 msgstr ""
 
 #: motioneye/templates/main.html:1248
+#, fuzzy
 msgid "Fiksas la labortagan tempintervalon por merkredoj."
-msgstr ""
+msgstr "Fast veckans tidsintervall för onsdagar."
 
 #: motioneye/templates/main.html:1251
 msgid "Ĵaŭdo"
