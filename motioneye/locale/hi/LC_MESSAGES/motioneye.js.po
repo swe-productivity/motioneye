@@ -4,13 +4,14 @@
 # Automatically generated, 2020.
 #
 # LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-09 16:07+0000\n"
-"PO-Revision-Date: 2025-12-09 15:00+0000\n"
-"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
+"PO-Revision-Date: 2025-12-09 23:08+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/hi/>\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
@@ -99,7 +100,7 @@ msgstr "मान्य कैमरा छवि के बिना मास�
 #: motioneye/static/js/main.js:2239
 #, fuzzy
 msgid "Propra"
-msgstr "खुद करना"
+msgstr "अनुकूलित"
 
 #: motioneye/static/js/main.js:2277
 #, fuzzy
@@ -119,7 +120,7 @@ msgstr "आपका ब्राउज़र इस कार्य को ल�
 #: motioneye/static/js/main.js:2655
 #, fuzzy
 msgid "Apliki"
-msgstr "लागू"
+msgstr "लागू करें"
 
 #: motioneye/static/js/main.js:2682 motioneye/static/js/main.js:3043
 #: motioneye/static/js/main.js:3098 motioneye/static/js/main.js:3173
@@ -166,7 +167,7 @@ msgstr "हटाने के लिए कोई कैमरा नहीं!
 #: motioneye/static/js/main.js:2866
 #, fuzzy
 msgid "Ĉu forigi kameraon "
-msgstr "कैमरा निकाल सकते हैं"
+msgstr "कैमरा निकाल सकते हैं "
 
 #: motioneye/static/js/main.js:2894
 #, fuzzy
@@ -557,7 +558,7 @@ msgstr "30 मिनट"
 #: motioneye/static/js/main.js:4219
 #, fuzzy
 msgid "horo"
-msgstr "एक घंटा"
+msgstr "घंटा"
 
 #: motioneye/static/js/main.js:4222
 #, fuzzy
@@ -607,12 +608,12 @@ msgstr "सभी निकालें"
 #: motioneye/static/js/main.js:4675
 #, fuzzy
 msgid "Bildoj prenitaj de "
-msgstr "द्वारा लिए गए चित्र"
+msgstr "द्वारा लिए गए चित्र "
 
 #: motioneye/static/js/main.js:4678
 #, fuzzy
 msgid "Filmoj registritaj de "
-msgstr "द्वारा दर्ज की गई फिल्में"
+msgstr "द्वारा दर्ज की गई फिल्में "
 
 #: motioneye/static/js/main.js:4746
 #, fuzzy
@@ -677,22 +678,22 @@ msgstr "पूर्णांक दर्ज करें"
 #: motioneye/static/js/ui.js:512
 #, fuzzy
 msgid " inter "
-msgstr "बीच में"
+msgstr " बीच में "
 
 #: motioneye/static/js/ui.js:512
 #, fuzzy
 msgid " kaj "
-msgstr "और"
+msgstr " और "
 
 #: motioneye/static/js/ui.js:515
 #, fuzzy
 msgid " pli ol "
-msgstr "से अधिक है"
+msgstr " से अधिक है "
 
 #: motioneye/static/js/ui.js:520
 #, fuzzy
 msgid " malpli ol "
-msgstr "से कम है"
+msgstr " से कम है "
 
 #: motioneye/static/js/ui.js:573
 #, fuzzy
