@@ -35,7 +35,7 @@ jobs:
 
     - name: Generate backend template
       run: |
-        pybabel extract -F l10n/babel.cfg -o motioneye/locale/motioneye.pot motioneye/
+        pybabel extract --no-wrap -F l10n/babel.cfg -o motioneye/locale/motioneye.pot motioneye/
         # Remove trailing empty line to satisfy pre-commit
         sed -i '${/^$/d}' motioneye/locale/motioneye.pot
 
