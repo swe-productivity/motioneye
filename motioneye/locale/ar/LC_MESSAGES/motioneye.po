@@ -15,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 16:07+0000\n"
 "PO-Revision-Date: 2025-12-09 23:08+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -131,6 +131,7 @@ msgid "adiaŭ!"
 msgstr "وداعا!"
 
 #: motioneye/templates/main.html:104
+#, fuzzy
 msgid "agordojn"
 msgstr "التشكيلات"
 
@@ -154,6 +155,7 @@ msgid "preferoj de uzanto"
 msgstr "أفضليات المستعملين"
 
 #: motioneye/templates/main.html:128
+#, fuzzy
 msgid "Preferoj"
 msgstr "الامتيازات"
 
@@ -357,7 +359,7 @@ msgstr "الاسم"
 #: motioneye/templates/main.html:272
 #, fuzzy
 msgid "kameraa nomo…"
-msgstr "اسم الكاميرا.."
+msgstr "اسم الكاميرا…"
 
 #: motioneye/templates/main.html:273
 #, fuzzy
@@ -402,7 +404,7 @@ msgstr "يمكّن السطوع التلقائي للبرمجيات (الموص�
 #: motioneye/templates/main.html:301
 #, fuzzy
 msgid "Video-rezolucio"
-msgstr "Video resolution"
+msgstr "دقة الفيديو"
 
 #: motioneye/templates/main.html:306
 #, fuzzy
@@ -432,7 +434,7 @@ msgstr "انضموا إلى طول القرار العادي"
 #: motioneye/templates/main.html:319
 #, fuzzy
 msgid "Video-Rotacio"
-msgstr "Video-Rotration"
+msgstr "تدوير الفيديو"
 
 #: motioneye/templates/main.html:328
 #, fuzzy
@@ -636,7 +638,7 @@ msgstr "Server HTTP"
 #: motioneye/templates/main.html:463
 #, fuzzy
 msgid "Servilo HTTPS"
-msgstr "Server HTTPS"
+msgstr "خادم HTTPS"
 
 #: motioneye/templates/main.html:471
 #, fuzzy
@@ -651,7 +653,7 @@ msgstr "عنوان سيرفر"
 #: motioneye/templates/main.html:476
 #, fuzzy
 msgid "la domajna nomo aŭ IP-adreso de la servilo (ekz. ftp.example.com aŭ 192.168.1.3)"
-msgstr "the domain name or IP address of the server (e.g. ftp.example.com or 192.168.1.3)"
+msgstr "اسم المجال أو عنوان IP للخادم (مثل ftp.example.com أو 192.168.1.3)"
 
 #: motioneye/templates/main.html:479
 #, fuzzy
@@ -776,7 +778,7 @@ msgstr "the AWS secret access key used to authenticate with the upload service (
 #: motioneye/templates/main.html:550
 #, fuzzy
 msgid "Sitelo"
-msgstr "Sitelo"
+msgstr "دلو"
 
 #: motioneye/templates/main.html:552
 #, fuzzy
@@ -1059,7 +1061,7 @@ msgstr "اسم ملف الصورة"
 #: motioneye/templates/main.html:748 motioneye/templates/main.html:817
 #, fuzzy
 msgid "dosiernomo ŝablono…"
-msgstr "قالب اسم الملف ..."
+msgstr "قالب اسم الملف…"
 
 #: motioneye/templates/main.html:749
 #, fuzzy, python-format
@@ -1912,7 +1914,7 @@ msgstr "ساعات"
 #: motioneye/utils/dtconv.py:136
 #, fuzzy
 msgid "minuto"
-msgstr "اللحظة"
+msgstr "دقيقة"
 
 #: motioneye/utils/dtconv.py:139
 #, fuzzy
@@ -1922,7 +1924,7 @@ msgstr "الدقائق"
 #: motioneye/utils/dtconv.py:143
 #, fuzzy
 msgid "sekundo"
-msgstr "ثانية"
+msgstr "ثاني"
 
 #: motioneye/utils/dtconv.py:153
 #, fuzzy
