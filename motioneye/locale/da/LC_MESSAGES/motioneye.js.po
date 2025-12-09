@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Tbnilen <tbn@kse.dk>, 2025.
 # LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2025-12-09 01:40+0000\n"
-"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
+"PO-Revision-Date: 2025-12-09 15:00+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -489,7 +490,6 @@ msgid "30 sekundoj"
 msgstr "30 sekunder"
 
 #: motioneye/static/js/main.js:4215
-#, fuzzy
 msgid "minuto"
 msgstr "minut"
 
