@@ -7,13 +7,14 @@
 # PaulReeps <paul@paulreeps.de>, 2025.
 # LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 16:07+0000\n"
 "PO-Revision-Date: 2025-12-09 23:07+0000\n"
-"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -24,25 +25,29 @@ msgstr ""
 "Generated-By: Babel 2.12.1\n"
 
 #: motioneye/config.py:860
+#, fuzzy
 msgid "Device names are only allowed to contain alphanumerical characters, hyphen -, underscore _, plus +, and space"
-msgstr ""
+msgstr "Az eszköznevek csak alfanumerikus karaktereket, kötőjelet (-), aláhúzásjelet (_), pluszjelet (+) és szóközt tartalmazhatnak"
 
 #: motioneye/config.py:864
-#, python-format
+#, fuzzy, python-format
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr ""
+msgstr "A fájlnevek csak alfanumerikus karaktereket, zárójeleket (), perjeleket /, pontokat ., aláhúzásjeleket _, kötőjeleket -, szóközöket és a mozgáskonverziós specifikátorok egy részhalmazát tartalmazhatnak: %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
+#, fuzzy
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
-msgstr ""
+msgstr "A könyvtárnevek csak alfanumerikus karaktereket, szóközöket, zárójeleket (), perjeleket /, pontokat ., aláhúzásjeleket _ és kötőjeleket - tartalmazhatnak"
 
 #: motioneye/config.py:874
+#, fuzzy
 msgid "Email addresses are only allowed to contain alphanumerical characters, underscore _, plus +, dot ., at @, caret ^, tilde ~, angle brackets <>, hyphen -, and may be separated by comma, and space"
-msgstr ""
+msgstr "Az e-mail címek csak alfanumerikus karaktereket, aláhúzásjelet (_), pluszjelet (+), pontot (.), at-jelet (@), karikat (^), hullámjelet (~), szögletes zárójeleket (<>), kötőjelet (-) tartalmazhatnak, és vesszővel és szóközzel elválaszthatók"
 
 #: motioneye/config.py:879
+#, fuzzy
 msgid "URLs are not allowed to contain caret ^, semicolon ;, or apostrophe '"
-msgstr ""
+msgstr "Az URL-ek nem tartalmazhatnak karét ^, pontosvesszőt ; vagy aposztrófot '"
 
 #: motioneye/server.py:232
 msgid "interrompa signalo ricevita, fermanta …"
@@ -50,7 +55,7 @@ msgstr "megszakítási jel vétele, zárás …"
 
 #: motioneye/server.py:276
 msgid "smb-akcioj postulas radikajn privilegiojn"
-msgstr "Az SMB megosztásokhoz root jogosultság szükséges."
+msgstr "Az SMB megosztásokhoz root jogosultság szükséges"
 
 #: motioneye/server.py:283
 msgid "bonvolu instali tornado version 3.1 aŭ pli"
@@ -781,7 +786,7 @@ msgstr "Rendelés"
 #: motioneye/templates/main.html:594
 #, fuzzy
 msgid "ordono…"
-msgstr "rend.."
+msgstr "rend…"
 
 #: motioneye/templates/main.html:595
 #, fuzzy, python-format
@@ -827,7 +832,7 @@ msgstr "Kijavította a filmeken és képeken bemutatott szöveget az alsó balsa
 #: motioneye/templates/main.html:624 motioneye/templates/main.html:641
 #, fuzzy
 msgid "propra teksto…"
-msgstr "saját szöveg.."
+msgstr "saját szöveg…"
 
 #: motioneye/templates/main.html:625
 #, fuzzy, python-format
@@ -992,7 +997,7 @@ msgstr "Névkép Files"
 #: motioneye/templates/main.html:748 motioneye/templates/main.html:817
 #, fuzzy
 msgid "dosiernomo ŝablono…"
-msgstr "fájlnév.."
+msgstr "fájlnév…"
 
 #: motioneye/templates/main.html:749
 #, fuzzy, python-format
@@ -1469,7 +1474,7 @@ msgstr "E-mail címek"
 #: motioneye/templates/main.html:1057
 #, fuzzy
 msgid "retpoŝtadresoj…"
-msgstr "e-mail címek.."
+msgstr "e-mail címek…"
 
 #: motioneye/templates/main.html:1058
 #, fuzzy
@@ -1514,7 +1519,7 @@ msgstr "SMTP"
 #: motioneye/templates/main.html:1072
 #, fuzzy
 msgid "konto@gmail.com…"
-msgstr "account@gmail.com.."
+msgstr "account@gmail.com…"
 
 #: motioneye/templates/main.html:1073
 #, fuzzy
@@ -1539,7 +1544,7 @@ msgstr "A cím"
 #: motioneye/templates/main.html:1082
 #, fuzzy
 msgid "retpoŝta adreso…"
-msgstr "e-mail cím.."
+msgstr "e-mail cím…"
 
 #: motioneye/templates/main.html:1083
 #, fuzzy
@@ -1637,8 +1642,9 @@ msgid "Testo"
 msgstr "Testteszt"
 
 #: motioneye/templates/main.html:1131 motioneye/templates/main.html:1176
+#, fuzzy
 msgid "Alvoki URL"
-msgstr ""
+msgstr "URL meghívása"
 
 #: motioneye/templates/main.html:1133
 #, fuzzy
@@ -1673,12 +1679,12 @@ msgstr "Alkalmazd ezt, ha parancsot akarsz indítani, amikor mozgás eseményt �
 #: motioneye/templates/main.html:1161 motioneye/templates/main.html:1206
 #, fuzzy
 msgid "Komando"
-msgstr "Parancs parancs parancs parancs parancsnoksága"
+msgstr "Parancs"
 
 #: motioneye/templates/main.html:1162 motioneye/templates/main.html:1207
 #, fuzzy
 msgid "komando…"
-msgstr "parancs.."
+msgstr "parancs…"
 
 #: motioneye/templates/main.html:1163
 #, fuzzy, python-format
@@ -1691,9 +1697,9 @@ msgid "Ebligu ĉi tion, se vi volas lanĉi komandon ĉiufoje kiam movada evento 
 msgstr "Alkalmazza ezt, ha minden alkalommal szeretne parancsot indítani, amikor egy mozgó esemény véget ér."
 
 #: motioneye/templates/main.html:1208
-#, python-format
+#, fuzzy, python-format
 msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-msgstr ""
+msgstr "A mozgás esemény végeztével elindítandó parancs; Több parancsot pontosvesszővel lehet elválasztani; ne használjon vesszőt a parancsokban; a következő speciális tokenek elfogadottak: %Y = év, %m = hónap, %d = nap, %H = óra, %M = perc, %S = másodperc, %q = képkocka szám."
 
 #: motioneye/templates/main.html:1218
 #, fuzzy
@@ -1813,12 +1819,12 @@ msgstr "soha nem"
 #: motioneye/utils/dtconv.py:113
 #, fuzzy
 msgid "tago"
-msgstr "nap nap napja"
+msgstr "nap"
 
 #: motioneye/utils/dtconv.py:116
 #, fuzzy
 msgid "semajno"
-msgstr "hét hét"
+msgstr "hét"
 
 #: motioneye/utils/dtconv.py:119
 #, fuzzy
@@ -1831,8 +1837,9 @@ msgid "jaro"
 msgstr "évi évben"
 
 #: motioneye/utils/dtconv.py:129
+#, fuzzy
 msgid "horo"
-msgstr ""
+msgstr "óra órája"
 
 #: motioneye/utils/dtconv.py:132
 #, fuzzy
@@ -1840,8 +1847,9 @@ msgid "horoj"
 msgstr "órák"
 
 #: motioneye/utils/dtconv.py:136
+#, fuzzy
 msgid "minuto"
-msgstr ""
+msgstr "perc"
 
 #: motioneye/utils/dtconv.py:139
 #, fuzzy
@@ -1849,8 +1857,9 @@ msgid "minutoj"
 msgstr "perc"
 
 #: motioneye/utils/dtconv.py:143
+#, fuzzy
 msgid "sekundo"
-msgstr ""
+msgstr "második"
 
 #: motioneye/utils/dtconv.py:153
 #, fuzzy
