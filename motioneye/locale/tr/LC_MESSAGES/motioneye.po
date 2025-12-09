@@ -7,13 +7,14 @@
 # aguvener <90110302+aguvener@users.noreply.github.com>, 2025.
 # Burak <admin@homelab.gen.tr>, 2025.
 # LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-05 22:22+0000\n"
-"PO-Revision-Date: 2025-12-09 00:09+0000\n"
-"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
+"PO-Revision-Date: 2025-12-09 02:00+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -31,7 +32,7 @@ msgstr "Cihazlar sadece alfanumeric karakterler, hipnoz, alt işaret, artı + ve
 #: motioneye/config.py:864
 #, fuzzy, python-format
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr "Dosyalar sadece alfanumerical karakterlere eşdeğerdir, ebeveynlik (), forwards/, dot., alt çizer, hipn-, uzaysal olarak ve alt hareket özellikleri belirtilmişler: %C %Y %m %M %M"
+msgstr "Dosyalar sadece alfanumerical karakterlere eşdeğerdir, ebeveynlik (), forwards/, dot., alt çizer, hipn-, uzaysal olarak ve alt hareket özellikleri belirtilmişler: %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
 #, fuzzy
