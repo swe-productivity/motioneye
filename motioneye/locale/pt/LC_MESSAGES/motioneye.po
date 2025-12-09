@@ -9,13 +9,14 @@
 # Zhang Wei <Zhang@users.noreply.hosted.weblate.org>, 2024.
 # João Antonio da Cruz Junior <joaoacj@gmail.com>, 2025.
 # LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# Weblate <noreply-mt-weblate@weblate.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-05 22:22+0000\n"
 "PO-Revision-Date: 2025-12-09 01:40+0000\n"
-"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -779,7 +780,7 @@ msgstr "Carimbo de hora"
 #: motioneye/templates/main.html:616 motioneye/templates/main.html:633
 #, fuzzy
 msgid "Propra Teksto"
-msgstr "Texto personalizado"
+msgstr "Texto personalizado…"
 
 #: motioneye/templates/main.html:617 motioneye/templates/main.html:634
 #: motioneye/templates/main.html:691
@@ -1040,7 +1041,7 @@ msgstr "Intervalo de interceptação"
 #: motioneye/utils/dtconv.py:146 motioneye/utils/dtconv.py:149
 #, fuzzy
 msgid "sekundoj"
-msgstr "segundos"
+msgstr "segundo"
 
 #: motioneye/templates/main.html:776
 #, fuzzy
@@ -1430,7 +1431,7 @@ msgstr "Ative esta opção se desejar receber um email sempre que um incidente d
 #: motioneye/templates/main.html:1056
 #, fuzzy
 msgid "Retpoŝtadresoj"
-msgstr "Endereços de email"
+msgstr "Endereço de e-mail…"
 
 #: motioneye/templates/main.html:1057
 msgid "retpoŝtadresoj…"
@@ -1638,7 +1639,7 @@ msgstr "Habilite isso se desejar executar um comando sempre que um evento de mov
 #: motioneye/templates/main.html:1161 motioneye/templates/main.html:1206
 #, fuzzy
 msgid "Komando"
-msgstr "Comando"
+msgstr "Comando…"
 
 #: motioneye/templates/main.html:1162 motioneye/templates/main.html:1207
 msgid "komando…"
@@ -1809,7 +1810,7 @@ msgstr "minuto"
 #: motioneye/utils/dtconv.py:139
 #, fuzzy
 msgid "minutoj"
-msgstr "minutos"
+msgstr "minuto"
 
 #: motioneye/utils/dtconv.py:143
 msgid "sekundo"
