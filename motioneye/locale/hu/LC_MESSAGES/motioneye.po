@@ -1865,39 +1865,3 @@ msgstr "második"
 #, fuzzy
 msgid "minus"
 msgstr "mínusz"
-
-#, fuzzy, python-format
-#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-#~ msgstr "URL-t, amikor mozgást észlelnek; a következő konkrét megtakarítási útvonalakat elfogadják:%Y = év,% = hónap,% = nap,%H = óra,%M = perc,%S = második,%q = keretszám,%v = eseményszám,%f = fájlút"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-#~ msgstr "Parancsnokságot kell teljesíteni egy multimédiás fájl létrehozása után. Számos parancsot lehet választani a névvel; nem használnak pontnevet parancsokban; a következő speciális tokeneket elfogadják: %Y = év, %H = óra, %M = perc, %S = másodperc, %q = Keretszám, %v = Event szám, %f = fájlút"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Meghatározza a szokásos bal szöveget; a következő konkrét tokeneket elfogadják:%Y = év,%m = hónap,%d = nap,%H = óra,%M = perc,%S = második,%Q = keretszám,%v = eseményszám,%T = HH:MM:SS, \\n = új vonal"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Meghatározza az egyéni jobb szöveget; a következő konkrét tokeneket elfogadják:%Y = év,%m = hónap,%d = nap,%H = óra,%M = perc,%S = második,%Q = keretszám,%v = eseményszám,%T = HH:MM:SS, \\n = új vonal"
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Meghatározza a képfájlok (JPEG) nevet; a következő konkrét tokeneket fogadják el:%Y = év,%m = hónap,%d = nap,%H = óra,%M = perc,%S = második,%q = keretszám,%v = eseményszám, / = aldosier konténer."
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Meghatározza a filmfájlok nevét; a következő speciális tokeneket elfogadják:%Y = év,% = hónap,% = nap,%H = óra,%M = perc,%S = második,%q = keretszám,%v = eseményszám, / = subdosierlion."
-
-#, fuzzy, python-format
-#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "URL-t kell kérni, amikor mozgást észlelnek; a következő konkrét megtakarítási útvonalakat elfogadják: %Y = év, %d = hónap, %H = óra, %M = perc, %S = másodperc, %q = keretszám, %v = 8h szám"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "Parancsolatot indítani, amikor mozgást észlelnek; számos parancsot el lehet választani a gyarmatiság; nem használnak pontokat a parancsok által; a következő konkrét tokeneket elfogadják: %Y = év, %H = óra, %H = óra, %M = perc, %S = második, %q = keretszám, %v = 8h szám, %"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-#~ msgstr "A mozgás esemény végeztével elindítandó parancs; Több parancsot pontosvesszővel lehet elválasztani; ne használjon vesszőt a parancsokban; a következő speciális tokenek elfogadottak: %Y = év, %m = hónap, %d = nap, %H = óra, %M = perc, %S = másodperc, %q = képkocka szám."

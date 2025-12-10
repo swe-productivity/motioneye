@@ -1927,39 +1927,3 @@ msgstr "দ্বিতীয়"
 #, fuzzy
 msgid "minus"
 msgstr "ঋণচিহ্ন"
-
-#, fuzzy, python-format
-#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-#~ msgstr "মোটশন সনাক্ত হলে পাঠানোর URL; নিম্নলিখিত বিশেষ শর্টকাটগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর, %v = ইভেন্ট নম্বর, %f = ফাইলের পথ"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-#~ msgstr "মাল্টিমিডিয়া ফাইল তৈরি করার পর কার্যকর করার কমান্ড। অনেকগুলো কমান্ড সেমিকোলন (;) দিয়ে পৃথক করা যেতে পারে; কমান্ডের ভিতরে সেমিকোলন ব্যবহার করবেন না; নিম্নলিখিত বিশেষ টোকেনগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর, %v = ইভেন্ট নম্বর, %f = ফাইলের পথ"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "কাস্টম ডান পাঠ্য সংজ্ঞা দেয়; নিম্নলিখিত বিশেষ টোকেন গ্রহণ করা হয়: %% Y = বছর, %% মি = মাস, %% d = দিন, %% এইচ = ঘন্টা, %% এম = মিনিট, %% এস = সেকেন্ড, %% কি = ফ্রেম নম্বর, %% ভি = ইভেন্ট সংখ্যা, %% টি = এইচএইচ: এমএম: এসএস, \\n = নতুন লাইন"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "কাস্টম ডান পাঠ্য সংজ্ঞা দেয়; নিম্নলিখিত বিশেষ টোকেন গ্রহণ করা হয়: %% Y = বছর, %% মি = মাস, %% d = দিন, %% এইচ = ঘন্টা, %% এম = মিনিট, %% এস = সেকেন্ড, %% কি = ফ্রেম নম্বর, %% ভি = ইভেন্ট সংখ্যা, %% টি = এইচএইচ: এমএম: এসএস, \\n = নতুন লাইন"
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "ইমেজ ফাইল (JPEG) এর নামকরণের টেমপ্লেট নির্ধারণ করে; নিম্নলিখিত বিশেষ টোকেনগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর, %v = ইভেন্ট নম্বর, / = সাবডিরেক্টরি।"
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "ভিডিও ফাইলগুলির নামকরণের টেমপ্লেট নির্ধারণ করে; নিম্নলিখিত বিশেষ টোকেনগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর, %v = ইভেন্ট নম্বর, / = সাবডিরেক্টরি।"
-
-#, fuzzy, python-format
-#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "মোশন সনাক্ত হলে অনুরোধ করা হবে এমন URL; নিম্নলিখিত বিশেষ শর্টকাটগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর, %v = র্যান্ডম নম্বর"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "গতিবিধি সনাক্ত হলে কার্যকর করার কমান্ড; অনেকগুলো কমান্ড কলোন (:) দিয়ে পৃথক করা যেতে পারে; কমান্ডে সেমিকোলন ব্যবহার করবেন না; নিম্নলিখিত বিশেষ টোকেনগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর, %v = র্যান্ডম নম্বর"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-#~ msgstr "মোটশন ইভেন্ট শেষ হলে চালানোর কমান্ড; অনেকগুলো কমান্ড সেমিকোলন (;) দিয়ে পৃথক করা যেতে পারে; কমান্ডে কমা ব্যবহার করবেন না; নিম্নলিখিত বিশেষ টোকেনগুলো গ্রহণযোগ্য: %Y = বছর, %m = মাস, %d = দিন, %H = ঘণ্টা, %M = মিনিট, %S = সেকেন্ড, %q = ফ্রেম নম্বর।"

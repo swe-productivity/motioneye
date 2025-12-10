@@ -677,12 +677,3 @@ msgstr "Automatická teplota vyváženia bielej"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Absolútne priblíženie"
-
-#~ msgid "bone"
-#~ msgstr "ok"
-
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "zapnúť/vypnúť kameru na celú obrazovku"
-
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "Media format unsupported or otherwise unavilable/unsuitable for playing."

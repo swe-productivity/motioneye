@@ -1562,39 +1562,3 @@ msgstr "1 Sekunde"
 #: motioneye/utils/dtconv.py:153
 msgid "minus"
 msgstr "minus"
-
-#, python-format
-#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-#~ msgstr "URL, die aufgerufen werden soll, wenn eine Bewegung erkannt wird; Die folgenden speziellen Platzhalter werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Bildnummer, %v = Ereignisnummer, %f = Dateipfad"
-
-#, python-format
-#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-#~ msgstr "Befehl, der nach dem Erstellen einer Multimediadatei ausgeführt werden soll. Mehrere Befehle können durch ein Semikolon getrennt werden. Verwenden Sie kein Semikolon in Befehlen. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer, %v = Ereignisnummer, %f = Dateipfad"
-
-#, python-format
-#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Setze einen benutzerdefinierten linken Text. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer, %v = Ereignisnummer, %T = HH: MM: SS, \\n = neue Zeile"
-
-#, python-format
-#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Setze einen benutzerdefinierten rechten Text. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer, %v = Ereignisnummer, %T = HH: MM: SS, \\n = neue Zeile"
-
-#, python-format
-#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Definiert die Namensvorlage für JPEG-Dateien. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer, %v = Ereignisnummer, / = Unterverzeichnis."
-
-#, python-format
-#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Definiert die Namensvorlage für die Filmdateien. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer, %v = Ereignisnummer, / = Unterverzeichnis."
-
-#, python-format
-#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "URL, die angefordert werden soll, wenn eine Bewegung erkannt wird; Die folgenden speziellen Verknüpfungen werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Bildnummer , %v = Ereignisnummer"
-
-#, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "Befehl, der gestartet werden soll, wenn eine Bewegung erkannt wird; Mehrere Befehle können durch einen Doppelpunkt getrennt werden. Verwenden Sie keine Semikolons mit Befehlen. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer , %v = Ereignisnummer"
-
-#, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-#~ msgstr "Befehl, der gestartet werden soll, wenn das Bewegungsereignis endet; Mehrere Befehle können durch einen Doppelpunkt getrennt werden. Verwenden Sie keine Dotcoms mit Befehlen. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Datum, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer."

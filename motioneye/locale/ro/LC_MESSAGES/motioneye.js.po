@@ -674,6 +674,3 @@ msgstr "Temperatura balansului de alb automată"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Zoom absolut"
-
-#~ msgid "bone"
-#~ msgstr "OK"

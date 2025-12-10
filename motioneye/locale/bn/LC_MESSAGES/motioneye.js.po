@@ -838,15 +838,3 @@ msgstr "সাদা ভারসাম্য তাপমাত্রা অট
 #, fuzzy
 msgid "Zoom Absolute"
 msgstr "একেবারে জুম"
-
-#, fuzzy
-#~ msgid "bone"
-#~ msgstr "ঠিক আছে"
-
-#, fuzzy
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "পূর্ণ স্ক্রিন ক্যামেরা"
-
-#, fuzzy
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "ফর্ম্যাটটি সমর্থিত নয় বা অন্যথায় খেলার জন্য অযোগ্য / অব্যর্থ।"

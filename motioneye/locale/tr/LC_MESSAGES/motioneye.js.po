@@ -676,6 +676,3 @@ msgstr "Otomatik Beyaz Dengesi Sıcaklığı"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Yakınlaştırma Eğilimi"
-
-#~ msgid "bone"
-#~ msgstr "Tamam"

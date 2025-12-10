@@ -1565,39 +1565,3 @@ msgstr "секунда"
 #: motioneye/utils/dtconv.py:153
 msgid "minus"
 msgstr "мінус"
-
-#, python-format
-#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-#~ msgstr "URL-адреса для передачі при виявленні руху; приймаються такі спеціальні скорочення: %Y = рік, %m = місяць, %d = день, %H = година, %M = хвилина, %S = секунда, %q = номер кадру, %v = номер події, %f = шлях до файлу"
-
-#, python-format
-#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-#~ msgstr "Команда, яку потрібно виконати після створення мультимедійного файлу. Кілька команд можна розділяти крапкою; не використовуйте крапку в командах; приймаються такі спеціальні токени: %Y = рік, %m = місяць, %d = день, %H = година, %M = хвилина, %S = секунда, %q = номер кадру, %v = номер події, %f = шлях до файлу"
-
-#, python-format
-#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Визначає власний текст, вирівняний зліва; приймаються такі спеціальні токени: %Y = рік, %m = місяць, %d = день, %H = година, %M = хвилина, %S = секунда, %q = номер кадру, %v = номер події, %T = ГГ:ХХ:СС, \\n = новий рядок"
-
-#, python-format
-#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Визначає власний текст, вирівняний по правому краю; приймаються такі спеціальні токени: %Y = рік, %m = місяць, %d = день, %H = година, %M = хвилина, %S = секунда, %q = номер кадру, %v = номер події, %T = ГГ:ХХ:СС, \\n = новий рядок"
-
-#, python-format
-#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Визначає шаблон іменування для файлів зображень (JPEG); приймаються такі спеціальні токени: %Y = рік, %m = місяць, %d = день, %H = година, %M = хвилина, %S = секунда, %q = номер кадру, %v = номер події, / = підкаталог."
-
-#, python-format
-#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Визначає шаблон іменування для файлів фільмів; приймаються такі спеціальні токени: %Y = рік, %m = місяць, %d = день, %H = година, %M = хвилина, %S = секунда, %q = номер кадру, %v = номер події, / = підкаталог."
-
-#, python-format
-#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "URL-адреса, яку буде запитуватися при виявленні руху; приймаються такі спеціальні скорочення: %Y = рік, %m = місяць, %d = день, %H = година, %M = хвилина, %S = секунда, %q = номер кадру, %v = номер події"
-
-#, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "Команда, яка запускається при виявленні руху; кілька команд можна розділяти двокрапкою; не використовуйте крапку з комою з командами; приймаються такі спеціальні токени: %Y = рік, %m = місяць, %d = день, %H = година, %M = хвилина, %S = секунда, %q = номер кадру, %v = номер події"
-
-#, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-#~ msgstr "Команда, яка запускається після завершення події руху; кілька команд можна розділяти двокрапкою; не використовуйте команди порівняння з крапками; приймаються такі спеціальні токени: %Y = рік, %m = місяць, %d = дата, %H = година, %M = хвилина, %S = секунда, %q = номер кадру."

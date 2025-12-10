@@ -704,6 +704,3 @@ msgstr "Vitbalans temperatur"
 #, fuzzy
 msgid "Zoom Absolute"
 msgstr "Zoom Absolut"
-
-#~ msgid "bone"
-#~ msgstr "okej"

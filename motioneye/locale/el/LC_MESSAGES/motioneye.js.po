@@ -675,6 +675,3 @@ msgstr "Θερμοκρασία ισορροπίας λευκού"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Μεγέθυνση απολύτως"
-
-#~ msgid "bone"
-#~ msgstr "ΟΚ"

@@ -676,14 +676,3 @@ msgstr "白平衡自动"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "绝对缩放"
-
-#~ msgid "bone"
-#~ msgstr "确认"
-
-#, fuzzy
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "全屏摄像头"
-
-#, fuzzy
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "格式不受支持，否则将无法使用/无法播放。"

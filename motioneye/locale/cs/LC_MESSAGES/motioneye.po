@@ -1571,39 +1571,3 @@ msgstr "vteřina"
 #: motioneye/utils/dtconv.py:153
 msgid "minus"
 msgstr "mínus"
-
-#, fuzzy, python-format
-#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-#~ msgstr "URL k přenosu, když je detekován pohyb; Přijímají se následující speciální zkratky: %% y = rok, %% m = měsíc, %% d = den, %% H = hodina, %% m = minuta, %% s = sekundu, %% q = číslo rámce, %% v = číslo události, %% f = způsob souboru"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-#~ msgstr "Příkaz, který má být proveden po vytvoření multimediálního souboru. Několik příkazů lze oddělit názvem bodu; Nepoužívejte název bodu do příkazů; Přijímají se následující speciální tokeny: %% y = rok, %% m = měsíc, %% d = den, %% h = hodinu, % m = minuta, %% s = sekundu, %% q = číslo rámce, %% v = příležitostné číslo, %% f = způsob souboru"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Definuje vlastní pravý text; Přijímají se následující speciální tokeny: %Y = rok, %m = měsíc, %d = den, %H = hodinu, %M = minuta, %S = sekundu, %q = číslo rámce, %v = číslo události, %T = hh: mm: ss, \\n = new řádek"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Definuje vlastní pravý text; Přijímají se následující speciální tokeny: %Y = rok, %m = měsíc, %d = den, %H = hodinu, %M = minuta, %S = sekundu, %q = číslo rámce, %v = číslo události, %T = hh: mm: ss, \\n = new řádek"
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Definuje šablonu názvu pro soubory obrázků (JPEG); Přijímají se následující speciální tokeny: %% y = rok, %% m = měsíc, %% d = den, %% h = hodinu, % m = minuta, %% s = sekundu, %% q = číslo rámce, %% v = číslo události, / = podadresář."
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Definuje šablonu názvu pro filmové soubory; Přijímají se následující speciální tokeny: %% y = rok, %% m = měsíc, %% d = den, %% h = hodinu, % m = minuta, %% s = sekundu, %% q = číslo rámce, %% v = číslo události, / = podadresář."
-
-#, fuzzy, python-format
-#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "URL je třeba požádat, když je detekován pohyb; Přijímají se následující speciální zkratky: %% y = rok, %% m = měsíc, %% d = den, %% H = hodina, %% m = minuta, %% s = sekundu, %% q = číslo rámce, %% v = příležitostné číslo"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "Příkaz, který má být spuštěn, když je detekován pohyb; Četné příkazy lze oddělit tlustém střevem; Nepoužívejte středníky s příkazy; Přijímají se následující speciální tokeny: %% y = rok, %% m = měsíc, %% d = den, %% H = hodina, % m = minuta, % s = sekundu, %% q = číselné číslo rámce , %% v = příležitostné číslo"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-#~ msgstr "Příkaz, který má být spuštěn po skončení pohybové události; Četné příkazy lze oddělit tlustém střevem; Nepoužívejte bodové sloučeniny s příkazy; Přijímají se následující speciální tokeny: %% y = rok, %% m = měsíc, %% d = datum, %% h = hodinu, %% m = minutu, %% s = druhé, %% q = číslo rámce."

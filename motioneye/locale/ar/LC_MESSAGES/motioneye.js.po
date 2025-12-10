@@ -816,15 +816,3 @@ msgstr "وايت توازن درجة حرارة السيارات"
 #, fuzzy
 msgid "Zoom Absolute"
 msgstr "تكبير بالتأكيد"
-
-#, fuzzy
-#~ msgid "bone"
-#~ msgstr "حسنًا"
-
-#, fuzzy
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "كاميرا ملء الشاشة"
-
-#, fuzzy
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "التنسيق غير مدعوم أو غير قابل للاستخدام / غير قابل للاستخدام في اللعب."

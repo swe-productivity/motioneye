@@ -676,14 +676,3 @@ msgstr "Automatischer Weißabgleich"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Absoluter Zoom"
-
-#~ msgid "bone"
-#~ msgstr "alles klar"
-
-#, fuzzy
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "Vollbildkamera"
-
-#, fuzzy
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "Format nicht unterstützt oder anderweitig unbrauchbar / unbrauchbar für die Wiedergabe."

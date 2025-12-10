@@ -1928,39 +1928,3 @@ msgstr "kedua"
 #, fuzzy
 msgid "minus"
 msgstr "tolak"
-
-#, fuzzy, python-format
-#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-#~ msgstr "URL untuk dipanggil apabila gerakan dikesan; pintasan khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = saat, %q = nombor bingkai, %v = nombor acara, %f = laluan fail"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-#~ msgstr "URL yang akan dipanggil apabila gerakan dikesan; pintasan khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = saat, %q = nombor bingkai, %v = nombor acara, %f = laluan fail"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Mendefinisikan penyesuaian untuk teks yang disejajarkan ke kiri; token khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = saat, %q = nombor bingkai, %v = nombor acara, %T = HH:MM:SS, \\n = baris baru"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Mendefinisikan format teks sebelah kanan; token khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = saat, %q = nombor bingkai, %v = nombor acara, %T = HH:MM:SS, \\n = baris baru"
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Mendefinisikan templat penamaan untuk fail imej (JPEG); token khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = saat, %q = nombor bingkai, %v = nombor acara, / = subdirektori."
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Mendefinisikan templat penamaan untuk fail video; token khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = saat, %q = nombor bingkai, %v = nombor acara, / = subdirektori."
-
-#, fuzzy, python-format
-#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "URL akan diminta apabila gerakan dikesan; pintasan khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = saat, %q = nombor bingkai, %v = nombor rawak"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "Perintah yang akan dijalankan apabila pergerakan dikesan; Beberapa arahan boleh dipisahkan dengan titik dua; jangan gunakan titik koma dalam arahan; token khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = saat, %q = nombor bingkai, %v = nombor rawak"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-#~ msgstr "Perintah untuk dilancarkan apabila acara pergerakan berakhir; Beberapa arahan boleh dipisahkan dengan titik koma; jangan gunakan koma dalam arahan; token khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = saat, %q = nombor bingkai."

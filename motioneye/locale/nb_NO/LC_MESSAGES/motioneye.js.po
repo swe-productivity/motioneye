@@ -677,6 +677,3 @@ msgstr "Hvitbalansetemperatur Auto"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Zoom Absolutt"
-
-#~ msgid "bone"
-#~ msgstr "ok"

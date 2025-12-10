@@ -1930,39 +1930,3 @@ msgstr "ثاني"
 #, fuzzy
 msgid "minus"
 msgstr "ناقص"
-
-#, fuzzy, python-format
-#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-#~ msgstr "URL to transfer when motion is detected; the following particular savings routes are accepted:%Y = year,%m = month,% = day,%H = hour,%M = minute,%S = second,%q = frame number,%v = event number,%f= file road"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-#~ msgstr "القيادة التي يتعين الوفاء بها بعد إنشاء ملف متعدد الوسائط. ويمكن فصل العديد من الأوامر بإسم نقطة؛ ولا تستخدم اسم نقطة في القيادة؛ وتُقبل الرموز الخاصة التالية: %Y = سنة، ٪ م = شهر، ٪ حاء = ساعة، ٪ م = دقيقة، ٪ م = ثانية، ٪ = رقم إطاري، ٪v = عدد الحدث، ٪"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "يحدد النص الأيمن المخصص ؛ يتم قبول الرموز المميزة التالية: ٪٪ Y = year ، ٪٪ m = month ، ٪٪ d = day ، ٪٪ H = hour ، ٪٪ M = minutes ، ٪٪ S = second ، ٪٪ q = frame number ، ٪٪ v = رقم الحدث ، ٪٪ T = HH: MM: SS ، \\n = سطر جديد"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "يحدد النص الأيمن المخصص ؛ يتم قبول الرموز المميزة التالية: ٪٪ Y = year ، ٪٪ m = month ، ٪٪ d = day ، ٪٪ H = hour ، ٪٪ M = minutes ، ٪٪ S = second ، ٪٪ q = frame number ، ٪٪ v = رقم الحدث ، ٪٪ T = HH: MM: SS ، \\n = سطر جديد"
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "يحدد نموذج الاسم لملفات الصور (JPEG)؛ ويُقبل الرمز التالي: %Y = سنة،٪م = شهر،٪ م = يوم،٪ حاء = ساعة،٪ م = دقيقة،٪ م = ثانية،٪ م = رقم إطار، ٪v = رقم الحدث، /."
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "يحدد نموذج الاسم لملفات الأفلام؛ ويُقبل الرمزان الخاصان التاليان: %Y = السنة،٪م = الشهر،٪ = اليوم،٪ حاء = ساعة،٪م=دقيقة،٪م=دقيقة،٪س=ثانية،٪ق =الرقم الإطاري،%v = عدد الحدث، / = شظايا."
-
-#, fuzzy, python-format
-#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "URL to be asked when motion is detected; the following particular savings routes are accepted: %Y = year, %m = month, %d = day, %H = hour, %M = minute, %S = second,q = frame number, %v = VIII number"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "القيادة التي يتعين إطلاقها عند اكتشاف الطلب؛ ويمكن فصل العديد من الأوامر عن طريق مستعمرة؛ ولا تستخدم كتبة النقاط من قبل القيادات؛ وتُقبَل الرموز التالية: النسبة المئوية للسن = السنة، النسبة المئوية للشهر، النسبة المئوية للهكتار = الساعة، النسبة المئوية للهكتار = ساعة، النسبة المئوية للترميز = الدقائق، النسبة المئوية للدقيقة = الثانية، النسبة المئوية للإطار = الرقم الثامن، النسبة المئوية"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-#~ msgstr "(ب) القيادة التي ستُطلق عند انتهاء الحدث؛ ويمكن فصل العديد من الأوامر عن طريق مستعمرة؛ ولا تستخدم تركيبات النقاط حسب الأوامر؛ أما الرموز الخاصة التالية فتُقبَل: النسبة المئوية للسنة، النسبة المئوية = الشهر، النسبة المئوية للهكتار = ساعة، النسبة المئوية للساعة، ٪ م = دقيقة، ٪ س = ثانية، ٪ م = رقم إطاري."

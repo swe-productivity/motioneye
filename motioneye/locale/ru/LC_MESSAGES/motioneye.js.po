@@ -676,14 +676,3 @@ msgstr "Авто температура баланса белого"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Абсолютный зум"
-
-#~ msgid "bone"
-#~ msgstr "ok"
-
-#, fuzzy
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "полноэкранная камера"
-
-#, fuzzy
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "Формат не поддерживается или иным образом непригоден / непригоден для воспроизведения."

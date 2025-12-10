@@ -1567,39 +1567,3 @@ msgstr "segon"
 #: motioneye/utils/dtconv.py:153
 msgid "minus"
 msgstr "menys"
-
-#, fuzzy, python-format
-#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-#~ msgstr "una URL que s'ha de sol·licitar quan es detecta moviment; s'accepten els següents tokens especials: %%Y = any, %%m = mes, %%d = dia, %%H = hora, %%M = minut, %%S = segon, %%q = número de fotograma, %%v = número d'esdeveniment, %%f = ruta del fitxer"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-#~ msgstr "una ordre que s'executarà després de crear un fitxer multimèdia; diverses ordres es poden separar per un punt i coma; no utilitzis punts i coma dins de les ordres; s'accepten els següents símbols especials: %%Y = any, %%m = mes, %%d = dia, %%H = hora, %%M = minut, %%S = segon, %%q = número de fotograma, %%v = número d'esdeveniment, %%f = ruta del fitxer"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "estableix un text personalitzat a la dreta; s'accepten els següents tokens especials: %%Y = any, %%m = mes, %%d = dia, %%H = hora, %%M = minut, %%S = segon, %%q = número de fotograma, %%v = número d'esdeveniment, %%T = HH: MM: SS, \\n = nova línia"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "estableix un text personalitzat a la dreta; s'accepten els següents tokens especials: %%Y = any, %%m = mes, %%d = dia, %%H = hora, %%M = minut, %%S = segon, %%q = número de fotograma, %%v = número d'esdeveniment, %%T = HH: MM: SS, \\n = nova línia"
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "estableix el patró de noms per als fitxers d'imatge (JPEG); s'accepten els següents símbols especials: %%Y = any, %%m = mes, %%d = dia, %%H = hora, %%M = minut, %%S = segon, %%q = número de fotograma, %%v = número d'esdeveniment, / = subcarpeta."
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "estableix el patró de noms per als fitxers de vídeo; s'accepten els següents símbols especials: %%Y = any, %%m = mes, %%d = dia, %%H = hora, %%M = minut, %%S = segon, %%q = número de fotograma, %%v = número d'esdeveniment, / = subcarpeta."
-
-#, fuzzy, python-format
-#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "una URL que s'ha de sol·licitar quan es detecta moviment; s'accepten els següents tokens especials: %%Y = any, %%m = mes, %%d = dia, %%H = hora, %%M = minut, %%S = segon, %%q = número de fotograma, %%v = número d'esdeveniment"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "una ordre que s'executarà quan es detecti moviment; diverses ordres es poden separar per un punt i coma; no utilitzis punts i coma dins de les ordres; s'accepten els següents símbols especials: %%Y = any, %%m = mes, %%d = dia, %%H = hora, %%M = minut, %%S = segon, %%q = número de fotograma, %%v = número d'esdeveniment"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-#~ msgstr "una ordre que s'executarà quan finalitzi l'esdeveniment de moviment; diverses ordres es poden separar per un punt i coma; no utilitzis punts i coma dins de les ordres; s'accepten els següents símbols especials: %%Y = any, %%m = mes, %%d = data, %%H = hora, %%M = minut, %%S = segon, %%q = número de fotograma."

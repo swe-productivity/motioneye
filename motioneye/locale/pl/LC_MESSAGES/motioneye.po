@@ -1575,39 +1575,3 @@ msgstr "sekundę"
 #: motioneye/utils/dtconv.py:153
 msgid "minus"
 msgstr "minus"
-
-#, fuzzy, python-format
-#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-#~ msgstr "adres URL, o który należy poprosić po wykryciu ruchu; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia, %%f = ścieżka do pliku"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-#~ msgstr "Polecenie do wykonania po utworzeniu pliku multimedialnego; wiele poleceń można oddzielić średnikiem; nie używaj średników wewnątrz poleceń; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia, %%f = ścieżka do pliku"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Ustawia niestandardowy właściwy tekst; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia, %%T = GG: MM: SS, \\n = nowa linia"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Ustawia niestandardowy właściwy tekst; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia, %%T = GG: MM: SS, \\n = nowa linia"
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Ustawia wzór nazwy dla plików graficznych (JPEG); akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia, / = podfolder."
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "ustawia wzór nazewnictwa dla plików filmowych; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia, / = podfolder."
-
-#, fuzzy, python-format
-#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "adres URL, o który należy poprosić po wykryciu ruchu; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "Polecenie do wykonania po wykryciu ruchu; wiele poleceń można oddzielić średnikiem; nie używaj średników wewnątrz poleceń; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = dzień, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki, %%v = numer zdarzenia"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-#~ msgstr "Polecenie do wykonania po zakończeniu zdarzenia ruchu; wiele poleceń można oddzielić średnikiem; nie używaj średników wewnątrz poleceń; akceptowane są następujące tokeny specjalne: %%Y = rok, %%m = miesiąc, %%d = data, %%H = godzina, %%M = minuta, %%S = sekunda, %%q = numer klatki."

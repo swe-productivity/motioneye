@@ -834,15 +834,3 @@ msgstr "白いバランスの自動温度"
 #, fuzzy
 msgid "Zoom Absolute"
 msgstr "ズームアブソリュート"
-
-#, fuzzy
-#~ msgid "bone"
-#~ msgstr "大丈夫"
-
-#, fuzzy
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "全画面カメラ"
-
-#, fuzzy
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "サポートされていない形式、または再生に使用できない/使用できない形式。"

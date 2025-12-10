@@ -673,6 +673,3 @@ msgstr "Auto temperatuur witbalans"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Absolute zoom"
-
-#~ msgid "bone"
-#~ msgstr "OK"

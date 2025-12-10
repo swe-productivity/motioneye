@@ -822,15 +822,3 @@ msgstr "ਚਿੱਟਾ ਸੰਤੁਲਨ ਦਾ ਤਾਪਮਾਨ ਆਟੋ"
 #, fuzzy
 msgid "Zoom Absolute"
 msgstr "ਜ਼ੂਮ ਬਿਲਕੁਲ"
-
-#, fuzzy
-#~ msgid "bone"
-#~ msgstr "ਠੀਕ ਹੈ"
-
-#, fuzzy
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "ਪੂਰਾ ਸਕਰੀਨ ਕੈਮਰਾ"
-
-#, fuzzy
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "ਫਾਰਮੈਟ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ ਜਾਂ ਖੇਡਣ ਦੇ ਲਈ ਬੇਕਾਰ / ਵਰਤੋਂ ਯੋਗ ਨਹੀਂ ਹੈ."

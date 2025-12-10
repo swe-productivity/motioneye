@@ -838,15 +838,3 @@ msgstr "Auto suhu keseimbangan putih"
 #, fuzzy
 msgid "Zoom Absolute"
 msgstr "Zoom benar -benar"
-
-#, fuzzy
-#~ msgid "bone"
-#~ msgstr "baiklah"
-
-#, fuzzy
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "kamera skrin penuh"
-
-#, fuzzy
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "Format tidak disokong atau tidak dapat digunakan / tidak dapat digunakan untuk dimainkan."

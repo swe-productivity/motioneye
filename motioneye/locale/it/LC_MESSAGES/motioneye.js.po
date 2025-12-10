@@ -675,14 +675,3 @@ msgstr "Temperatura di bilanciamento bianco automatico"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Zoom assoluto"
-
-#~ msgid "bone"
-#~ msgstr "ok"
-
-#, fuzzy
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "fotocamera a schermo intero"
-
-#, fuzzy
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "Formato non supportato o altrimenti inutilizzabile / inutilizzabile per la riproduzione."

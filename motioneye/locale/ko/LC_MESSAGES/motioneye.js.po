@@ -674,6 +674,3 @@ msgstr "자동 화이트밸런스 온도"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "절대 확대"
-
-#~ msgid "bone"
-#~ msgstr "확인"

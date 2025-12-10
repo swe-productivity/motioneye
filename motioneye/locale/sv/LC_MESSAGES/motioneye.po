@@ -1757,39 +1757,3 @@ msgstr "sekund"
 #, fuzzy
 msgid "minus"
 msgstr "minus"
-
-#, fuzzy, python-format
-#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-#~ msgstr "URL att överföra när rörelse upptäcks; följande särskilda sparvägar accepteras:% Y = år,%m = månad,% = dag,% H = timme,% M = minut,% S = andra,%q = ramnummer,%v = händelsenummer,%f = filväg"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-#~ msgstr "Kommando att uppfyllas efter skapandet av en multimediafil. Flera kommandon kan separeras med punktnamn; Använd inte poängnamn i kommandon; följande specialtokens accepteras: %Y = år, %m = månad, %H = timme, %M = minut, %S = andra, %q = Framework number, %v = Event number, %f = file road"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Definierar anpassad vänster text; följande speciella tokener accepteras:% Y = år,%m = månad,%d = dag,% H = timme,% M = minut,% S = andra,%q = ramnummer,%v = händelsenummer,%T = HH: MM:SS, \\n = ny linje"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "Definierar anpassad höger text; följande speciella tokener accepteras:% Y = år,%m = månad,%d = dag,% H = timme,% M = minut,% S = andra,%q = ramnummer,%v = händelsenummer,%T = HH: MM:SS, \\n = ny linje"
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Definierar namnet mall för bildfiler (JPEG); följande särskilda tokens accepteras:%Y = år,%m = månad,%d = dag,% H = timme,% M = minut,% S = andra,%q = ramnummer,%v = händelsenummer, / = subdosier behållare."
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "Definierar namnet mall för filmfilerna; följande specialtokens accepteras:%Y = år,%m = månad,% = dag,% H = timme,% M = minut,% S = andra,%q = ramnummer,%v = händelsenummer, / = subdosierlion."
-
-#, fuzzy, python-format
-#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "URL som ska begäras när rörelse upptäcks; följande särskilda sparvägar godtas: %Y = år, %m = månad, %d = dag, %H = timme, %M = minut, %S = andra, %q = ramnummer, %v = åttonde tal"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "Kommando att lanseras när rörelse upptäcks; många kommandon kan separeras av en kolonial; Använd inte punkthandlare genom kommandon; följande särskilda tokens accepteras: %Y = år, %m = månad, %H = timme, %H = timme, %M = minut, %S = andra, %q = ramnummer, %v = åttonde numret, % = åttonde nummer"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-#~ msgstr "Kommando att lanseras när en rörelsehändelse slutar; flera kommandon kan separeras av en koloni; Använd inte punktkompositioner av kommandon; följande specialtoken accepteras: %Y = år, %m = månad, %H = timme, %M = minut, %S = andra, %q = Framework number."

@@ -674,6 +674,3 @@ msgstr "Temperatura de balanç de blancs automàtica"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Zoom absolut"
-
-#~ msgid "bone"
-#~ msgstr "d'acord"

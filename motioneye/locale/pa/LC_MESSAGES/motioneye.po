@@ -1928,39 +1928,3 @@ msgstr "ਦੂਜਾ"
 #, fuzzy
 msgid "minus"
 msgstr "ਘਟਾਓ"
-
-#, fuzzy, python-format
-#~ msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-#~ msgstr "ਮੋਸ਼ਨ ਪਤਾ ਲੱਗਣ 'ਤੇ ਭੇਜਣ ਲਈ URL; ਹੇਠ ਲਿਖੇ ਵਿਸ਼ੇਸ਼ ਸ਼ਾਰਟਕੱਟ ਸਵੀਕਾਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ: %Y = ਸਾਲ, %m = ਮਹੀਨਾ, %d = ਦਿਨ, %H = ਘੰਟਾ, %M = ਮਿੰਟ, %S = ਸਕਿੰਟ, %q = ਫਰੇਮ ਨੰਬਰ, %v = ਘਟਨਾ ਨੰਬਰ, %f = ਫਾਈਲ ਪਾਥ"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-#~ msgstr "ਮਲਟੀਮੀਡੀਆ ਫਾਈਲ ਬਣਾਉਣ ਤੋਂ ਬਾਅਦ ਚਲਾਉਣ ਲਈ ਕਮਾਂਡ। ਕਈ ਕਮਾਂਡਾਂ ਨੂੰ ਸੈਮੀਕੋਲਨ ਨਾਲ ਵੱਖ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ; ਕਮਾਂਡਾਂ ਦੇ ਅੰਦਰ ਸੈਮੀਕੋਲਨ ਨਾ ਵਰਤੋ; ਹੇਠ ਲਿਖੇ ਵਿਸ਼ੇਸ਼ ਟੋਕਨ ਸਵੀਕਾਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ: %Y = ਸਾਲ, %m = ਮਹੀਨਾ, %d = ਦਿਨ, %H = ਘੰਟਾ, %M = ਮਿੰਟ, %S = ਸਕਿੰਟ, %q = ਫਰੇਮ ਨੰਬਰ, %v = ਘਟਨਾ ਨੰਬਰ, %f = ਫਾਈਲ ਪਾਥ"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "ਖੱਬੇ-ਸੰਰੇਖਿਤ ਟੈਕਸਟ ਲਈ ਇੱਕ ਕਸਟਮ ਪਰਿਭਾਸ਼ਿਤ ਕਰਦਾ ਹੈ; ਹੇਠ ਲਿਖੇ ਵਿਸ਼ੇਸ਼ ਟੋਕਨ ਸਵੀਕਾਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ: %Y = ਸਾਲ, %m = ਮਹੀਨਾ, %d = ਦਿਨ, %H = ਘੰਟਾ, %M = ਮਿੰਟ, %S = ਸਕਿੰਟ, %q = ਫਰੇਮ ਨੰਬਰ, %v = ਘਟਨਾ ਨੰਬਰ, %T = HH:MM:SS, \\n = ਨਵੀਂ ਲਾਈਨ"
-
-#, fuzzy, python-format
-#~ msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-#~ msgstr "ਸੱਜੇ ਪਾਸੇ ਦੇ ਟੈਕਸਟ ਦਾ ਫਾਰਮੈਟ ਨਿਰਧਾਰਤ ਕਰਦਾ ਹੈ; ਹੇਠ ਲਿਖੇ ਵਿਸ਼ੇਸ਼ ਟੋਕਨ ਸਵੀਕਾਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ: %Y = ਸਾਲ, %m = ਮਹੀਨਾ, %d = ਦਿਨ, %H = ਘੰਟਾ, %M = ਮਿੰਟ, %S = ਸਕਿੰਟ, %q = ਫਰੇਮ ਨੰਬਰ, %v = ਘਟਨਾ ਨੰਬਰ, %T = HH:MM:SS, \\n = ਨਵੀਂ ਲਾਈਨ"
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "ਇਹ ਚਿੱਤਰ ਫਾਇਲਾਂ (JPEG) ਲਈ ਨਾਮਕਰਨ ਟੈਂਪਲੇਟ ਨੂੰ ਪਰਿਭਾਸ਼ਿਤ ਕਰਦਾ ਹੈ; ਹੇਠ ਲਿਖੇ ਵਿਸ਼ੇਸ਼ ਟੋਕਨ ਸਵੀਕਾਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ: %Y = ਸਾਲ, %m = ਮਹੀਨਾ, %d = ਦਿਨ, %H = ਘੰਟਾ, %M = ਮਿੰਟ, %S = ਸਕਿੰਟ, %q = ਫਰੇਮ ਨੰਬਰ, %v = ਘਟਨਾ ਨੰਬਰ, / = ਉਪ-ਡਾਇਰੈਕਟਰੀ।"
-
-#, fuzzy, python-format
-#~ msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-#~ msgstr "ਵੀਡੀਓ ਫਾਈਲਾਂ ਲਈ ਨਾਮਕਰਨ ਟੈਂਪਲੇਟ ਨੂੰ ਪਰਿਭਾਸ਼ਿਤ ਕਰਦਾ ਹੈ; ਹੇਠ ਲਿਖੇ ਵਿਸ਼ੇਸ਼ ਟੋਕਨ ਸਵੀਕਾਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ: %Y = ਸਾਲ, %m = ਮਹੀਨਾ, %d = ਦਿਨ, %H = ਘੰਟਾ, %M = ਮਿੰਟ, %S = ਸਕਿੰਟ, %q = ਫਰੇਮ ਨੰਬਰ, %v = ਘਟਨਾ ਨੰਬਰ, / = ਉਪ-ਡਾਇਰੈਕਟਰੀ।"
-
-#, fuzzy, python-format
-#~ msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "ਮੋਸ਼ਨ ਪਛਾਣਿਆ ਜਾਣ 'ਤੇ ਬੇਨਤੀ ਕੀਤੀ ਜਾਣ ਵਾਲੀ URL; ਹੇਠ ਲਿਖੇ ਵਿਸ਼ੇਸ਼ ਸ਼ਾਰਟਕੱਟ ਸਵੀਕਾਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ: %Y = ਸਾਲ, %m = ਮਹੀਨਾ, %d = ਦਿਨ, %H = ਘੰਟਾ, %M = ਮਿੰਟ, %S = ਸਕਿੰਟ, %q = ਫਰੇਮ ਨੰਬਰ, %v = ਬੇਤਰਤੀਬ ਨੰਬਰ"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-#~ msgstr "ਜਦੋਂ ਗਤੀ ਦਾ ਪਤਾ ਲੱਗਦਾ ਹੈ ਤਾਂ ਚਲਾਉਣ ਲਈ ਕਮਾਂਡ; ਕਈ ਹੁਕਮਾਂ ਨੂੰ ਕੋਲਨ (:) ਨਾਲ ਵੱਖ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ; ਹੁਕਮਾਂ ਵਿੱਚ ਸੈਮੀਕੋਲਨ (;) ਦੀ ਵਰਤੋਂ ਨਾ ਕਰੋ; ਹੇਠ ਲਿਖੇ ਵਿਸ਼ੇਸ਼ ਟੋਕਨ ਸਵੀਕਾਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ: %Y = ਸਾਲ, %m = ਮਹੀਨਾ, %d = ਦਿਨ, %H = ਘੰਟਾ, %M = ਮਿੰਟ, %S = ਸਕਿੰਟ, %q = ਫਰੇਮ ਨੰਬਰ, %v = ਬੇਤਰਤੀਬ ਨੰਬਰ"
-
-#, fuzzy, python-format
-#~ msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-#~ msgstr "ਮੋਸ਼ਨ ਈਵੈਂਟ ਖਤਮ ਹੋਣ 'ਤੇ ਚਲਾਉਣ ਲਈ ਕਮਾਂਡ; ਕਈ ਕਮਾਂਡਾਂ ਨੂੰ ਸੈਮੀਕੋਲਨ (;) ਨਾਲ ਵੱਖ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ; ਕਮਾਂਡਾਂ ਵਿੱਚ ਕਾਮਾ (,) ਨਾ ਵਰਤੋਂ; ਹੇਠ ਲਿਖੇ ਵਿਸ਼ੇਸ਼ ਟੋਕਨ ਸਵੀਕਾਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ: %Y = ਸਾਲ, %m = ਮਹੀਨਾ, %d = ਦਿਨ, %H = ਘੰਟਾ, %M = ਮਿੰਟ, %S = ਸਕਿੰਟ, %q = ਫਰੇਮ ਨੰਬਰ।"

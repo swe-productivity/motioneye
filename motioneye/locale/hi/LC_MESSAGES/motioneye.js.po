@@ -839,15 +839,3 @@ msgstr "सफेद संतुलन तापमान ऑटो"
 #, fuzzy
 msgid "Zoom Absolute"
 msgstr "ज़ूम बिल्कुल"
-
-#, fuzzy
-#~ msgid "bone"
-#~ msgstr "बिलकुल ठीक"
-
-#, fuzzy
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "पूर्ण स्क्रीन कैमरा"
-
-#, fuzzy
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "प्रारूप समर्थित नहीं है या अन्यथा अनुपयोगी / खेलने के लिए अनुपयोगी है।"

@@ -675,6 +675,3 @@ msgstr "Teplota vyvážení bílé automatické automobily"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Zoom absolutně"
-
-#~ msgid "bone"
-#~ msgstr "OK"
