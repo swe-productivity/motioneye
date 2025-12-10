@@ -10,13 +10,14 @@
 # Максим Горпиніч <gorpinicmaksim5@gmail.com>, 2025.
 # Максим Горпиніч <gorpinicmaksim0@gmail.com>, 2025.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 23:47+0000\n"
-"PO-Revision-Date: 2025-12-09 23:07+0000\n"
-"Last-Translator: Максим Горпиніч <gorpinicmaksim0@gmail.com>\n"
+"PO-Revision-Date: 2025-12-10 00:41+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -865,9 +866,9 @@ msgid "dosiernomo ŝablono…"
 msgstr "Шаблон імені файлу…"
 
 #: motioneye/templates/main.html:749
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero, / = subdosierujo."
-msgstr "Визначає шаблон імені для файлів зображень (jpeg); Наступні спеціальні жетони приймаються: %% y = рік, %% m = місяць, %% d = день, %% h = година, %% m = хвилина, %% s = секунд, %% q = номер кадру, %% V = номер події, / = підкаталог."
+msgstr "встановлює шаблон імені для файлів зображень (JPEG); приймаються такі спеціальні символи: %%Y = рік, %%m = місяць, %%d = день, %%H = година, %%M = хвилина, %%S = секунда, %%q = номер кадру, %%v = номер події, / = підпапка."
 
 #: motioneye/templates/main.html:752
 msgid "Bildkvalito"
