@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 23:47+0000\n"
-"PO-Revision-Date: 2025-12-09 23:07+0000\n"
+"PO-Revision-Date: 2025-12-10 00:41+0000\n"
 "Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/hi/>\n"
 "Language: hi\n"
@@ -1066,7 +1066,7 @@ msgstr "फ़ाइल नाम टेम्पलेट…"
 #: motioneye/templates/main.html:749
 #, fuzzy, python-format
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero, / = subdosierujo."
-msgstr "JPEG फ़ाइलों के लिए नाम टेम्पलेट को परिभाषित करता है; निम्नलिखित विशेष टोकन स्वीकार किए जाते हैं: %% Y = वर्ष, %% m = महीना, %% d = दिन, %% H = घंटा, %% M = मिनट, %% S = दूसरा, %% q = फ्रेम संख्या, %% v = घटना संख्या, / = उपनिर्देशिका।"
+msgstr "छवि (JPEG) फ़ाइलों के नाम का पैटर्न निर्धारित करता है; निम्नलिखित विशेष टोकन स्वीकार किए जाते हैं: %%Y = वर्ष, %%m = महीना, %%d = दिन, %%H = घंटा, %%M = मिनट, %%S = सेकंड, %%q = फ्रेम संख्या, %%v = इवेंट संख्या, / = सबफ़ोल्डर।"
 
 #: motioneye/templates/main.html:752
 #, fuzzy
