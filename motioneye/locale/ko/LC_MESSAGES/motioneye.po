@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 23:47+0000\n"
-"PO-Revision-Date: 2025-12-09 23:08+0000\n"
+"PO-Revision-Date: 2025-12-10 00:41+0000\n"
 "Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/ko/>\n"
 "Language: ko\n"
@@ -865,9 +865,9 @@ msgid "dosiernomo ŝablono…"
 msgstr "파일 이름 템플릿…"
 
 #: motioneye/templates/main.html:749
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero, / = subdosierujo."
-msgstr "이미지 파일 (JPEG)의 이름 템플릿을 정의합니다. 다음과 같은 특수 토큰이 허용됩니다 : %% y = 년, %% m = 월, %% d = day, %% h = 시간, %% m = minute, %% s = second, %% q = 프레임 번호, %% v = 이벤트 번호, / = 서브 디렉토리."
+msgstr "이미지(JPEG) 파일의 이름 패턴을 설정합니다. 다음 특수 토큰이 허용됩니다: %%Y = 연도, %%m = 월, %%d = 일, %%H = 시, %%M = 분, %%S = 초, %%q = 프레임 번호, %%v = 이벤트 번호, / = 하위 폴더."
 
 #: motioneye/templates/main.html:752
 msgid "Bildkvalito"
