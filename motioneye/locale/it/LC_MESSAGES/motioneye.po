@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 23:47+0000\n"
-"PO-Revision-Date: 2025-12-09 23:09+0000\n"
+"PO-Revision-Date: 2025-12-10 00:41+0000\n"
 "Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/it/>\n"
 "Language: it\n"
@@ -868,9 +868,9 @@ msgid "dosiernomo ŝablono…"
 msgstr "Modello del nome file …"
 
 #: motioneye/templates/main.html:749
-#, python-format
+#, fuzzy, python-format
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero, / = subdosierujo."
-msgstr "Definisce il modello di nome per i file immagine JPEG; sono accettati i seguenti caratteri speciali: %% Y = anno, %% m = mese, %% d = giorno, %% H = ora, %% M = minuto, %% S = secondo, %% q = numero di frame, %% v = numero evento, / = sottodirectory."
+msgstr "imposta il modello di nome per i file immagine (JPEG); sono accettati i seguenti token speciali: %%Y = anno, %%m = mese, %%d = giorno, %%H = ora, %%M = minuto, %%S = secondo, %%q = numero di fotogramma, %%v = numero di evento, / = sottocartella."
 
 #: motioneye/templates/main.html:752
 msgid "Bildkvalito"
