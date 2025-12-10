@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # piet <piet@users.noreply.hosted.weblate.org>, 2024.
-# Zhang Wei <Zhang@users.noreply.hosted.weblate.org>, 2024.
+# Zhang Wei <Zhang@users.noreply.hosted.weblate.org>, 2024, 2025.
 # LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
 # MichaIng <micha@dietpi.com>, 2025.
@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 23:47+0000\n"
-"PO-Revision-Date: 2025-12-10 00:41+0000\n"
+"PO-Revision-Date: 2025-12-10 03:44+0000\n"
 "Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/el/>\n"
 "Language: el\n"
@@ -26,7 +26,7 @@ msgstr ""
 #: motioneye/config.py:860
 #, fuzzy
 msgid "Device names are only allowed to contain alphanumerical characters, hyphen -, underscore _, plus +, and space"
-msgstr "Οι συσκευές είναι διαθέσιμες μόνο σε άλφααριθμικούς χαρακτήρες, hyphen, υπογραμμίζει, συν +, και χωροταξικά"
+msgstr "Τα ονόματα συσκευών επιτρέπεται να περιέχουν μόνο αλφαριθμητικούς χαρακτήρες, παύλα -, κάτω παύλα _, σύμβολο συν + και κενό διάστημα"
 
 #: motioneye/config.py:864
 #, fuzzy, python-format

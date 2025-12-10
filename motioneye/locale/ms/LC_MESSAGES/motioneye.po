@@ -4,15 +4,15 @@
 # Automatically generated, 2020.
 #
 # piet <piet@users.noreply.hosted.weblate.org>, 2024.
-# Zhang Wei <Zhang@users.noreply.hosted.weblate.org>, 2024.
+# Zhang Wei <Zhang@users.noreply.hosted.weblate.org>, 2024, 2025.
 # MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 23:47+0000\n"
-"PO-Revision-Date: 2025-12-10 00:41+0000\n"
-"Last-Translator: MichaIng <micha@dietpi.com>\n"
+"PO-Revision-Date: 2025-12-10 03:11+0000\n"
+"Last-Translator: Zhang Wei <Zhang@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/ms/>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
@@ -914,7 +914,7 @@ msgstr "Menetapkan teks yang dipaparkan pada filem dan gambar, di sudut kanan ba
 #: motioneye/templates/main.html:642
 #, fuzzy, python-format
 msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero,%%T = HH:MM:SS, \\n = nova linio"
-msgstr "Menetapkan teks hak tersuai; butiran khas berikut diterima: %% Y = tahun, %% m = bulan, %% d = hari, %% H = jam, %% M = minit, %% S = kedua, %% q = %% v = nombor acara, %% T = HH: MM: SS, \\n = baris baru"
+msgstr "Menentukan format teks di sebelah kanan; token khas berikut diterima: %%Y = tahun, %%m = bulan, %%d = hari, %%H = jam, %%M = minit, %%S = saat, %%q = nombor bingkai, %%v = nombor acara, %%T = HH:MM:SS, \\n = baris baru"
 
 #: motioneye/templates/main.html:645
 #, fuzzy

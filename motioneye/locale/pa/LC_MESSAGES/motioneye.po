@@ -5,14 +5,14 @@
 #
 # Gurjant Singh <sandalgurjant@gmail.com>, 2023.
 # piet <piet@users.noreply.hosted.weblate.org>, 2024.
-# Zhang Wei <Zhang@users.noreply.hosted.weblate.org>, 2024.
+# Zhang Wei <Zhang@users.noreply.hosted.weblate.org>, 2024, 2025.
 # MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 23:47+0000\n"
-"PO-Revision-Date: 2025-12-10 00:41+0000\n"
+"PO-Revision-Date: 2025-12-10 03:44+0000\n"
 "Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Punjabi <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/pa/>\n"
 "Language: pa\n"
@@ -41,7 +41,7 @@ msgstr "ਡਾਇਰੈਕਟਰੀ ਦੇ ਨਾਮਾਂ ਵਿੱਚ ਸਿ�
 #: motioneye/config.py:874
 #, fuzzy
 msgid "Email addresses are only allowed to contain alphanumerical characters, underscore _, plus +, dot ., at @, caret ^, tilde ~, angle brackets <>, hyphen -, and may be separated by comma, and space"
-msgstr "ਈਮੇਲ ਪਤਿਆਂ ਵਿੱਚ ਸਿਰਫ਼ ਅੱਖਰਾਂ ਅਤੇ ਅੰਕਾਂ, ਅੰਡਰਸਕੋਰ _, ਪਲੱਸ +, ਡੌਟ ., ਐਟ @, ਕੇਰੈਟ ^, ਟਿਲਡ ~, ਐਂਗਲ ਬ੍ਰੈਕਟ <>, ਹਾਈਫਨ - ਹੀ ਹੋ ਸਕਦੇ ਹਨ, ਅਤੇ ਇਹਨਾਂ ਨੂੰ ਕਾਮਾ ਅਤੇ ਸਪੇਸ ਨਾਲ ਵੱਖ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ"
+msgstr "ਈਮੇਲ ਪਤੇ ਵਿੱਚ ਸਿਰਫ਼ ਅੱਖਰਾਂ ਅਤੇ ਅੰਕਾਂ, ਅੰਡਰਸਕੋਰ _, ਪਲੱਸ +, ਡੌਟ ., ਐਟ @, ਕੇਰਟ ^, ਟਿਲਡ ~, ਐਂਗਲ ਬ੍ਰੈਕਟ <>, ਹਾਈਫਨ - ਹੀ ਹੋ ਸਕਦੇ ਹਨ, ਅਤੇ ਇਹਨਾਂ ਨੂੰ ਕਾਮਾ ਅਤੇ ਸਪੇਸ ਨਾਲ ਵੱਖ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ"
 
 #: motioneye/config.py:879
 #, fuzzy

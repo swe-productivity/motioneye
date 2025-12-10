@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-09 23:47+0000\n"
-"PO-Revision-Date: 2025-12-09 23:46+0000\n"
-"Last-Translator: MichaIng <micha@dietpi.com>\n"
+"PO-Revision-Date: 2025-12-10 03:09+0000\n"
+"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -683,7 +683,7 @@ msgstr "t.ex http://example.com/notify"
 #: motioneye/templates/main.html:570
 #, fuzzy, python-format
 msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero,%%f = dosiera vojo"
-msgstr "URL att överföra när rörelse upptäcks; följande särskilda sparvägar accepteras:% -% Y = år,% -% m = månad,% = dag,% -% H = timme,% -% M = minut,%% S = andra,%q = ramnummer,%v = händelsenummer,% f = filväg"
+msgstr "URL som ska skickas när rörelse upptäcks; följande specialgenvägar accepteras: %%Y = år, %%m = månad, %%d = dag, %%H = timme, %%M = minut, %%S = sekund, %%q = bildnummer, %%v = händelsenummer, %%f = filväg"
 
 #: motioneye/templates/main.html:573 motioneye/templates/main.html:1141
 #: motioneye/templates/main.html:1186
@@ -758,7 +758,7 @@ msgstr "Anpassad Text…"
 #: motioneye/templates/main.html:625
 #, fuzzy, python-format
 msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero,%%T = HH:MM:SS, \\n = nova linio"
-msgstr "Definierar anpassad vänster text; följande särskilda tokener accepteras:% -% Y = år,% -% m = månad,% = dag,% -% H = timme,% -% M = minut,% -% Q = ramnummer,% -%v = händelsenummer,% T = HH: MM:SS, \\n = ny linje"
+msgstr "Definierar en anpassning för vänsterjusterad text. Följande specialtecken accepteras: %%Y = år, %%m = månad, %%d = dag, %%H = timme, %%M = minut, %%S = sekund, %%q = bildnummer, %%v = händelsenummer, %%T = HH:MM:SS, \\n = ny rad"
 
 #: motioneye/templates/main.html:628
 #, fuzzy
@@ -773,7 +773,7 @@ msgstr "Fast texten som visas på filmerna och bilderna, på det nedre högra h�
 #: motioneye/templates/main.html:642
 #, fuzzy, python-format
 msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%%Y = jaro,%%m = monato,%%d = tago,%%H = horo,%%M = minuto,%%S = sekundo,%%q = kadro numero,%%v = evento numero,%%T = HH:MM:SS, \\n = nova linio"
-msgstr "Definierar anpassad rätt text; följande särskilda tokens accepteras:% -% Y = år,% -% m = månad,% = dag,% H = timme,% -% M = minut,% -% -% Q = ramnummer,%v = händelsenummer,% T = HH: MM:SS, \\n = ny linje"
+msgstr "Definierar formatet för högertext; följande specialtecken accepteras: %%Y = år, %%m = månad, %%d = dag, %%H = timme, %%M = minut, %%S = sekund, %%q = bildnummer, %%v = händelsenummer, %%T = HH:MM:SS, \\n = ny rad"
 
 #: motioneye/templates/main.html:645
 #, fuzzy

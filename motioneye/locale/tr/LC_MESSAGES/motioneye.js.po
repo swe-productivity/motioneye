@@ -5,12 +5,13 @@
 # deneme <batekservis@gmail.com>, 2025.
 # aguvener <90110302+aguvener@users.noreply.github.com>, 2025.
 # Burak <admin@homelab.gen.tr>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-09 23:47+0000\n"
-"PO-Revision-Date: 2025-07-26 10:03+0000\n"
+"PO-Revision-Date: 2025-12-10 03:11+0000\n"
 "Last-Translator: Burak <admin@homelab.gen.tr>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/tr/>\n"
 "Language: tr\n"
@@ -18,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: motioneye/static/js/main.js:610
 msgid "specialaj signoj ne rajtas en pasvorto"
