@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-09 23:47+0000\n"
-"PO-Revision-Date: 2025-12-10 03:05+0000\n"
-"Last-Translator: Robert Brutoczki <robibrutoczki@googlemail.com>\n"
+"PO-Revision-Date: 2025-12-11 05:00+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -660,7 +660,7 @@ msgstr "helyezze az érvényes időt a következő formátumban: HH:MM"
 #: motioneye/static/js/ui.js:630
 #, fuzzy
 msgid "enigu validan URL (ekz. http://ekzemplo.com:8080/cams/)"
-msgstr "írj be egy érvényes URL-t (pl.:/example.com:80/cams/)"
+msgstr "Írjon be egy érvényes URL-címet (pl. http://ekzemplo.com:8080/cams/)"
 
 #: motioneye/static/js/ui.js:971
 #, fuzzy
