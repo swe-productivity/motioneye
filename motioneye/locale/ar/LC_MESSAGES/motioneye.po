@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-11 05:01+0000\n"
-"PO-Revision-Date: 2025-12-11 21:09+0000\n"
+"PO-Revision-Date: 2025-12-11 21:42+0000\n"
 "Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/ar/>\n"
 "Language: ar\n"
@@ -33,7 +33,7 @@ msgstr "النبائط متاحة فقط للخصائص البهائية وال�
 #: motioneye/config.py:864
 #, fuzzy
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr "الأفلام لا تكافئ سوى الخصائص الفوقية، والتنقية ()، والإمام/النقطة، والتأكيد، والهيفين - المكاني، ومجموعة فرعية من سمات الحركة المحددة: %C %Y %m %d %H %M %S %q %v"
+msgstr "لا يُسمح أن تحتوي أسماء الملفات إلا على أحرف أبجدية رقمية وأقواس () وشرطة مائلة / ونقطة . وشرطة سفلية _ وشرطة - ومسافة ومجموعة فرعية من محددات تحويل الحركة: %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
 #, fuzzy
@@ -819,7 +819,7 @@ msgstr "على سبيل المثال http://example.com/notify/"
 #: motioneye/templates/main.html:570
 #, fuzzy
 msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-msgstr "عنوان URL الذي يجب تمريره عند اكتشاف حركة؛ يتم قبول الاختصارات الخاصة التالية: Y% = السنة، m% = الشهر، d% = اليوم، H% = الساعة، M% = الدقيقة، S% = الثانية، q% = رقم الإطار، v% = رقم الحدث، f% = مسار الملف"
+msgstr "عنوان URL الذي يجب تمريره عند اكتشاف حركة؛ يتم قبول الاختصارات الخاصة التالية: %Y = السنة، %m = الشهر، %d = اليوم، %H = الساعة، %M = الدقيقة، %S = الثانية، %q = رقم الإطار، %v = رقم الحدث، %f = مسار الملف"
 
 #: motioneye/templates/main.html:573 motioneye/templates/main.html:1141
 #: motioneye/templates/main.html:1186
@@ -855,7 +855,7 @@ msgstr "طلب…"
 #: motioneye/templates/main.html:595
 #, fuzzy
 msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-msgstr "الأمر الذي سيتم تنفيذه بعد إنشاء ملف وسائط متعددة. يمكن فصل الأوامر المتعددة بفاصلة منقوطة؛ لا تستخدم الفواصل المنقوطة داخل الأوامر؛ يتم قبول الرموز الخاصة التالية: Y% = السنة، m% = الشهر، d% = اليوم، H% = الساعة، M% = الدقيقة، S% = الثانية، q% = رقم الإطار، v% = رقم الحدث، %f = مسار الملف"
+msgstr "الأمر الذي سيتم تنفيذه بعد إنشاء ملف وسائط متعددة. يمكن فصل الأوامر المتعددة بفاصلة منقوطة؛ لا تستخدم الفواصل المنقوطة داخل الأوامر؛ يتم قبول الرموز الخاصة التالية: %Y = السنة، %m = الشهر، %d = اليوم، %H = الساعة، %M = الدقيقة، %S = الثانية، %q = رقم الإطار، %v = رقم الحدث، %f = مسار الملف"
 
 #: motioneye/templates/main.html:605
 #, fuzzy
@@ -901,7 +901,7 @@ msgstr "نص مخصص…"
 #: motioneye/templates/main.html:625
 #, fuzzy
 msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "يحدد تنسيق النص المحاذي لليسار؛ يتم قبول الرموز الخاصة التالية: Y% = السنة، m% = الشهر، d% = اليوم، H% = الساعة، M% = الدقيقة، S% = الثانية، q% = رقم الإطار، v% = رقم الحدث، %T = HH:MM:SS، \\n = سطر جديد"
+msgstr "يحدد عرفًا للنص المحاذي لليسار؛ يتم قبول الرموز الخاصة التالية: %Y = السنة، %m = الشهر، %d = اليوم، %H = الساعة، %M = الدقيقة، %S = الثانية، %q = رقم الإطار، %v = رقم الحدث، %T = HH:MM:SS، \\n = سطر جديد"
 
 #: motioneye/templates/main.html:628
 #, fuzzy
@@ -916,7 +916,7 @@ msgstr "يضبط النص المعروض على الأفلام والصور ، �
 #: motioneye/templates/main.html:642
 #, fuzzy
 msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "يحدد تنسيق النص الأيمن؛ يتم قبول الرموز الخاصة التالية: Y% = السنة، m% = الشهر، d% = اليوم، H% = الساعة، M% = الدقيقة، S% = الثانية، q% = رقم الإطار، v% = رقم الحدث، T% = HH:MM:SS، \\n = سطر جديد"
+msgstr "يحدد تنسيق النص الأيمن؛ يتم قبول الرموز الخاصة التالية: %Y = السنة، %m = الشهر، %d = اليوم، %H = الساعة، %M = الدقيقة، %S = الثانية، %q = رقم الإطار، %v = رقم الحدث، %T = HH:MM:SS، \\n = سطر جديد"
 
 #: motioneye/templates/main.html:645
 #, fuzzy
@@ -1066,7 +1066,7 @@ msgstr "قالب اسم الملف…"
 #: motioneye/templates/main.html:749
 #, fuzzy
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "يحدد نمط اسم ملفات الصور (JPEG)؛ يتم قبول الرموز الخاصة التالية: Y%= السنة، m%= الشهر، d%= اليوم، H%= الساعة، M%= الدقيقة، S%= الثانية، q%= رقم الإطار، v%= رقم الحدث، / = المجلد الفرعي."
+msgstr "يحدد نموذج تسمية ملفات الصور (JPEG)؛ يتم قبول الرموز الخاصة التالية: %Y = السنة، %m = الشهر، %d = اليوم، %H = الساعة، %M = الدقيقة، %S = الثانية، %q = رقم الإطار، %v = رقم الحدث، / = الدليل الفرعي."
 
 #: motioneye/templates/main.html:752
 #, fuzzy
@@ -1228,7 +1228,7 @@ msgstr "اسم ملف الفيلم"
 #: motioneye/templates/main.html:818
 #, fuzzy
 msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "يحدد نموذج تسمية ملفات الفيديو؛ يتم قبول الرموز الخاصة التالية: Y% = السنة، m% = الشهر، d% = اليوم، H% = الساعة، M% = الدقيقة، S% = الثانية، q% = رقم الإطار، v% = رقم الحدث، / = الدليل الفرعي."
+msgstr "يحدد نموذج تسمية ملفات الفيديو؛ يتم قبول الرموز الخاصة التالية: %Y = السنة، %m = الشهر، %d = اليوم، %H = الساعة، %M = الدقيقة، %S = الثانية، %q = رقم الإطار، %v = رقم الحدث، / = الدليل الفرعي."
 
 #: motioneye/templates/main.html:821
 #, fuzzy
@@ -1724,7 +1724,7 @@ msgstr "على سبيل المثال http://example.com/search/"
 #: motioneye/templates/main.html:1138
 #, fuzzy
 msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "عنوان URL المطلوب عند اكتشاف حركة؛ يتم قبول الاختصارات الخاصة التالية: Y% = السنة، m% = الشهر، d% = اليوم، H% = الساعة، M% = الدقيقة، S% = الثانية، q% = رقم الإطار، v% = رقم عشوائي"
+msgstr "عنوان URL المطلوب عند اكتشاف حركة؛ يتم قبول الاختصارات الخاصة التالية: %Y = السنة، %m = الشهر، %d = اليوم، %H = الساعة، %M = الدقيقة، %S = الثانية، %q = رقم الإطار، %v = رقم عشوائي"
 
 #: motioneye/templates/main.html:1150 motioneye/templates/main.html:1195
 #, fuzzy
@@ -1754,7 +1754,7 @@ msgstr "أمر…"
 #: motioneye/templates/main.html:1163
 #, fuzzy
 msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "الأمر الذي سيتم تشغيله عند اكتشاف حركة؛ يمكن فصل الأوامر المتعددة بفاصلة؛ لا تستخدم الفاصلة المنقوطة في الأوامر؛ يتم قبول الرموز الخاصة التالية: Y% = السنة، m% = الشهر، d% = اليوم، H% = الساعة، M% = الدقيقة، S% = الثانية، q% = رقم الإطار، v% = رقم عشوائي"
+msgstr "الأمر الذي سيتم تنفيذه عند اكتشاف حركة؛ يمكن فصل الأوامر المتعددة بفاصلة؛ لا تستخدم الفاصلة المنقوطة في الأوامر؛ يتم قبول الرموز الخاصة التالية: %Y = السنة، %m = الشهر، %d = اليوم، %H = الساعة، %M = الدقيقة، %S = الثانية، %q = رقم الإطار، %v = رقم عشوائي"
 
 #: motioneye/templates/main.html:1203
 #, fuzzy
@@ -1764,7 +1764,7 @@ msgstr "قم بتمكين هذا إذا كنت تريد تشغيل أمر في �
 #: motioneye/templates/main.html:1208
 #, fuzzy
 msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-msgstr "الأمر الذي سيتم تشغيله عند انتهاء حدث الحركة؛ يمكن فصل الأوامر المتعددة بفاصلة منقوطة؛ لا تستخدم الفواصل في الأوامر؛ يتم قبول الرموز الخاصة التالية: Y% = السنة، m% = الشهر، d% = اليوم، H% = الساعة، M% = الدقيقة، S% = الثانية، q% = رقم الإطار."
+msgstr "الأمر الذي سيتم تشغيله عند انتهاء حدث الحركة؛ يمكن فصل الأوامر المتعددة بفاصلة منقوطة؛ لا تستخدم الفواصل في الأوامر؛ يتم قبول الرموز الخاصة التالية: %Y = السنة، %m = الشهر، %d = اليوم، %H = الساعة، %M = الدقيقة، %S = الثانية، %q = رقم الإطار."
 
 #: motioneye/templates/main.html:1218
 #, fuzzy
