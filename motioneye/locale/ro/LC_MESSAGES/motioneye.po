@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-11 05:01+0000\n"
-"PO-Revision-Date: 2025-12-10 03:44+0000\n"
+"PO-Revision-Date: 2025-12-11 21:09+0000\n"
 "Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/ro/>\n"
 "Language: ro\n"
@@ -663,7 +663,7 @@ msgstr "ex. http://examplu.com/notify/"
 
 #: motioneye/templates/main.html:570
 msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-msgstr "URL solicitat când este detectată mișcare; sunt acceptate următoarele token-uri speciale rapide: %%Y = an, %%m = lună, %%d = zi, %%H = oră, %%M = minut, %%S = secundă, %%q = numărul cadrului, %%v = numărul evenimentului, %%f = calea fișierului"
+msgstr "URL solicitat când este detectată mișcare; sunt acceptate următoarele token-uri speciale rapide: %Y = an, %m = lună, %d = zi, %H = oră, %M = minut, %S = secundă, %q = numărul cadrului, %v = numărul evenimentului, %f = calea fișierului"
 
 #: motioneye/templates/main.html:573 motioneye/templates/main.html:1141
 #: motioneye/templates/main.html:1186
@@ -692,7 +692,7 @@ msgstr "Comanda…"
 
 #: motioneye/templates/main.html:595
 msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-msgstr "O comandă ce urmează să fie executată după crearea unui fișier media. Mai multe comenzi pot fi separate prin punct-și-virgulă; nu utilizați punct-și-virgulă în comenzi; sunt acceptate următoarele token-uri speciale: %%Y = an, %%m = lună, %%d = zi, %%H = oră, %%M = minut, %%S = secundă, %%q = numărul cadrului, %%v = numărul evenimentului, %%f = calea fișierului"
+msgstr "O comandă ce urmează să fie executată după crearea unui fișier media. Mai multe comenzi pot fi separate prin punct-și-virgulă; nu utilizați punct-și-virgulă în comenzi; sunt acceptate următoarele token-uri speciale: %Y = an, %m = lună, %d = zi, %H = oră, %M = minut, %S = secundă, %q = numărul cadrului, %v = numărul evenimentului, %f = calea fișierului"
 
 #: motioneye/templates/main.html:605
 msgid "elektu kiajn informojn montras sur la kaptitaj kadroj"
@@ -729,7 +729,7 @@ msgstr "Text personalizat…"
 
 #: motioneye/templates/main.html:625
 msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "Setează textul personalizat din stânga; sunt acceptate următoarele token-uri speciale: %%Y = an, %%m = lună, %%d = zi, %%H = oră, %%M = minut, %%S = secundă, %%q = numărul cadrului, %%v = numărul evenimentului, %%T = HH: MM: SS, \\n = rând nou"
+msgstr "Setează textul personalizat din stânga; sunt acceptate următoarele token-uri speciale: %Y = an, %m = lună, %d = zi, %H = oră, %M = minut, %S = secundă, %q = numărul cadrului, %v = numărul evenimentului, %T = HH: MM: SS, \\n = rând nou"
 
 #: motioneye/templates/main.html:628
 msgid "Dekstra Teksto"
@@ -741,7 +741,7 @@ msgstr "Setează textul afișat pe videoclipuri și imagini, în colțul din dre
 
 #: motioneye/templates/main.html:642
 msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "Setează textul personalizat din dreapta; sunt acceptate următoarele token-uri speciale: %%Y = an, %%m = lună, %%d = zi, %%H = oră, %%M = minut, %%S = secundă, %%q = numărul cadrului, %%v = numărul evenimentului, %%T = HH: MM: SS, \\n = rând nou"
+msgstr "Setează textul personalizat din dreapta; sunt acceptate următoarele token-uri speciale: %Y = an, %m = lună, %d = zi, %H = oră, %M = minut, %S = secundă, %q = numărul cadrului, %v = numărul evenimentului, %T = HH: MM: SS, \\n = rând nou"
 
 #: motioneye/templates/main.html:645
 msgid "Teksta Skalo"
@@ -861,7 +861,7 @@ msgstr "Șablon pentru numele fișierelor…"
 
 #: motioneye/templates/main.html:749
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "Setează șablonul de nume pentru fișierele imagine (JPEG); sunt acceptate următoarele token-uri speciale: %%Y = an, %%m = lună, %%d = zi, %%H = oră, %%M = minut, %%S = secundă, %%q = numărul cadrului, %%v = numărul evenimentului, / = subdosar ."
+msgstr "Setează șablonul de nume pentru fișierele imagine (JPEG); sunt acceptate următoarele token-uri speciale: %Y = an, %m = lună, %d = zi, %H = oră, %M = minut, %S = secundă, %q = numărul cadrului, %v = numărul evenimentului, / = subdosar ."
 
 #: motioneye/templates/main.html:752
 msgid "Bildkvalito"
@@ -991,7 +991,7 @@ msgstr "Numele fișierelor video"
 
 #: motioneye/templates/main.html:818
 msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "Setează șablonul de nume pentru fișierele video; sunt acceptate următoarele token-uri speciale: %%Y = an, %%m = lună, %%d = zi, %%H = oră, %%M = minut, %%S = secundă, %%q = numărul cadrului, %%v = numărul evenimentului, / = subdosar ."
+msgstr "Setează șablonul de nume pentru fișierele video; sunt acceptate următoarele token-uri speciale: %Y = an, %m = lună, %d = zi, %H = oră, %M = minut, %S = secundă, %q = numărul cadrului, %v = numărul evenimentului, / = subdosar ."
 
 #: motioneye/templates/main.html:821
 msgid "Rekta kopia filmeto"
@@ -1111,7 +1111,7 @@ msgstr "Detectarea becurilor"
 
 #: motioneye/templates/main.html:951
 msgid "Difinas la procenton de la bildo, kiu bezonas ŝanĝi, por ke la evento estu traktata kiel subita luma ŝanĝo anstataŭ moviĝo (0% malebligas la funkcion)."
-msgstr "Setează procentul imaginii ce trebuie să se schimbe pentru ca evenimentul să fie tratat ca o schimbare bruscă de lumină în loc de mișcare (0%% dezactivează funcția)."
+msgstr "Setează procentul imaginii ce trebuie să se schimbe pentru ca evenimentul să fie tratat ca o schimbare bruscă de lumină în loc de mișcare (0% dezactivează funcția)."
 
 #: motioneye/templates/main.html:954
 msgid "Makula filtrilo"
@@ -1388,7 +1388,7 @@ msgstr "ex. http://exemplu.com/notificare/"
 
 #: motioneye/templates/main.html:1138
 msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "URL-ul care să fie solicitat atunci când este detectată mișcare; sunt acceptate următoarele token-uri speciale: %%Y = an, %%m = lună, %%d = zi, %%H = oră, %%M = minut, %%S = secundă, %%q = numărul cadrului, %%v = numărul incidentului"
+msgstr "URL-ul care să fie solicitat atunci când este detectată mișcare; sunt acceptate următoarele token-uri speciale: %Y = an, %m = lună, %d = zi, %H = oră, %M = minut, %S = secundă, %q = numărul cadrului, %v = numărul incidentului"
 
 #: motioneye/templates/main.html:1150 motioneye/templates/main.html:1195
 msgid "La HTTP-metodo por uzi kiam vi petas URL (la donitaj URL-parametroj estos transdonitaj kiel indikite ĉi tie)."
@@ -1412,7 +1412,7 @@ msgstr "Comandă…"
 
 #: motioneye/templates/main.html:1163
 msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "Comanda care doriți să fie executată atunci când este detectată mișcare; comenzile multiple pot fi separate prin două puncte; nu utilizați punct și virgulă cu comenzi; sunt acceptate următoarele token-uri speciale: %%Y = an, %%m = lună, %%d = zi, %%H = oră, %%M = minut, %%S = secundă, %%q = numărul cadrului, %%v = numărul evenimentului"
+msgstr "Comanda care doriți să fie executată atunci când este detectată mișcare; comenzile multiple pot fi separate prin două puncte; nu utilizați punct și virgulă cu comenzi; sunt acceptate următoarele token-uri speciale: %Y = an, %m = lună, %d = zi, %H = oră, %M = minut, %S = secundă, %q = numărul cadrului, %v = numărul evenimentului"
 
 #: motioneye/templates/main.html:1203
 msgid "Ebligu ĉi tion, se vi volas lanĉi komandon ĉiufoje kiam movada evento finiĝos."
@@ -1420,7 +1420,7 @@ msgstr "Activați această opțiune dacă doriți să lansați o comandă de fie
 
 #: motioneye/templates/main.html:1208
 msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-msgstr "Comanda care doriți să fie executată atunci când un eveniment de mișcare se termină; comenzile multiple pot fi separate prin două puncte; nu utilizați punct și virgulă cu comenzi; sunt acceptate următoarele token-uri speciale: %%Y = an, %%m = lună, %%d = zi, %%H = oră, %%M = minut, %%S = secundă, %%q = numărul cadrului ."
+msgstr "Comanda care doriți să fie executată atunci când un eveniment de mișcare se termină; comenzile multiple pot fi separate prin două puncte; nu utilizați punct și virgulă cu comenzi; sunt acceptate următoarele token-uri speciale: %Y = an, %m = lună, %d = zi, %H = oră, %M = minut, %S = secundă, %q = numărul cadrului ."
 
 #: motioneye/templates/main.html:1218
 msgid "Ebligu ĉi tion, se vi volas difini ĉiusemajnan horaron por detekto de moviĝo."

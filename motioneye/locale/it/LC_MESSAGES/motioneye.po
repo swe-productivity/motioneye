@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-11 05:01+0000\n"
-"PO-Revision-Date: 2025-12-10 03:44+0000\n"
+"PO-Revision-Date: 2025-12-11 21:09+0000\n"
 "Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/it/>\n"
 "Language: it\n"
@@ -667,7 +667,7 @@ msgstr "ad es. http://example.com/notify/"
 
 #: motioneye/templates/main.html:570
 msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-msgstr "URL da trasmettere quando viene rilevato un movimento; sono accettate le seguenti scorciatoie speciali: %% Y = anno, %% m = mese, %% d = giorno, %% H = ora, %% M = minuto, %% S = secondo, %% q = numero di frame, %% v = numero dell'evento, %% f = percorso del file"
+msgstr "URL da trasmettere quando viene rilevato un movimento; sono accettate le seguenti scorciatoie speciali: %Y = anno, %m = mese, %d = giorno, %H = ora, %M = minuto, %S = secondo, %q = numero di frame, %v = numero dell'evento, %f = percorso del file"
 
 #: motioneye/templates/main.html:573 motioneye/templates/main.html:1141
 #: motioneye/templates/main.html:1186
@@ -696,7 +696,7 @@ msgstr "Ordine…"
 
 #: motioneye/templates/main.html:595
 msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-msgstr "Comando da eseguire dopo la creazione di un file multimediale; più comandi possono essere separati da un punto e virgola; non usare il punto e virgola all'interno dei comandi; sono accettati i seguenti caratteri speciali:%%Y = anno,%%m = mese,%%d = giorno,%%H = ora,%%M = minuto,%%S = secondo,%%q = numero telaio,%%v = numero dell'evento,%%f = percorso file"
+msgstr "Comando da eseguire dopo la creazione di un file multimediale; più comandi possono essere separati da un punto e virgola; non usare il punto e virgola all'interno dei comandi; sono accettati i seguenti caratteri speciali:%Y = anno,%m = mese,%d = giorno,%H = ora,%M = minuto,%S = secondo,%q = numero telaio,%v = numero dell'evento,%f = percorso file"
 
 #: motioneye/templates/main.html:605
 msgid "elektu kiajn informojn montras sur la kaptitaj kadroj"
@@ -733,7 +733,7 @@ msgstr "Testo personalizzato …"
 
 #: motioneye/templates/main.html:625
 msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "Definisce il testo sinistro personalizzato; sono accettati i seguenti caratteri speciali:%%Y = anno,%%m = mese,%%d = giorno,%%H = ora,%%M = minuto,%%S = secondo,%%q = numero frame,%%v = evento numero,%%T = HH:MM:SS, \\n = nova riga"
+msgstr "Definisce il testo sinistro personalizzato; sono accettati i seguenti caratteri speciali:%Y = anno,%m = mese,%d = giorno,%H = ora,%M = minuto,%S = secondo,%q = numero frame,%v = evento numero,%T = HH:MM:SS, \\n = nova riga"
 
 #: motioneye/templates/main.html:628
 msgid "Dekstra Teksto"
@@ -745,7 +745,7 @@ msgstr "Imposta il testo visualizzato su filmati e immagini, nell'angolo in bass
 
 #: motioneye/templates/main.html:642
 msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "Definisce il testo corretto personalizzato; sono accettati i seguenti caratteri speciali: %% Y = anno, %% m = mese, %% d = giorno, %% H = ora, %% M = minuto, %% S = secondo, %% q = numero di frame, %% v = numero evento, %% T = HH: MM: SS, \\n = nuova riga"
+msgstr "Definisce il testo corretto personalizzato; sono accettati i seguenti caratteri speciali: %Y = anno, %m = mese, %d = giorno, %H = ora, %M = minuto, %S = secondo, %q = numero di frame, %v = numero evento, %T = HH: MM: SS, \\n = nuova riga"
 
 #: motioneye/templates/main.html:645
 msgid "Teksta Skalo"
@@ -866,7 +866,7 @@ msgstr "Modello del nome file …"
 #: motioneye/templates/main.html:749
 #, fuzzy
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "imposta il modello di nome per i file immagine (JPEG); sono accettati i seguenti token speciali: %%Y = anno, %%m = mese, %%d = giorno, %%H = ora, %%M = minuto, %%S = secondo, %%q = numero di fotogramma, %%v = numero di evento, / = sottocartella."
+msgstr "imposta il modello di nome per i file immagine (JPEG); sono accettati i seguenti token speciali: %Y = anno, %m = mese, %d = giorno, %H = ora, %M = minuto, %S = secondo, %q = numero di fotogramma, %v = numero di evento, / = sottocartella."
 
 #: motioneye/templates/main.html:752
 msgid "Bildkvalito"
@@ -996,7 +996,7 @@ msgstr "Nome file del filmato"
 
 #: motioneye/templates/main.html:818
 msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "Definisce il modello di nome per i file video; sono accettati i seguenti caratteri speciali: %% Y = anno, %% m = mese, %% d = giorno, %% H = ora, %% M = minuto, %% S = secondo, %% q = numero di frame, %% v = numero evento, / = sottodirectory."
+msgstr "Definisce il modello di nome per i file video; sono accettati i seguenti caratteri speciali: %Y = anno, %m = mese, %d = giorno, %H = ora, %M = minuto, %S = secondo, %q = numero di frame, %v = numero evento, / = sottodirectory."
 
 #: motioneye/templates/main.html:821
 msgid "Rekta kopia filmeto"
@@ -1393,7 +1393,7 @@ msgstr "ad esempio: http://ekzemplo.com/sciigi/"
 
 #: motioneye/templates/main.html:1138
 msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "URL da richiedere quando viene rilevato un movimento; sono accettate le seguenti scorciatoie speciali: %% Y = anno, %% m = mese, %% d = giorno, %% H = ora, %% M = minuto, %% S = secondo, %% q = numero di frame , %% v = numero evento"
+msgstr "URL da richiedere quando viene rilevato un movimento; sono accettate le seguenti scorciatoie speciali: %Y = anno, %m = mese, %d = giorno, %H = ora, %M = minuto, %S = secondo, %q = numero di frame , %v = numero evento"
 
 #: motioneye/templates/main.html:1150 motioneye/templates/main.html:1195
 msgid "La HTTP-metodo por uzi kiam vi petas URL (la donitaj URL-parametroj estos transdonitaj kiel indikite ĉi tie)."
@@ -1417,7 +1417,7 @@ msgstr "Comando …"
 
 #: motioneye/templates/main.html:1163
 msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "Comando da lanciare quando viene rilevato un movimento; più comandi possono essere separati da due punti; non usare i punti e virgola con i comandi; sono accettati i seguenti caratteri speciali: %% Y = anno, %% m = mese, %% d = giorno, %% H = ora, %% M = minuto, %% S = secondo, %% q = numero di frame , %% v = numero evento"
+msgstr "Comando da lanciare quando viene rilevato un movimento; più comandi possono essere separati da due punti; non usare i punti e virgola con i comandi; sono accettati i seguenti caratteri speciali: %Y = anno, %m = mese, %d = giorno, %H = ora, %M = minuto, %S = secondo, %q = numero di frame , %v = numero evento"
 
 #: motioneye/templates/main.html:1203
 msgid "Ebligu ĉi tion, se vi volas lanĉi komandon ĉiufoje kiam movada evento finiĝos."
@@ -1425,7 +1425,7 @@ msgstr "Abilitare questa opzione se si desidera eseguire un comando ogni volta c
 
 #: motioneye/templates/main.html:1208
 msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-msgstr "Comando da eseguire al termine dell'evento di movimento; più comandi possono essere separati da un punto e virgola; non usare il punto e virgola all'interno dei comandi; sono accettati i seguenti gettoni speciali:%%Y = anno,%%m = mese,%%d = data,%%H = ora,%%M = minuto,%%S = secondo,%%q = numero frame."
+msgstr "Comando da eseguire al termine dell'evento di movimento; più comandi possono essere separati da un punto e virgola; non usare il punto e virgola all'interno dei comandi; sono accettati i seguenti gettoni speciali:%Y = anno,%m = mese,%d = data,%H = ora,%M = minuto,%S = secondo,%q = numero frame."
 
 #: motioneye/templates/main.html:1218
 msgid "Ebligu ĉi tion, se vi volas difini ĉiusemajnan horaron por detekto de moviĝo."

@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-11 05:01+0000\n"
-"PO-Revision-Date: 2025-12-10 03:11+0000\n"
-"Last-Translator: Zhang Wei <Zhang@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2025-12-11 21:09+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/ms/>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
@@ -817,7 +817,7 @@ msgstr "contohnya. http://example.com/notify/"
 #: motioneye/templates/main.html:570
 #, fuzzy
 msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-msgstr "URL untuk dihantar apabila gerakan dikesan; pintasan khas berikut diterima: %% Y = tahun, %% m = bulan, %% d = hari, %% H = jam, %% M = minit, %% S = kedua, %% q = %% v = nombor acara, %% f = laluan fail"
+msgstr "URL untuk dihantar apabila gerakan dikesan; pintasan khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = kedua, %q = %v = nombor acara, %f = laluan fail"
 
 #: motioneye/templates/main.html:573 motioneye/templates/main.html:1141
 #: motioneye/templates/main.html:1186
@@ -853,7 +853,7 @@ msgstr "Memerintahkan…"
 #: motioneye/templates/main.html:595
 #, fuzzy
 msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-msgstr "Perintah yang akan dilaksanakan selepas membuat fail multimedia. Beberapa perintah boleh dipisahkan dengan koma bertitik; jangan gunakan titik koma dalam arahan; butiran khas berikut diterima: %% Y = tahun, %% m = bulan, %% d = hari, %% H = jam, %% M = minit, %% S = kedua, %% q = %% v = nombor acara, %% f = laluan fail"
+msgstr "Perintah yang akan dilaksanakan selepas membuat fail multimedia. Beberapa perintah boleh dipisahkan dengan koma bertitik; jangan gunakan titik koma dalam arahan; butiran khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = kedua, %q = %v = nombor acara, %f = laluan fail"
 
 #: motioneye/templates/main.html:605
 #, fuzzy
@@ -899,7 +899,7 @@ msgstr "Teks tersuai…"
 #: motioneye/templates/main.html:625
 #, fuzzy
 msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "Menetapkan teks kiri tersendiri; butiran khas berikut diterima: %% Y = tahun, %% m = bulan, %% d = hari, %% H = jam, %% M = minit, %% S = kedua, %% q = %% v = nombor acara, %% T = HH: MM: SS, \\n = baris baru"
+msgstr "Menetapkan teks kiri tersendiri; butiran khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = kedua, %q = %v = nombor acara, %T = HH: MM: SS, \\n = baris baru"
 
 #: motioneye/templates/main.html:628
 #, fuzzy
@@ -914,7 +914,7 @@ msgstr "Menetapkan teks yang dipaparkan pada filem dan gambar, di sudut kanan ba
 #: motioneye/templates/main.html:642
 #, fuzzy
 msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "Menentukan format teks di sebelah kanan; token khas berikut diterima: %%Y = tahun, %%m = bulan, %%d = hari, %%H = jam, %%M = minit, %%S = saat, %%q = nombor bingkai, %%v = nombor acara, %%T = HH:MM:SS, \\n = baris baru"
+msgstr "Menentukan format teks di sebelah kanan; token khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = saat, %q = nombor bingkai, %v = nombor acara, %T = HH:MM:SS, \\n = baris baru"
 
 #: motioneye/templates/main.html:645
 #, fuzzy
@@ -1064,7 +1064,7 @@ msgstr "Templat nama fail…"
 #: motioneye/templates/main.html:749
 #, fuzzy
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "Menetapkan corak nama untuk fail imej (JPEG); token khas berikut diterima: %%Y = tahun, %%m = bulan, %%d = hari, %%H = jam, %%M = minit, %%S = saat, %%q = nombor bingkai, %%v = nombor acara, / = subfolder."
+msgstr "Menetapkan corak nama untuk fail imej (JPEG); token khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = saat, %q = nombor bingkai, %v = nombor acara, / = subfolder."
 
 #: motioneye/templates/main.html:752
 #, fuzzy
@@ -1226,7 +1226,7 @@ msgstr "Nama Fail Filem"
 #: motioneye/templates/main.html:818
 #, fuzzy
 msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "Menentukan template nama untuk fail filem; butiran khas berikut diterima: %% Y = tahun, %% m = bulan, %% d = hari, %% H = jam, %% M = minit, %% S = kedua, %% q = %% v = nombor acara, / = subdirektori."
+msgstr "Menentukan template nama untuk fail filem; butiran khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = kedua, %q = %v = nombor acara, / = subdirektori."
 
 #: motioneye/templates/main.html:821
 #, fuzzy
@@ -1376,7 +1376,7 @@ msgstr "Pengesanan perubahan cahaya"
 #: motioneye/templates/main.html:951
 #, fuzzy
 msgid "Difinas la procenton de la bildo, kiu bezonas ŝanĝi, por ke la evento estu traktata kiel subita luma ŝanĝo anstataŭ moviĝo (0% malebligas la funkcion)."
-msgstr "Mendefinisikan peratusan imej yang perlu ditukar supaya peristiwa itu diperlakukan sebagai perubahan cahaya mendadak dan bukan gerakan (0 %% melumpuhkan ciri)."
+msgstr "Mendefinisikan peratusan imej yang perlu ditukar supaya peristiwa itu diperlakukan sebagai perubahan cahaya mendadak dan bukan gerakan (0% melumpuhkan ciri)."
 
 #: motioneye/templates/main.html:954
 #, fuzzy
@@ -1722,7 +1722,7 @@ msgstr "contohnya. http://contoh.com/search/"
 #: motioneye/templates/main.html:1138
 #, fuzzy
 msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "URL yang diminta apabila gerakan dikesan; jalan pintas khas berikut diterima: %% Y = tahun, %% m = bulan, %% d = hari, %% H = jam, %% M = minit, %% S = kedua, %% q = nombor bingkai , %% v = nombor acara"
+msgstr "URL yang diminta apabila gerakan dikesan; jalan pintas khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = kedua, %q = nombor bingkai , %v = nombor acara"
 
 #: motioneye/templates/main.html:1150 motioneye/templates/main.html:1195
 #, fuzzy
@@ -1752,7 +1752,7 @@ msgstr "Perintah…"
 #: motioneye/templates/main.html:1163
 #, fuzzy
 msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "Perintah untuk dilancarkan semasa gerakan dikesan; pelbagai arahan boleh dipisahkan dengan titik dua; jangan gunakan titik koma dengan perintah; token khas berikut diterima: %% Y = tahun, %% m = bulan, %% d = hari, %% H = jam, %% M = minit, %% S = kedua, %% q = nombor bingkai , %% v = nombor acara"
+msgstr "Perintah untuk dilancarkan semasa gerakan dikesan; pelbagai arahan boleh dipisahkan dengan titik dua; jangan gunakan titik koma dengan perintah; token khas berikut diterima: %Y = tahun, %m = bulan, %d = hari, %H = jam, %M = minit, %S = kedua, %q = nombor bingkai , %v = nombor acara"
 
 #: motioneye/templates/main.html:1203
 #, fuzzy
@@ -1762,7 +1762,7 @@ msgstr "Aktifkan ini jika anda ingin melancarkan perintah setiap kali peristiwa 
 #: motioneye/templates/main.html:1208
 #, fuzzy
 msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-msgstr "Perintah untuk dilancarkan apabila acara gerakan berakhir; pelbagai arahan boleh dipisahkan dengan titik dua; jangan gunakan dot com dengan arahan; token khas berikut diterima: %% Y = tahun, %% m = bulan, %% d = tarikh, %% H = jam, %% M = minit, %% S = kedua, %% q = nombor bingkai."
+msgstr "Perintah untuk dilancarkan apabila acara gerakan berakhir; pelbagai arahan boleh dipisahkan dengan titik dua; jangan gunakan dot com dengan arahan; token khas berikut diterima: %Y = tahun, %m = bulan, %d = tarikh, %H = jam, %M = minit, %S = kedua, %q = nombor bingkai."
 
 #: motioneye/templates/main.html:1218
 #, fuzzy

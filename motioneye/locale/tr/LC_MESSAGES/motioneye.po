@@ -14,8 +14,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-11 05:01+0000\n"
-"PO-Revision-Date: 2025-12-10 03:08+0000\n"
-"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
+"PO-Revision-Date: 2025-12-11 21:09+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -667,7 +667,7 @@ msgstr "Örneğin. http://ornek.com/notify/"
 
 #: motioneye/templates/main.html:570
 msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-msgstr "Hareket algılandığında aktarılacak URL; aşağıdaki özel kısayollar kabul edilir: %%Y = yıl, %%m = ay, %%d = gün, %%H = saat, %%M = dakika, %%S = saniye, %%q = çerçeve numarası, %%v = olay numarası,%%f = dosya yolu"
+msgstr "Hareket algılandığında aktarılacak URL; aşağıdaki özel kısayollar kabul edilir: %Y = yıl, %m = ay, %d = gün, %H = saat, %M = dakika, %S = saniye, %q = çerçeve numarası, %v = olay numarası,%f = dosya yolu"
 
 #: motioneye/templates/main.html:573 motioneye/templates/main.html:1141
 #: motioneye/templates/main.html:1186
@@ -696,7 +696,7 @@ msgstr "emir…"
 
 #: motioneye/templates/main.html:595
 msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-msgstr "Multimedya dosyası oluşturulduktan sonra yürütülecek komut. Birkaç komut bir dönem adıyla ayrılabilir; komutlarda nokta adı kullanmayın; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl, %%m = ay, %%d = gün, %%H = saat, %%M = dakika, %%S = saniye, %%q = çerçeve numarası, %%v = olay numarası, %%f = dosya yolu"
+msgstr "Multimedya dosyası oluşturulduktan sonra yürütülecek komut. Birkaç komut bir dönem adıyla ayrılabilir; komutlarda nokta adı kullanmayın; aşağıdaki özel belirteçler kabul edilir: %Y = yıl, %m = ay, %d = gün, %H = saat, %M = dakika, %S = saniye, %q = çerçeve numarası, %v = olay numarası, %f = dosya yolu"
 
 #: motioneye/templates/main.html:605
 msgid "elektu kiajn informojn montras sur la kaptitaj kadroj"
@@ -733,7 +733,7 @@ msgstr "kendi metni…"
 
 #: motioneye/templates/main.html:625
 msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "Özel sol metni tanımlar; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl,%%m = ay,%%d = gün,%%H = saat,%%M = dakika,%%S = saniye,%%q = çerçeve numarası, %%v = olay numarası,%%T = HH:MM:SS, \\n = yeni satır"
+msgstr "Özel sol metni tanımlar; aşağıdaki özel belirteçler kabul edilir: %Y = yıl,%m = ay,%d = gün,%H = saat,%M = dakika,%S = saniye,%q = çerçeve numarası, %v = olay numarası,%T = HH:MM:SS, \\n = yeni satır"
 
 #: motioneye/templates/main.html:628
 msgid "Dekstra Teksto"
@@ -745,7 +745,7 @@ msgstr "Filmlerde ve görüntülerde gösterilen metni sağ alt köşede ayarlar
 
 #: motioneye/templates/main.html:642
 msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "Özel sağ metni tanımlar; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl,%%m = ay,%%d = gün,%%H = saat,%%M = dakika,%%S = saniye,%%q = çerçeve numarası, %%v = olay numarası,%%T =HH:MM:SS, \\n = yeni satır"
+msgstr "Özel sağ metni tanımlar; aşağıdaki özel belirteçler kabul edilir: %Y = yıl,%m = ay,%d = gün,%H = saat,%M = dakika,%S = saniye,%q = çerçeve numarası, %v = olay numarası,%T =HH:MM:SS, \\n = yeni satır"
 
 #: motioneye/templates/main.html:645
 msgid "Teksta Skalo"
@@ -865,7 +865,7 @@ msgstr "dosya adı şablonu…"
 
 #: motioneye/templates/main.html:749
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "Görüntü dosyaları (JPEG) için ad şablonunu tanımlar; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl,%%m = ay,%%d = gün,%%H = saat,%%M = dakika,%%S = saniye,%%q = çerçeve numarası, %%v = olay numarası, / = alt dizin."
+msgstr "Görüntü dosyaları (JPEG) için ad şablonunu tanımlar; aşağıdaki özel belirteçler kabul edilir: %Y = yıl,%m = ay,%d = gün,%H = saat,%M = dakika,%S = saniye,%q = çerçeve numarası, %v = olay numarası, / = alt dizin."
 
 #: motioneye/templates/main.html:752
 msgid "Bildkvalito"
@@ -995,7 +995,7 @@ msgstr "Film Dosya Adı"
 
 #: motioneye/templates/main.html:818
 msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "Film dosyalarının ad şablonunu tanımlar; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl,%%m = ay,%%d = gün,%%H = saat,%%M = dakika,%%S = saniye,%%q = çerçeve numarası, %%v = olay numarası, / = alt dizin."
+msgstr "Film dosyalarının ad şablonunu tanımlar; aşağıdaki özel belirteçler kabul edilir: %Y = yıl,%m = ay,%d = gün,%H = saat,%M = dakika,%S = saniye,%q = çerçeve numarası, %v = olay numarası, / = alt dizin."
 
 #: motioneye/templates/main.html:821
 msgid "Rekta kopia filmeto"
@@ -1115,7 +1115,7 @@ msgstr "Işık değişikliklerinin tespiti"
 
 #: motioneye/templates/main.html:951
 msgid "Difinas la procenton de la bildo, kiu bezonas ŝanĝi, por ke la evento estu traktata kiel subita luma ŝanĝo anstataŭ moviĝo (0% malebligas la funkcion)."
-msgstr "Olayın hareket yerine ani bir ışık değişimi olarak değerlendirilmesi için değişmesi gereken görüntünün yüzdesini tanımlar (0%%, özelliği devre dışı bırakır)."
+msgstr "Olayın hareket yerine ani bir ışık değişimi olarak değerlendirilmesi için değişmesi gereken görüntünün yüzdesini tanımlar (0%, özelliği devre dışı bırakır)."
 
 #: motioneye/templates/main.html:954
 msgid "Makula filtrilo"
@@ -1392,7 +1392,7 @@ msgstr "Örneğin. http://ornek.com/sciigi/"
 
 #: motioneye/templates/main.html:1138
 msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "Hareket algılandığında istenecek URL; aşağıdaki özel kısayollar kabul edilir: %%Y = yıl, %%m = ay, %%d = gün, %%H = saat, %%M = dakika, %%S = saniye, %%q = çerçeve numarası , %%v = rastgele sayı"
+msgstr "Hareket algılandığında istenecek URL; aşağıdaki özel kısayollar kabul edilir: %Y = yıl, %m = ay, %d = gün, %H = saat, %M = dakika, %S = saniye, %q = çerçeve numarası , %v = rastgele sayı"
 
 #: motioneye/templates/main.html:1150 motioneye/templates/main.html:1195
 msgid "La HTTP-metodo por uzi kiam vi petas URL (la donitaj URL-parametroj estos transdonitaj kiel indikite ĉi tie)."
@@ -1416,7 +1416,7 @@ msgstr "emret…"
 
 #: motioneye/templates/main.html:1163
 msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "Hareket algılandığında çalıştırılacak komut; birden fazla komut iki nokta üst üste işaretiyle ayrılabilir; komutlarda noktalı virgül kullanmayın; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl, %%m = ay, %%d = gün, %%H = saat, %%M = dakika, %%S = saniye, %%q = çerçeve numarası , %%v = rastgele sayı"
+msgstr "Hareket algılandığında çalıştırılacak komut; birden fazla komut iki nokta üst üste işaretiyle ayrılabilir; komutlarda noktalı virgül kullanmayın; aşağıdaki özel belirteçler kabul edilir: %Y = yıl, %m = ay, %d = gün, %H = saat, %M = dakika, %S = saniye, %q = çerçeve numarası , %v = rastgele sayı"
 
 #: motioneye/templates/main.html:1203
 msgid "Ebligu ĉi tion, se vi volas lanĉi komandon ĉiufoje kiam movada evento finiĝos."
@@ -1424,7 +1424,7 @@ msgstr "Bir hareket olayı her tamamlandığında bir komut çalıştırmak isti
 
 #: motioneye/templates/main.html:1208
 msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-msgstr "Bir hareket olayı sona erdiğinde başlatılacak komut; birden fazla komut iki nokta üst üste işaretiyle ayrılabilir; komutlarla nokta kompozisyonları kullanmayın; aşağıdaki özel belirteçler kabul edilir: %%Y = yıl, %%m = ay, %%d = tarih, %%H = saat, %%M = dakika, %%S = saniye, %%q = çerçeve numarası."
+msgstr "Bir hareket olayı sona erdiğinde başlatılacak komut; birden fazla komut iki nokta üst üste işaretiyle ayrılabilir; komutlarla nokta kompozisyonları kullanmayın; aşağıdaki özel belirteçler kabul edilir: %Y = yıl, %m = ay, %d = tarih, %H = saat, %M = dakika, %S = saniye, %q = çerçeve numarası."
 
 #: motioneye/templates/main.html:1218
 msgid "Ebligu ĉi tion, se vi volas difini ĉiusemajnan horaron por detekto de moviĝo."

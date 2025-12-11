@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-11 05:01+0000\n"
-"PO-Revision-Date: 2025-12-10 03:06+0000\n"
-"Last-Translator: Zhang Wei <Zhang@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2025-12-11 21:09+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -661,7 +661,7 @@ msgstr "z.B. http://example.com/notify/"
 
 #: motioneye/templates/main.html:570
 msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-msgstr "URL, die aufgerufen werden soll, wenn eine Bewegung erkannt wird; Die folgenden speziellen Platzhalter werden akzeptiert: %%Y = Jahr, %%m = Monat, %%d = Tag, %%H = Stunde, %%M = Minute, %%S = Sekunde, %%q = Bildnummer, %%v = Ereignisnummer, %%f = Dateipfad"
+msgstr "URL, die aufgerufen werden soll, wenn eine Bewegung erkannt wird; Die folgenden speziellen Platzhalter werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Bildnummer, %v = Ereignisnummer, %f = Dateipfad"
 
 #: motioneye/templates/main.html:573 motioneye/templates/main.html:1141
 #: motioneye/templates/main.html:1186
@@ -690,7 +690,7 @@ msgstr "Befehl…"
 
 #: motioneye/templates/main.html:595
 msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-msgstr "Ein Befehl, der nach dem Erstellen einer Multimediadatei ausgeführt werden soll. Mehrere Befehle können durch ein Semikolon getrennt werden. Verwenden Sie kein Semikolon in Befehlen. Die folgenden speziellen Token werden akzeptiert: %%Y = Jahr, %%m = Monat, %%d = Tag, %%H = Stunde, %%M = Minute, %%S = Sekunde, %%q = Rahmennummer, %%v = Ereignisnummer, %%f = Dateipfad"
+msgstr "Ein Befehl, der nach dem Erstellen einer Multimediadatei ausgeführt werden soll. Mehrere Befehle können durch ein Semikolon getrennt werden. Verwenden Sie kein Semikolon in Befehlen. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer, %v = Ereignisnummer, %f = Dateipfad"
 
 #: motioneye/templates/main.html:605
 msgid "elektu kiajn informojn montras sur la kaptitaj kadroj"
@@ -727,7 +727,7 @@ msgstr "Benutzerdefinierter Text…"
 
 #: motioneye/templates/main.html:625
 msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "Setze einen benutzerdefinierten linken Text. Die folgenden speziellen Token werden akzeptiert: %%Y = Jahr, %%m = Monat, %%d = Tag, %%H = Stunde, %%M = Minute, %%S = Sekunde, %%q = Rahmennummer, %%v = Ereignisnummer, %%T = HH: MM: SS, \\n = neue Zeile"
+msgstr "Setze einen benutzerdefinierten linken Text. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer, %v = Ereignisnummer, %T = HH: MM: SS, \\n = neue Zeile"
 
 #: motioneye/templates/main.html:628
 msgid "Dekstra Teksto"
@@ -739,7 +739,7 @@ msgstr "Legt den Text fest, der in den Videos und Bildern in der unteren rechten
 
 #: motioneye/templates/main.html:642
 msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "Setze einen benutzerdefinierten rechten Text. Die folgenden speziellen Token werden akzeptiert: %%Y = Jahr, %%m = Monat, %%d = Tag, %%H = Stunde, %%M = Minute, %%S = Sekunde, %%q = Rahmennummer, %%v = Ereignisnummer, %%T = HH: MM: SS, \\n = neue Zeile"
+msgstr "Setze einen benutzerdefinierten rechten Text. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer, %v = Ereignisnummer, %T = HH: MM: SS, \\n = neue Zeile"
 
 #: motioneye/templates/main.html:645
 msgid "Teksta Skalo"
@@ -859,7 +859,7 @@ msgstr "Dateiname Vorlage…"
 
 #: motioneye/templates/main.html:749
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "Definiert die Namensvorlage für JPEG-Dateien. Die folgenden speziellen Token werden akzeptiert: %%Y = Jahr, %%m = Monat, %%d = Tag, %%H = Stunde, %%M = Minute, %%S = Sekunde, %%q = Rahmennummer, %%v = Ereignisnummer, / = Unterverzeichnis."
+msgstr "Definiert die Namensvorlage für JPEG-Dateien. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer, %v = Ereignisnummer, / = Unterverzeichnis."
 
 #: motioneye/templates/main.html:752
 msgid "Bildkvalito"
@@ -989,7 +989,7 @@ msgstr "Name der Filmdatei"
 
 #: motioneye/templates/main.html:818
 msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "Definiert die Namensvorlage für die Filmdateien. Die folgenden speziellen Token werden akzeptiert: %%Y = Jahr, %%m = Monat, %%d = Tag, %%H = Stunde, %%M = Minute, %%S = Sekunde, %%q = Rahmennummer, %%v = Ereignisnummer, / = Unterverzeichnis."
+msgstr "Definiert die Namensvorlage für die Filmdateien. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer, %v = Ereignisnummer, / = Unterverzeichnis."
 
 #: motioneye/templates/main.html:821
 msgid "Rekta kopia filmeto"
@@ -1109,7 +1109,7 @@ msgstr "Erkennung von Lichtveränderungen"
 
 #: motioneye/templates/main.html:951
 msgid "Difinas la procenton de la bildo, kiu bezonas ŝanĝi, por ke la evento estu traktata kiel subita luma ŝanĝo anstataŭ moviĝo (0% malebligas la funkcion)."
-msgstr "Definiert den Prozentsatz des Bildes, der geändert werden muss, damit das Ereignis als plötzliche Lichtänderung anstelle von Bewegung behandelt wird (0 %% deaktiviert die Funktion)."
+msgstr "Definiert den Prozentsatz des Bildes, der geändert werden muss, damit das Ereignis als plötzliche Lichtänderung anstelle von Bewegung behandelt wird (0% deaktiviert die Funktion)."
 
 #: motioneye/templates/main.html:954
 msgid "Makula filtrilo"
@@ -1386,7 +1386,7 @@ msgstr "z.B. http://example.com/search/"
 
 #: motioneye/templates/main.html:1138
 msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "URL, die angefordert werden soll, wenn eine Bewegung erkannt wird; Die folgenden speziellen Verknüpfungen werden akzeptiert: %% Y = Jahr, %% m = Monat, %% d = Tag, %% H = Stunde, %% M = Minute, %% S = Sekunde, %% q = Bildnummer , %% v = Ereignisnummer"
+msgstr "URL, die angefordert werden soll, wenn eine Bewegung erkannt wird; Die folgenden speziellen Verknüpfungen werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Bildnummer , %v = Ereignisnummer"
 
 #: motioneye/templates/main.html:1150 motioneye/templates/main.html:1195
 msgid "La HTTP-metodo por uzi kiam vi petas URL (la donitaj URL-parametroj estos transdonitaj kiel indikite ĉi tie)."
@@ -1410,7 +1410,7 @@ msgstr "Befehl…"
 
 #: motioneye/templates/main.html:1163
 msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "Befehl, der gestartet werden soll, wenn eine Bewegung erkannt wird; Mehrere Befehle können durch einen Doppelpunkt getrennt werden. Verwenden Sie keine Semikolons mit Befehlen. Die folgenden speziellen Token werden akzeptiert: %% Y = Jahr, %% m = Monat, %% d = Tag, %% H = Stunde, %% M = Minute, %% S = Sekunde, %% q = Rahmennummer , %% v = Ereignisnummer"
+msgstr "Befehl, der gestartet werden soll, wenn eine Bewegung erkannt wird; Mehrere Befehle können durch einen Doppelpunkt getrennt werden. Verwenden Sie keine Semikolons mit Befehlen. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Tag, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer , %v = Ereignisnummer"
 
 #: motioneye/templates/main.html:1203
 msgid "Ebligu ĉi tion, se vi volas lanĉi komandon ĉiufoje kiam movada evento finiĝos."
@@ -1418,7 +1418,7 @@ msgstr "Aktivieren Sie diese Option, wenn Sie am Ende jedes Bewegungsereignisses
 
 #: motioneye/templates/main.html:1208
 msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-msgstr "Befehl, der gestartet werden soll, wenn das Bewegungsereignis endet; Mehrere Befehle können durch einen Doppelpunkt getrennt werden. Verwenden Sie keine Dotcoms mit Befehlen. Die folgenden speziellen Token werden akzeptiert: %% Y = Jahr, %% m = Monat, %% d = Datum, %% H = Stunde, %% M = Minute, %% S = Sekunde, %% q = Rahmennummer."
+msgstr "Befehl, der gestartet werden soll, wenn das Bewegungsereignis endet; Mehrere Befehle können durch einen Doppelpunkt getrennt werden. Verwenden Sie keine Dotcoms mit Befehlen. Die folgenden speziellen Token werden akzeptiert: %Y = Jahr, %m = Monat, %d = Datum, %H = Stunde, %M = Minute, %S = Sekunde, %q = Rahmennummer."
 
 #: motioneye/templates/main.html:1218
 msgid "Ebligu ĉi tion, se vi volas difini ĉiusemajnan horaron por detekto de moviĝo."

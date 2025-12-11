@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-11 05:01+0000\n"
-"PO-Revision-Date: 2025-12-10 03:06+0000\n"
-"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
+"PO-Revision-Date: 2025-12-11 21:09+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -755,7 +755,7 @@ msgstr "pl.: //example.com/notify/"
 #: motioneye/templates/main.html:570
 #, fuzzy
 msgid "URL por transdoni kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%f = dosiera vojo"
-msgstr "Mozgás észlelésekor továbbítandó URL; a következő speciális rövidítések elfogadottak: %%Y = év, %%m = hónap, %%d = nap, %%H = óra, %%M = perc, %%S = másodperc, %%q = képkocka szám, %%v = esemény szám, %%f = fájl elérési útja"
+msgstr "Mozgás észlelésekor továbbítandó URL; a következő speciális rövidítések elfogadottak: %Y = év, %m = hónap, %d = nap, %H = óra, %M = perc, %S = másodperc, %q = képkocka szám, %v = esemény szám, %f = fájl elérési útja"
 
 #: motioneye/templates/main.html:573 motioneye/templates/main.html:1141
 #: motioneye/templates/main.html:1186
@@ -791,7 +791,7 @@ msgstr "rend…"
 #: motioneye/templates/main.html:595
 #, fuzzy
 msgid "Komando por esti plenumita post la kreo de plurmedia dosiero. Pluraj komandoj povas esti apartigitaj per punktoknomo; ne uzu punktoknomo en komandojn; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadra numero , %v = okaza numero, %f = dosiera vojo"
-msgstr "Multimédiás fájl létrehozása után végrehajtandó parancs. Több parancsot pontosvesszővel lehet elválasztani; a parancsokon belül ne használjon pontosvesszőt! A következő speciális tokenek elfogadottak: %%Y = év, %%m = hónap, %%d = nap, %%H = óra, %%M = perc, %%S = másodperc, %%q = képkocka szám, %%v = esemény szám, %%f = fájl elérési útja"
+msgstr "Multimédiás fájl létrehozása után végrehajtandó parancs. Több parancsot pontosvesszővel lehet elválasztani; a parancsokon belül ne használjon pontosvesszőt! A következő speciális tokenek elfogadottak: %Y = év, %m = hónap, %d = nap, %H = óra, %M = perc, %S = másodperc, %q = képkocka szám, %v = esemény szám, %f = fájl elérési útja"
 
 #: motioneye/templates/main.html:605
 #, fuzzy
@@ -837,7 +837,7 @@ msgstr "saját szöveg…"
 #: motioneye/templates/main.html:625
 #, fuzzy
 msgid "Difinas kutimon maldekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "Meghatározza a balra igazított szövegre vonatkozó egyéni beállítást; a következő speciális tokenek elfogadottak: %%Y = év, %%m = hónap, %%d = nap, %%H = óra, %%M = perc, %%S = másodperc, %%q = képkocka szám, %%v = esemény szám, %%T = HH:MM:SS, \\n = új sor"
+msgstr "Meghatározza a balra igazított szövegre vonatkozó egyéni beállítást; a következő speciális tokenek elfogadottak: %Y = év, %m = hónap, %d = nap, %H = óra, %M = perc, %S = másodperc, %q = képkocka szám, %v = esemény szám, %T = HH:MM:SS, \\n = új sor"
 
 #: motioneye/templates/main.html:628
 #, fuzzy
@@ -852,7 +852,7 @@ msgstr "Kijavította a szöveget a filmeken és a képeken, az alsó jobb sarkon
 #: motioneye/templates/main.html:642
 #, fuzzy
 msgid "Difinas kutimon dekstran tekston; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero,%T = HH:MM:SS, \\n = nova linio"
-msgstr "Meghatározza a jobb oldali szöveg formátumát; a következő speciális tokenek elfogadottak: %%Y = év, %%m = hónap, %%d = nap, %%H = óra, %%M = perc, %%S = másodperc, %%q = képkocka szám, %%v = esemény szám, %%T = HH:MM:SS, \\n = új sor"
+msgstr "Meghatározza a jobb oldali szöveg formátumát; a következő speciális tokenek elfogadottak: %Y = év, %m = hónap, %d = nap, %H = óra, %M = perc, %S = másodperc, %q = képkocka szám, %v = esemény szám, %T = HH:MM:SS, \\n = új sor"
 
 #: motioneye/templates/main.html:645
 #, fuzzy
@@ -1002,7 +1002,7 @@ msgstr "fájlnév…"
 #: motioneye/templates/main.html:749
 #, fuzzy
 msgid "Difinas la nomon ŝablonon por bilddosieroj (JPEG); la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "Meghatározza a képfájlok (JPEG) névadási sablonját; a következő speciális tokenek elfogadottak: %%Y = év, %%m = hónap, %%d = nap, %%H = óra, %%M = perc, %%S = másodperc, %%q = képkocka szám, %%v = esemény szám, / = alkönyvtár."
+msgstr "Meghatározza a képfájlok (JPEG) névadási sablonját; a következő speciális tokenek elfogadottak: %Y = év, %m = hónap, %d = nap, %H = óra, %M = perc, %S = másodperc, %q = képkocka szám, %v = esemény szám, / = alkönyvtár."
 
 #: motioneye/templates/main.html:752
 #, fuzzy
@@ -1163,7 +1163,7 @@ msgstr "Film Dosier név"
 #: motioneye/templates/main.html:818
 #, fuzzy
 msgid "Difinas la nomon ŝablonon por por la filmdosieroj; la sekvaj specialaj tokensoj estas akceptitaj:%Y = jaro,%m = monato,%d = tago,%H = horo,%M = minuto,%S = sekundo,%q = kadro numero,%v = evento numero, / = subdosierujo."
-msgstr "Meghatározza a videofájlok névadási sablonját; a következő speciális tokenek elfogadottak: %%Y = év, %%m = hónap, %%d = nap, %%H = óra, %%M = perc, %%S = másodperc, %%q = képkocka szám, %%v = esemény szám, / = alkönyvtár."
+msgstr "Meghatározza a videofájlok névadási sablonját; a következő speciális tokenek elfogadottak: %Y = év, %m = hónap, %d = nap, %H = óra, %M = perc, %S = másodperc, %q = képkocka szám, %v = esemény szám, / = alkönyvtár."
 
 #: motioneye/templates/main.html:821
 #, fuzzy
@@ -1313,7 +1313,7 @@ msgstr "A fényváltások észlelése"
 #: motioneye/templates/main.html:951
 #, fuzzy
 msgid "Difinas la procenton de la bildo, kiu bezonas ŝanĝi, por ke la evento estu traktata kiel subita luma ŝanĝo anstataŭ moviĝo (0% malebligas la funkcion)."
-msgstr "Definiálja a változáshoz szükséges kép százalékos arányát, hogy az eseményt a mozgás helyett hirtelen fényváltásként kell kezelni (0%% megakadályozza a funkciót."
+msgstr "Definiálja a változáshoz szükséges kép százalékos arányát, hogy az eseményt a mozgás helyett hirtelen fényváltásként kell kezelni (0% megakadályozza a funkciót."
 
 #: motioneye/templates/main.html:954
 #, fuzzy
@@ -1659,7 +1659,7 @@ msgstr "pl.: http: // példa.com/ differenciálás/"
 #: motioneye/templates/main.html:1138
 #, fuzzy
 msgid "URL por esti petita kiam moviĝo estas detektita; la sekvaj specialaj ŝparvojoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "Mozgás észlelésekor lekérdezett URL; a következő speciális rövidítések elfogadottak: %%Y = év, %%m = hónap, %%d = nap, %%H = óra, %%M = perc, %%S = másodperc, %%q = képkocka szám, %%v = véletlenszerű szám"
+msgstr "Mozgás észlelésekor lekérdezett URL; a következő speciális rövidítések elfogadottak: %Y = év, %m = hónap, %d = nap, %H = óra, %M = perc, %S = másodperc, %q = képkocka szám, %v = véletlenszerű szám"
 
 #: motioneye/templates/main.html:1150 motioneye/templates/main.html:1195
 #, fuzzy
@@ -1689,7 +1689,7 @@ msgstr "parancs…"
 #: motioneye/templates/main.html:1163
 #, fuzzy
 msgid "Komando por esti lanĉa kiam moviĝo estas detektita; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokomojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = tago, %H = horo, %M = minuto, %S = sekundo, %q = kadro-numero, %v = okaza numero"
-msgstr "Mozgás észlelésekor végrehajtandó parancs; Több parancs kettősponttal választható el; ne használjon pontosvesszőt a parancsokban; a következő speciális tokenek elfogadottak: %%Y = év, %%m = hónap, %%d = nap, %%H = óra, %%M = perc, %%S = másodperc, %%q = képkocka szám, %%v = véletlenszerű szám"
+msgstr "Mozgás észlelésekor végrehajtandó parancs; Több parancs kettősponttal választható el; ne használjon pontosvesszőt a parancsokban; a következő speciális tokenek elfogadottak: %Y = év, %m = hónap, %d = nap, %H = óra, %M = perc, %S = másodperc, %q = képkocka szám, %v = véletlenszerű szám"
 
 #: motioneye/templates/main.html:1203
 #, fuzzy
@@ -1699,7 +1699,7 @@ msgstr "Alkalmazza ezt, ha minden alkalommal szeretne parancsot indítani, amiko
 #: motioneye/templates/main.html:1208
 #, fuzzy
 msgid "Komando por esti lanĉa kiam moviĝokazaĵo finiĝas; multnombraj komandoj povas esti apartigitaj per dupunkto; ne uzu punktokompojn per komandoj; la sekvaj specialaj tokensoj estas akceptitaj: %Y = jaro, %m = monato, %d = dato, %H = horo, %M = minuto, %S = sekundo, %q = kadra nombro."
-msgstr "A mozgás esemény végeztével elindítandó parancs; Több parancsot pontosvesszővel lehet elválasztani; ne használjon vesszőt a parancsokban; a következő speciális tokenek elfogadottak: %%Y = év, %%m = hónap, %%d = dátum, %%H = óra, %%M = perc, %%S = másodperc, %%q = képkocka szám."
+msgstr "A mozgás esemény végeztével elindítandó parancs; Több parancsot pontosvesszővel lehet elválasztani; ne használjon vesszőt a parancsokban; a következő speciális tokenek elfogadottak: %Y = év, %m = hónap, %d = dátum, %H = óra, %M = perc, %S = másodperc, %q = képkocka szám."
 
 #: motioneye/templates/main.html:1218
 #, fuzzy
