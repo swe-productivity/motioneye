@@ -3,20 +3,23 @@
 # This file is distributed under the same license as the PACKAGE package.
 # el97 <erik1337.el@gmail.com>, 2023.
 # Erik <erik1337.el@gmail.com>, 2023.
+# Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-30 22:46+0000\n"
-"PO-Revision-Date: 2023-09-15 13:51+0000\n"
-"Last-Translator: Erik <erik1337.el@gmail.com>\n"
+"POT-Creation-Date: 2025-12-11 05:01+0000\n"
+"PO-Revision-Date: 2025-12-10 03:05+0000\n"
+"Last-Translator: LibreTranslate <noreply-mt-libretranslate@weblate.org>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: motioneye/static/js/main.js:610
 msgid "specialaj signoj ne rajtas en pasvorto"
@@ -199,20 +202,23 @@ msgid "Sciiga retpoŝto fiaskis:"
 msgstr "Notifikations email misslyckades:"
 
 #: motioneye/static/js/main.js:3122
+#, fuzzy
 msgid "Notification email succeeded!"
-msgstr ""
+msgstr "E-posten tittar på!"
 
 #: motioneye/static/js/main.js:3138
 msgid "Certiĝu, ke ĉiuj agordaj opcioj estas validaj!"
 msgstr "Kontrollera att alla konfigurationsalternativ är korrekta!"
 
 #: motioneye/static/js/main.js:3154
+#, fuzzy
 msgid "Sciiga Telegramo fiaskis:"
-msgstr ""
+msgstr "En branding Telegram misslyckades:"
 
 #: motioneye/static/js/main.js:3157
+#, fuzzy
 msgid "Sciiga Telegramo sukcesis!"
-msgstr ""
+msgstr "En branding Telegram lyckades!"
 
 #: motioneye/static/js/main.js:3193
 msgid "Aliro al retdividado fiaskis: "
@@ -227,20 +233,23 @@ msgid "Ĉu vere forigi ĉi tiun dosieron?"
 msgstr "Vill du verkligen ta bort denna fil?"
 
 #: motioneye/static/js/main.js:3244
+#, fuzzy
 msgid "Ĉu vere forigi ĉiujn bildojn de \"%(group)s\"?"
-msgstr ""
+msgstr "Blir du verkligen av med alla bilder av \"%(group)s\"?"
 
 #: motioneye/static/js/main.js:3247
 msgid "Ĉu vere forigi ĉiujn filmojn de \"%(group)s\"?"
-msgstr ""
+msgstr "Blir du verkligen av med alla filmer av \"%(group)s\"?"
 
 #: motioneye/static/js/main.js:3252
+#, fuzzy
 msgid "Ĉu vere forigi ĉiujn ne grupigitajn bildojn?"
-msgstr ""
+msgstr "Blir du verkligen av med alla bilder?"
 
 #: motioneye/static/js/main.js:3255
+#, fuzzy
 msgid "Ĉu vere forigi ĉiujn ne grupigitajn filmojn?"
-msgstr ""
+msgstr "Blir du verkligen av med alla filmer?"
 
 #: motioneye/static/js/main.js:3369
 msgid "aldonadi kameraon..."
@@ -276,8 +285,9 @@ msgid "Reto eraro okazis."
 msgstr "Ett nätverksfel inträffade."
 
 #: motioneye/static/js/main.js:3674
+#, fuzzy
 msgid "Malkodado-eraro aŭ neprogresinta funkcio."
-msgstr ""
+msgstr "Avkoda fel eller oprogressiv funktion."
 
 #: motioneye/static/js/main.js:3677
 msgid "Formato ne subtenata aŭ neatingebla/netaŭga por ludado."
@@ -300,8 +310,9 @@ msgid "ludi"
 msgstr "spela"
 
 #: motioneye/static/js/main.js:3696
+#, fuzzy
 msgid "ludi * 5 kaj enĉenigi"
-msgstr ""
+msgstr "spela 5 och ange"
 
 #: motioneye/static/js/main.js:3701
 msgid "sekva bildo"
@@ -456,8 +467,9 @@ msgid "Elektu la intervalon de tempo inter du elektitaj bildoj."
 msgstr "välj intervall för tiden mellan två valda bilder."
 
 #: motioneye/static/js/main.js:4225
+#, fuzzy
 msgid "Filmo framfrekvenco"
-msgstr ""
+msgstr "Filmramfrekvens"
 
 #: motioneye/static/js/main.js:4227
 msgid "Elektu kiom rapide vi volas ke la akselita video estu."
@@ -512,8 +524,9 @@ msgid "malfermaj bildoj retumilo"
 msgstr "öppna bildbläddrare"
 
 #: motioneye/static/js/main.js:4750
+#, fuzzy
 msgid "malferma videoj retumilo"
-msgstr ""
+msgstr "öppna video webbläsare"
 
 #: motioneye/static/js/main.js:4751
 msgid "agordi ĉi tiun kameraon"
@@ -532,16 +545,18 @@ msgid "enigu pozitivan nombron"
 msgstr "Ange ett positivt nummer"
 
 #: motioneye/static/js/ui.js:505
+#, fuzzy
 msgid "enigu pozitivan entjeran nombron"
-msgstr ""
+msgstr "Ange ett positivt nummer"
 
 #: motioneye/static/js/ui.js:507
 msgid "enigu nombron"
 msgstr "Ange ett nummer"
 
 #: motioneye/static/js/ui.js:509
+#, fuzzy
 msgid "enigu entjeran nombron"
-msgstr ""
+msgstr "gå med i ett heltalsnummer"
 
 #: motioneye/static/js/ui.js:512
 msgid " inter "
@@ -584,8 +599,9 @@ msgid "Bone"
 msgstr "Okej"
 
 #: l10n/v4l2.js:4
+#, fuzzy
 msgid "Auto Exposure"
-msgstr ""
+msgstr "Auto exponering"
 
 #: l10n/v4l2.js:5
 msgid "Backlight Compensation"
@@ -600,32 +616,39 @@ msgid "Contrast"
 msgstr "Kontrast"
 
 #: l10n/v4l2.js:8
+#, fuzzy
 msgid "Exposure Absolute"
-msgstr ""
+msgstr "Exponering Absolut"
 
 #: l10n/v4l2.js:9
+#, fuzzy
 msgid "Exposure Auto"
-msgstr ""
+msgstr "Exponering Auto"
 
 #: l10n/v4l2.js:10
+#, fuzzy
 msgid "Exposure Auto Priority"
-msgstr ""
+msgstr "Exponering av auto prioritet"
 
 #: l10n/v4l2.js:11
+#, fuzzy
 msgid "Exposure Time Absolute"
-msgstr ""
+msgstr "Exponeringstid Absolut"
 
 #: l10n/v4l2.js:12
+#, fuzzy
 msgid "Focus Absolute"
-msgstr ""
+msgstr "Fokusera Absolut"
 
 #: l10n/v4l2.js:13
+#, fuzzy
 msgid "Focus Auto"
-msgstr ""
+msgstr "Fokusera Auto"
 
 #: l10n/v4l2.js:14
+#, fuzzy
 msgid "Gain"
-msgstr ""
+msgstr "Vinst"
 
 #: l10n/v4l2.js:15
 msgid "Gamma"
@@ -636,20 +659,24 @@ msgid "Hue"
 msgstr "Hue"
 
 #: l10n/v4l2.js:17
+#, fuzzy
 msgid "Led1 Mode"
-msgstr ""
+msgstr "Lead 1-läge"
 
 #: l10n/v4l2.js:18
+#, fuzzy
 msgid "Led1 Frequency"
-msgstr ""
+msgstr "Led1 frekvens"
 
 #: l10n/v4l2.js:19
+#, fuzzy
 msgid "Pan Absolute"
-msgstr ""
+msgstr "Det Absoluta"
 
 #: l10n/v4l2.js:20
+#, fuzzy
 msgid "Power Line Frequency"
-msgstr ""
+msgstr "Kraftlinjefrekvensfrekvensfrekvensfrekvens"
 
 #: l10n/v4l2.js:21
 msgid "Saturation"
@@ -660,20 +687,20 @@ msgid "Sharpness"
 msgstr "Skärpa"
 
 #: l10n/v4l2.js:23
+#, fuzzy
 msgid "Tilt Absolute"
-msgstr ""
+msgstr "Tilt Absolut"
 
 #: l10n/v4l2.js:24
 msgid "White Balance Temperature"
 msgstr "Vitbalans temperatur"
 
 #: l10n/v4l2.js:25
+#, fuzzy
 msgid "White Balance Temperature Auto"
-msgstr ""
+msgstr "Vitbalans temperatur"
 
 #: l10n/v4l2.js:26
+#, fuzzy
 msgid "Zoom Absolute"
-msgstr ""
-
-#~ msgid "bone"
-#~ msgstr "okej"
+msgstr "Zoom Absolut"

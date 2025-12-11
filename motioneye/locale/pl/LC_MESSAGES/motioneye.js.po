@@ -3,12 +3,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 # nepozs <szopen@os.pl>, 2023.
 # Maksymilian Kłusek <123858.xyz@gmail.com>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-30 22:46+0000\n"
-"PO-Revision-Date: 2025-10-25 06:02+0000\n"
+"POT-Creation-Date: 2025-12-11 05:01+0000\n"
+"PO-Revision-Date: 2025-12-10 03:10+0000\n"
 "Last-Translator: Maksymilian Kłusek <123858.xyz@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/pl/>\n"
 "Language: pl\n"
@@ -16,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.14.1-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: motioneye/static/js/main.js:610
 msgid "specialaj signoj ne rajtas en pasvorto"
@@ -674,6 +675,3 @@ msgstr "Automatyczna temperatura barwowa balansu bieli"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Zbliżenie bezwzględne"
-
-#~ msgid "bone"
-#~ msgstr "OK"

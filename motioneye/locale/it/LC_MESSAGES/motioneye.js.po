@@ -4,12 +4,13 @@
 # Automatically generated, 2020.
 #
 # albanobattistella <albano_battistella@hotmail.com>, 2025.
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-30 22:46+0000\n"
-"PO-Revision-Date: 2025-08-11 00:01+0000\n"
+"POT-Creation-Date: 2025-12-11 05:01+0000\n"
+"PO-Revision-Date: 2025-12-10 03:08+0000\n"
 "Last-Translator: albanobattistella <albano_battistella@hotmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/it/>\n"
 "Language: it\n"
@@ -17,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: motioneye/static/js/main.js:610
 msgid "specialaj signoj ne rajtas en pasvorto"
@@ -675,14 +676,3 @@ msgstr "Temperatura di bilanciamento bianco automatico"
 #: l10n/v4l2.js:26
 msgid "Zoom Absolute"
 msgstr "Zoom assoluto"
-
-#~ msgid "bone"
-#~ msgstr "ok"
-
-#, fuzzy
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "fotocamera a schermo intero"
-
-#, fuzzy
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "Formato non supportato o altrimenti inutilizzabile / inutilizzabile per la riproduzione."

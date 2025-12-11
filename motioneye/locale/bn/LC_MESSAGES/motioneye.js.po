@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2020.
 #
+# MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-30 22:46+0000\n"
-"PO-Revision-Date: 2020-03-28 18:26+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2025-12-11 05:01+0000\n"
+"PO-Revision-Date: 2025-12-10 03:08+0000\n"
+"Last-Translator: MichaIng <micha@dietpi.com>\n"
+"Language-Team: Bengali <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/bn/>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #: motioneye/static/js/main.js:610
 #, fuzzy
@@ -163,17 +166,17 @@ msgstr "অপসারণের জন্য ক্যামেরা নেই
 #: motioneye/static/js/main.js:2866
 #, fuzzy
 msgid "Ĉu forigi kameraon "
-msgstr "ক্যামেরা সরাতে পারে"
+msgstr "ক্যামেরা সরাতে পারে "
 
 #: motioneye/static/js/main.js:2894
 #, fuzzy
 msgid "motionEye estas ĝisdatigita (aktuala versio: "
-msgstr "মোশনই আপডেট হয়েছে (বর্তমান সংস্করণ:"
+msgstr "মোশনই আপডেট হয়েছে (বর্তমান সংস্করণ: "
 
 #: motioneye/static/js/main.js:2897
 #, fuzzy
 msgid "Nova versio havebla: "
-msgstr "নতুন সংস্করণ উপলব্ধ:"
+msgstr "নতুন সংস্করণ উপলব্ধ: "
 
 #: motioneye/static/js/main.js:2897
 #, fuzzy
@@ -228,7 +231,7 @@ msgstr "কনফিগারেশন পুনরুদ্ধার করত�
 #: motioneye/static/js/main.js:3079
 #, fuzzy
 msgid "Aliri la alŝutan servon malsukcesis: "
-msgstr "আপলোড পরিষেবা অ্যাক্সেস ব্যর্থ হয়েছে:"
+msgstr "আপলোড পরিষেবা অ্যাক্সেস ব্যর্থ হয়েছে: "
 
 #: motioneye/static/js/main.js:3082
 #, fuzzy
@@ -241,8 +244,9 @@ msgid "Sciiga retpoŝto fiaskis:"
 msgstr "সংবাদ ইমেইল ব্যর্থ হয়েছে:"
 
 #: motioneye/static/js/main.js:3122
+#, fuzzy
 msgid "Notification email succeeded!"
-msgstr ""
+msgstr "নোটিফিকেশন ইমেইল সফল হয়েছে!"
 
 #: motioneye/static/js/main.js:3138
 #, fuzzy
@@ -262,7 +266,7 @@ msgstr "বিজ্ঞপ্তি টেলিগ্রাম সফল ছি
 #: motioneye/static/js/main.js:3193
 #, fuzzy
 msgid "Aliro al retdividado fiaskis: "
-msgstr "নেটওয়ার্ক ট্রান্সমিশন অ্যাক্সেস ব্যর্থ হয়েছে:"
+msgstr "নেটওয়ার্ক ট্রান্সমিশন অ্যাক্সেস ব্যর্থ হয়েছে: "
 
 #: motioneye/static/js/main.js:3196
 #, fuzzy
@@ -277,12 +281,12 @@ msgstr "সত্যিই এই ফাইলটি মুছবেন?"
 #: motioneye/static/js/main.js:3244
 #, fuzzy
 msgid "Ĉu vere forigi ĉiujn bildojn de \"%(group)s\"?"
-msgstr "সত্যিই \"%(group)s% (গ্রুপ) গুলি\" থেকে সমস্ত চিত্র মুছবেন?"
+msgstr "সত্যিই \"%(group)s\" (গ্রুপ) গুলি\" থেকে সমস্ত চিত্র মুছবেন?"
 
 #: motioneye/static/js/main.js:3247
 #, fuzzy
 msgid "Ĉu vere forigi ĉiujn filmojn de \"%(group)s\"?"
-msgstr "সত্যিই \"%(group)s% (গ্রুপ) গুলি\" থেকে সমস্ত চলচ্চিত্র মুছবেন?"
+msgstr "সত্যিই \"%(group)s\" (গ্রুপ) গুলি\" থেকে সমস্ত চলচ্চিত্র মুছবেন?"
 
 #: motioneye/static/js/main.js:3252
 #, fuzzy
@@ -353,7 +357,7 @@ msgstr "একটি অজানা ত্রুটি ঘটেছে।"
 #: motioneye/static/js/main.js:3683
 #, fuzzy
 msgid "Eraro : "
-msgstr "ত্রুটি:"
+msgstr "ত্রুটি: "
 
 #: motioneye/static/js/main.js:3688
 #, fuzzy
@@ -553,7 +557,7 @@ msgstr "30 মিনিট"
 #: motioneye/static/js/main.js:4219
 #, fuzzy
 msgid "horo"
-msgstr "এক ঘন্টা"
+msgstr "ঘণ্টা"
 
 #: motioneye/static/js/main.js:4222
 #, fuzzy
@@ -588,7 +592,7 @@ msgstr "একটি চলচ্চিত্র চলছে ..."
 #: motioneye/static/js/main.js:4513
 #, fuzzy
 msgid "Zipitaj"
-msgstr "Zipitaj"
+msgstr "জিপ করা"
 
 #: motioneye/static/js/main.js:4522
 #, fuzzy
@@ -603,12 +607,12 @@ msgstr "তাদের সব সরান"
 #: motioneye/static/js/main.js:4675
 #, fuzzy
 msgid "Bildoj prenitaj de "
-msgstr "ছবি তোলা"
+msgstr "ছবি তোলা "
 
 #: motioneye/static/js/main.js:4678
 #, fuzzy
 msgid "Filmoj registritaj de "
-msgstr "দ্বারা রেকর্ড করা ফিল্ম"
+msgstr "দ্বারা রেকর্ড করা ফিল্ম "
 
 #: motioneye/static/js/main.js:4746
 #, fuzzy
@@ -673,22 +677,22 @@ msgstr "একটি পূর্ণসংখ্যা প্রবেশ কর
 #: motioneye/static/js/ui.js:512
 #, fuzzy
 msgid " inter "
-msgstr "এর মধ্যে"
+msgstr " এর মধ্যে "
 
 #: motioneye/static/js/ui.js:512
 #, fuzzy
 msgid " kaj "
-msgstr "এবং"
+msgstr " এবং "
 
 #: motioneye/static/js/ui.js:515
 #, fuzzy
 msgid " pli ol "
-msgstr "এর চেয়েও বেশি"
+msgstr " এর চেয়েও বেশি "
 
 #: motioneye/static/js/ui.js:520
 #, fuzzy
 msgid " malpli ol "
-msgstr "এর চেয়ে কম"
+msgstr " এর চেয়ে কম "
 
 #: motioneye/static/js/ui.js:573
 #, fuzzy
@@ -834,15 +838,3 @@ msgstr "সাদা ভারসাম্য তাপমাত্রা অট
 #, fuzzy
 msgid "Zoom Absolute"
 msgstr "একেবারে জুম"
-
-#, fuzzy
-#~ msgid "bone"
-#~ msgstr "ঠিক আছে"
-
-#, fuzzy
-#~ msgid "plena ekrano kamerao"
-#~ msgstr "পূর্ণ স্ক্রিন ক্যামেরা"
-
-#, fuzzy
-#~ msgid "Formato ne subtenata aŭ alimaniere neuzebla / neuzebla por ludado."
-#~ msgstr "ফর্ম্যাটটি সমর্থিত নয় বা অন্যথায় খেলার জন্য অযোগ্য / অব্যর্থ।"
