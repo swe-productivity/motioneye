@@ -8,46 +8,42 @@
 # LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
 # MichaIng <micha@dietpi.com>, 2025.
+# shdw <weblate@assez.biz>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-12-11 05:01+0000\n"
-"PO-Revision-Date: 2025-12-11 21:09+0000\n"
-"Last-Translator: MichaIng <micha@dietpi.com>\n"
+"PO-Revision-Date: 2025-12-31 15:01+0000\n"
+"Last-Translator: shdw <weblate@assez.biz>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: motioneye/config.py:860
-#, fuzzy
 msgid "Device names are only allowed to contain alphanumerical characters, hyphen -, underscore _, plus +, and space"
-msgstr "Les appareils ne sont disponibles que pour les caractères alphanumériques, hyphène, souligné, plus +, et espace"
+msgstr "Le nom des appareils doit seulement contenir des caractères alphanumériques, tiret -, trait souligné _, plus +, et espace"
 
 #: motioneye/config.py:864
-#, fuzzy
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr "Les fichiers sont seulement équivalents aux caractères alphanumériques, aux parenthèses (), aux avants/, au point de vue, à l'hyphène-, dans l'espace, et à un sous-ensemble des attributs de mouvement spécifiés : %C %Y %m %d %H %M %S %q %v"
+msgstr "Le nom des fichiers doit seulement contenir des caractères alphanumériques, parenthèses (), barres obliques /, point., trait souligné_,  espace, et un sous-ensemble de variables prédéfinies : %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
-#, fuzzy
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
-msgstr "Les noms des répertoires sont seulement équivalents aux caractères alphanumériques, spatialement, parenthèses (), avants/, point, souligné et hyphène—"
+msgstr "Le nom des répertoires doit seulement contenir des caractères alphanumériques, espace, parenthèses (), barre oblique /, point., trait souligné_, et tiret -"
 
 #: motioneye/config.py:874
-#, fuzzy
 msgid "Email addresses are only allowed to contain alphanumerical characters, underscore _, plus +, dot ., at @, caret ^, tilde ~, angle brackets <>, hyphen -, and may be separated by comma, and space"
-msgstr "Le protocole de courriel n'est qu'un guide des caractères alphanumériques, soulignez, plus +, dot., at @, caret^, tilde ~, Nouns anglais , hyphen –, et peut être une amende par virgule, et spatialement"
+msgstr "Les adresses courriel doivent seulement contenir des caractères alphanumériques, trait souligné _, plus +, point ., arobas @, chapeau ^, tilde ~, crochets angulaires <>, tiret –, et peut être séparé par une virgule, et un espace"
 
 #: motioneye/config.py:879
-#, fuzzy
 msgid "URLs are not allowed to contain caret ^, semicolon ;, or apostrophe '"
-msgstr "Les URL ne doivent pas contenir de caret ^, de point-virgule ; ou d'apostrophe '"
+msgstr "Les URL peuvent seulement contenir un chapeau ^, un point-virgule ;, ou un apostrophe '"
 
 #: motioneye/server.py:232
 msgid "interrompa signalo ricevita, fermanta …"
