@@ -32,6 +32,17 @@ class MovieHandler(BaseHandler):
             camera_id = int(camera_id)
             if camera_id not in config.get_camera_ids():
                 raise HTTPError(404, 'no such camera')
+            # block access to admin-only cameras for non-admin users
+            camera_config = config.get_camera(camera_id)
+            if (
+                camera_config
+                and camera_config.get('@admin_only')
+                and self.current_user != 'admin'
+            ):
+                raise HTTPError(
+                    403,
+                    f'access denied to admin-only camera "{camera_id}" for operation "{op}"',
+                )
 
         if op == 'list':
             await self.list(camera_id)
