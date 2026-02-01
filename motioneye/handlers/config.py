@@ -164,6 +164,8 @@ class ConfigHandler(BaseHandler):
             elif utils.is_remote_camera(local_config):
                 # update the camera locally
                 local_config['@enabled'] = ui_config['enabled']
+                if ui_config.get('admin_only') is not None:
+                    local_config['@admin_only'] = bool(ui_config.get('admin_only'))
                 config.set_camera(camera_id, local_config)
 
                 if 'name' in ui_config:
@@ -172,6 +174,9 @@ class ConfigHandler(BaseHandler):
                         return on_finish(e, False)
 
                     ui_config['enabled'] = True  # never disable the camera remotely
+                    ui_config.pop(
+                        'admin_only', None
+                    )  # local-only setting do not send to remote
                     result = await remote.set_config(local_config, ui_config)
                     return on_finish(result, False)
 
@@ -394,6 +399,15 @@ class ConfigHandler(BaseHandler):
         else:
             resp.remote_ui_config['id'] = camera_id
 
+            # admin_only is a local-only flag and is never synced from the remote
+            local_config.setdefault('@admin_only', False)
+            admin_only = bool(local_config.get('@admin_only', False))
+
+            # do not add this camera to the list if admin-only, but reduce the async counter so listing can finish
+            if admin_only and self.current_user != 'admin':
+                length[0] -= 1
+                return self.check_finished(cameras, length)
+
             if not resp.remote_ui_config['enabled'] and local_config['@enabled']:
                 # if a remote camera is disabled, make sure it's disabled locally as well
                 local_config['@enabled'] = False
@@ -489,6 +503,13 @@ class ConfigHandler(BaseHandler):
             for camera_id in camera_ids:
                 local_config = config.get_camera(camera_id)
                 if local_config is None:
+                    continue
+                # hide admin-only cameras from non-admin users (local cameras only; remote handled after sync)
+                if (
+                    local_config.get('@admin_only')
+                    and self.current_user != 'admin'
+                    and not utils.is_remote_camera(local_config)
+                ):
                     continue
 
                 if utils.is_local_motion_camera(local_config):
