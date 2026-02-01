@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Marijn <168113859+Marijn0@users.noreply.github.com>, 2025.
+# Marijn <168113859+Marijn0@users.noreply.github.com>, 2025, 2026.
 # MichaIng <micha@dietpi.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-11 05:01+0000\n"
-"PO-Revision-Date: 2025-12-10 03:12+0000\n"
+"POT-Creation-Date: 2026-02-01 19:26+0000\n"
+"PO-Revision-Date: 2026-01-16 10:01+0000\n"
 "Last-Translator: Marijn <168113859+Marijn0@users.noreply.github.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/motioneye-project/motioneye-javascript/nl/>\n"
 "Language: nl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #: motioneye/static/js/main.js:610
 msgid "specialaj signoj ne rajtas en pasvorto"
@@ -74,7 +74,7 @@ msgstr "Hiermee worden alle oude mediabestanden in de map recursief verwijderd \
 
 #: motioneye/static/js/main.js:928
 msgid "\", ne nur tiuj kreitaj de motionEye!"
-msgstr "\", ook diegene die niet zijn aangemaakt door motionEye!"
+msgstr "\", ook degene die niet zijn aangemaakt door motionEye!"
 
 #: motioneye/static/js/main.js:994
 msgid "Ne eblas redakti la maskon sen valida kameraa bildo!"
@@ -94,7 +94,7 @@ msgstr "Netwerk locatie"
 
 #: motioneye/static/js/main.js:2639
 msgid "Via retumilo ne efektivigas ĉi tiun funkcion!"
-msgstr "Uw browser ondersteund niet deze functie!"
+msgstr "Uw browser ondersteunt deze functie niet!"
 
 #: motioneye/static/js/main.js:2655
 msgid "Apliki"
@@ -172,15 +172,15 @@ msgstr "Het eerder gedownloade back-upbestand."
 
 #: motioneye/static/js/main.js:2976
 msgid "Restaŭrigi Agordon"
-msgstr "Configuratie terugzetten"
+msgstr "Configuratie herstellen"
 
 #: motioneye/static/js/main.js:2988
 msgid "Restaŭriganta agordon ..."
-msgstr "Configuratie wordt teruggezet ..."
+msgstr "Configuratie herstellen ..."
 
 #: motioneye/static/js/main.js:2995
 msgid "La agordo restaŭrigis!"
-msgstr "De instellingen zijn teruggezet!"
+msgstr "De configuratie is hersteld!"
 
 #: motioneye/static/js/main.js:3005 motioneye/static/js/main.js:3024
 msgid "Malsukcesis restaŭri la agordon!"
