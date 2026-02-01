@@ -12,36 +12,34 @@
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
 # MichaIng <micha@dietpi.com>, 2025.
+# Isaki23 <isaquefonseca230706@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-12-11 05:01+0000\n"
-"PO-Revision-Date: 2025-12-11 21:09+0000\n"
-"Last-Translator: MichaIng <micha@dietpi.com>\n"
+"POT-Creation-Date: 2026-02-01 19:26+0000\n"
+"PO-Revision-Date: 2026-01-15 17:01+0000\n"
+"Last-Translator: Isaki23 <isaquefonseca230706@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.15.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: motioneye/config.py:860
-#, fuzzy
 msgid "Device names are only allowed to contain alphanumerical characters, hyphen -, underscore _, plus +, and space"
-msgstr "Os dispositivos só estão disponíveis para caracteres alfanuméricos, hífen, underscore, mais + e espacial"
+msgstr "Os dispositivos só estão disponíveis para caracteres alfanuméricos, hífen, sublinhado _, mais + e espaço"
 
 #: motioneye/config.py:864
-#, fuzzy
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr "Os arquivos são equivalentes apenas a caracteres alfanuméricos, parênteses (), forwards/, dot., underscore , hyphen-, espacialmente e um subconjunto de atributos de movimento especificadores: %C %Y %m %d %H %M %S %q %v"
+msgstr "Os arquivos são equivalentes apenas a caracteres alfanuméricos, parênteses (), barra/, ponto., sublinhado _, hífen-, espacialmente e um subconjunto de atributos de movimento especificadores: %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
-#, fuzzy
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
-msgstr "Os nomes dos diretórios são equivalentes apenas a caracteres alfanuméricos, espacialmente, parenthesis (), forwards/, dot., underscore e hífen—"
+msgstr "Os nomes dos diretórios são equivalentes apenas a caracteres alfanuméricos, espacialmente, parênteses(), barra/, ponto., sublinhado _ e hífen—"
 
 #: motioneye/config.py:874
 #, fuzzy

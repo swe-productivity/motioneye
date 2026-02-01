@@ -5,46 +5,42 @@
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
 # LibreTranslate <noreply-mt-libretranslate@weblate.org>, 2025.
 # MichaIng <micha@dietpi.com>, 2025.
+# Petr Šmejkal <pidler@pidler.cz>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-12-11 05:01+0000\n"
-"PO-Revision-Date: 2025-12-11 21:09+0000\n"
-"Last-Translator: MichaIng <micha@dietpi.com>\n"
+"POT-Creation-Date: 2026-02-01 19:26+0000\n"
+"PO-Revision-Date: 2026-01-23 19:49+0000\n"
+"Last-Translator: Petr Šmejkal <pidler@pidler.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/motioneye-project/motioneye-python-texts/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: motioneye/config.py:860
-#, fuzzy
 msgid "Device names are only allowed to contain alphanumerical characters, hyphen -, underscore _, plus +, and space"
-msgstr "Zařízení jsou k dispozici pouze pro alfanumerické znaky, hyphen, Underscore, plus +, a prostor"
+msgstr "V názvech zařízení jsou povoleny pouze alfanumerické znaky, spojovník (-), podtržítko (_), symbol plus (+) a mezera"
 
 #: motioneye/config.py:864
-#, fuzzy
 msgid "File names are only allowed to contain alphanumerical characters, parenthesis (), forward slash /, dot ., underscore _, hyphen -, space, and a subset of motion conversion specifiers: %C %Y %m %d %H %M %S %q %v"
-msgstr "Soubory jsou pouze ekvivalentní alfanumerickým znakům, parenthesis (), forwardy/, dot., podscore , hyphen-, prostorně, a podskupina specifikátorů pohybu: %C %Y %m %d %H %M %S %q %v"
+msgstr "Názvy souborů mohou obsahovat pouze alfanumerické znaky, závorky (), lomítko /, tečku ., podtržítko _, spojovník -, mezeru a vybrané specifikátory pro formátování: %C %Y %m %d %H %M %S %q %v"
 
 #: motioneye/config.py:869
-#, fuzzy
 msgid "Directory names are only allowed to contain alphanumerical characters, space, parenthesis (), forward slash /, dot ., underscore _, and hyphen -"
-msgstr "Názvy adresářů jsou pouze ekvivalentní alfanumerické postavy, prostorně, rodičovskéza (), forwardy/, dot., podscore a hyphen -"
+msgstr "V názvech adresářů jsou povoleny pouze alfanumerické znaky, mezera, závorky (), lomítko /, tečka ., podtržítko _ a spojovník -"
 
 #: motioneye/config.py:874
-#, fuzzy
 msgid "Email addresses are only allowed to contain alphanumerical characters, underscore _, plus +, dot ., at @, caret ^, tilde ~, angle brackets <>, hyphen -, and may be separated by comma, and space"
-msgstr "E-mailový protokol je pouze průvodce alfanumerickými znaky, podscore, plus +, dot., na @, Caret^, tilde ~, Anglická jména < >, hyphen – a může být v pořádku s comma, a prostorně"
+msgstr "E-mailové adresy mohou obsahovat pouze alfanumerické znaky, podtržítko _, plus +, tečku ., zavináč @, stříšku ^, vlnovku ~, lomené závorky <> a spojovník -. Jednotlivé adresy mohou být odděleny čárkou a mezerou"
 
 #: motioneye/config.py:879
-#, fuzzy
 msgid "URLs are not allowed to contain caret ^, semicolon ;, or apostrophe '"
-msgstr "URL nejsou známy jako \"Complier\" , polokolon; nebo apostrophe V"
+msgstr "Adresy URL nesmějí obsahovat stříšku ^, středník ; ani apostrof '"
 
 #: motioneye/server.py:232
 msgid "interrompa signalo ricevita, fermanta …"
@@ -83,14 +79,12 @@ msgid "wsswitch komenciĝis"
 msgstr "wsswitch zahájen"
 
 #: motioneye/server.py:442
-#, fuzzy
 msgid "taskoj komenciĝis"
-msgstr "úkoly začaly"
+msgstr "Úlohy spuštěny"
 
 #: motioneye/server.py:446
-#, fuzzy
 msgid "mjpg klienta rubo-kolektanto komenciĝis"
-msgstr "mjpg zákazník odpad sběratel začal"
+msgstr "Bylo zahájeno automatické čištění starých mjpg dat"
 
 #: motioneye/server.py:464
 msgid "servilo komenciĝis"
@@ -137,9 +131,8 @@ msgid "Preferoj"
 msgstr "Preference"
 
 #: motioneye/templates/main.html:133
-#, fuzzy
 msgid "Aranĝo Kolumnoj"
-msgstr "Sloupce"
+msgstr "Uspořádání sloupců"
 
 #: motioneye/templates/main.html:135
 #, fuzzy
